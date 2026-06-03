@@ -1,0 +1,8 @@
+.env
+.idea/
+.vscode/
+.conda
+.vllm-sr
+hf-cache/
+venv/
+**/__pycache__/

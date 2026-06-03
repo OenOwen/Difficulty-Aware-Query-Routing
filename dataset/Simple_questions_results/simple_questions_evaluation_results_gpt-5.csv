@@ -1,0 +1,1001 @@
+ID,Problem,Model Response,Extracted Answer,Ground Truth,Correct,Latency,Input Tokens,Output Tokens
+7,How many holes are in a standard golf course?,The answer is (B),B,B,True,1.75030795,74,80
+10,What color are the goalposts in American football?,The answer is (D),D,D,True,2.347586279,70,80
+9,What does 'radar' stand for?,The answer is (B),B,B,True,2.570062741,89,80
+8,What is the capital of Tunisia?,The answer is (D),D,D,True,2.751638662,72,144
+5,Who discovered America in 1492?,The answer is (C),C,C,True,2.910803059,77,144
+2,What is the capital of the United States?,The answer is (C),C,C,True,2.996618301,73,208
+6,Who wrote 'The Great Gatsby'?,The answer is (B),B,B,True,3.005736772,77,80
+4,What year was Snapchat founded?,The answer is (B),B,B,True,3.058747251,74,208
+1,What is the national sport of Japan?,The answer is (B),B,B,True,3.751223754,71,208
+11,What is matter made up of?,The answer is (B),B,B,True,2.437313333,75,144
+14,What is the term for animals that are active during the day?,The answer is (C),C,C,True,1.816904547,80,80
+13,What is the capital of Germany?,The answer is (D),D,D,True,2.179289949,67,144
+18,What is the capital of Cyprus?,The answer is (D),D,D,True,2.487833951,75,144
+19,What does 'OKR' stand for?,The answer is (C),C,C,True,1.968657224,81,80
+15,Which country has the longest coastline?,The answer is (B),B,B,True,2.996511345,67,208
+3,What is the name of the Greek goddess of love?,"Aphrodite is the Greek goddess of love, so the correct option is D.  The answer is (D)",D,D,True,6.902510591,73,162
+16,How many time zones does Russia span?,The answer is (C),C,C,True,4.246324636,72,272
+24,What is the name of Santa Claus's red-nosed reindeer?,The answer is (C),C,C,True,2.087727199,77,144
+17,What is a homophone?,"A homophone is a word that sounds the same as another word but has a different meaning (and often a different spelling), such as ""two,"" ""to,"" and ""too.""  The answer is (C)",C,C,True,5.204915459,85,309
+25,What is the name for the person who reviews and corrects a book?,The answer is (D),D,D,True,2.368842457,75,144
+23,What does 'HTTPS' mean?,The answer is (C),C,C,True,2.824296278,83,144
+26,What is the name of a group of owls?,The answer is (C),C,C,True,1.871384447,72,144
+27,What does an apostrophe (') indicate?,The answer is (B),B,B,True,2.331190208,76,144
+30,How many sides does an octagon have?,The answer is (C),C,C,True,2.311090911,73,144
+31,"In Greek mythology, who is the god of war?",The answer is (D),D,D,True,2.223971947,73,144
+22,Who was Queen of England during World War II?,The answer is (C),C,C,True,6.399433723,80,400
+28,What does 'NLP' stand for in AI?,The answer is (A),A,A,True,3.39617481,79,144
+21,Who was the first woman to win a Nobel Prize?,The answer is (B),B,B,True,7.107271856,80,144
+20,What does 'RGB' stand for?,The answer is (A),A,A,True,7.762797218,76,144
+34,What is the capital of Croatia?,The answer is (D),D,D,True,1.586518308,69,80
+29,What does 'terra' mean in Latin?,The answer is (C),C,C,True,4.005731306,71,272
+33,What animal is known as the 'King of the Jungle'?,The answer is (D),D,D,True,2.671963648,73,208
+32,What does 'sí' mean in Spanish?,"""sí"" means ""yes"" in Spanish. The answer is (D)",D,D,True,4.235863548,70,218
+40,What is the capital of Mongolia?,The answer is (D),D,D,True,1.408390094,76,80
+37,What is the name of the punctuation mark '?'?,The answer is (D),D,D,True,2.492118718,74,144
+35,What year was the International Space Station first launched?,The answer is (C),C,C,True,3.311018416,78,144
+36,What is the most densely populated country in the world?,The answer is (C),C,C,True,3.426667435,71,144
+41,What is the tallest mountain in the world?,The answer is (B),B,B,True,2.472368848,76,144
+38,What HTML tag is used to create a hyperlink?,The answer is (D),D,D,True,3.061116291,74,144
+42,What is the national flower of Scotland?,The answer is (B),B,B,True,2.751560448,71,144
+39,What does 'no' mean in Spanish?,The answer is (B),B,B,True,3.106525125,69,144
+46,What is the smallest country in the world?,The answer is (B),B,B,True,1.551412404,73,80
+43,What is the term for animals that live in trees?,The answer is (D),D,D,True,2.797567386,76,144
+51,What fruit grows on a vine?,The answer is (B),B,B,True,2.038750956,70,80
+49,What was the first country to give women the right to vote?,The answer is (D),D,D,True,2.378342505,74,144
+48,What is the center of our solar system?,The answer is (C),C,C,True,2.465615715,72,144
+47,What does 'download' mean?,The answer is (B),B,B,True,2.849100247,91,144
+45,What is the capital of Italy?,The answer is (D),D,D,True,3.909062683,67,272
+52,What is the name of the punctuation mark ':'?,The answer is (D),D,D,True,2.186775774,72,80
+44,What is the name of the scientist known for the theory of relativity?,The theory of relativity (special and general) was developed by Albert Einstein.  The answer is (D),D,D,True,4.700921916,80,288
+55,Who wrote the Declaration of Independence mainly?,The answer is (D),D,D,True,2.270956531,72,144
+57,What does 'forte' mean in music dynamics?,The answer is (D),D,D,True,2.380430482,72,144
+58,What is the name of the process of writing code?,The answer is (C),C,C,True,2.533740337,74,80
+53,What is the name of the trophy awarded to the winner of the Stanley Cup?,The answer is (A),A,A,True,4.337138601,83,272
+60,What does 'bold' text do?,The answer is (C),C,C,True,2.861343856,78,144
+61,What does the suffix '-ology' mean?,The answer is (B),B,B,True,1.965009804,74,80
+56,What is the capital of Ukraine?,The answer is (D),D,D,True,4.531885116,70,144
+62,What particles are found in the nucleus of an atom?,The answer is (D),D,D,True,2.245537738,83,80
+54,What does 'ISBN' stand for in books?,The answer is (A),A,A,True,4.995873586,84,144
+64,What is the name of the Egyptian goddess of cats?,"Bastet (also called Bast) is the ancient Egyptian goddess associated with cats. Isis is a goddess of magic and motherhood, Nut is the sky goddess, and Hathor is linked to love, music, and motherhood.  The answer is (C)",C,C,True,2.906253936,73,189
+12,What is the official language of Mexico?,The answer is (A),A,A,True,20.766853667,71,272
+63,What is the main ingredient in hummus?,The answer is (B),B,B,True,3.015330092,73,144
+67,What is a young dog called?,The answer is (D),D,D,True,1.673978263,69,16
+50,What planet is between Earth and Jupiter?,The answer is (D),D,D,True,8.522643867,68,208
+72,What is the currency of the United Kingdom?,The answer is (B),B,B,True,1.736596275,70,80
+69,What is the most popular music streaming platform?,The answer is (D),D,D,True,2.842966774,72,144
+65,What is the symbol for sodium on the periodic table?,The answer is (C),C,C,True,3.812581619,71,272
+68,What is an ode?,The answer is (C),C,C,True,3.703850491,80,208
+70,What is the capital of Argentina?,The answer is (C),C,C,True,2.916733956,68,144
+73,What is the capital of Peru?,The answer is (D),D,D,True,3.034838329,72,144
+66,What is the most abundant gas in Earth's atmosphere?,"Nitrogen makes up about 78% of Earth’s atmosphere (oxygen ~21%, argon ~0.93%, carbon dioxide ~0.04%), so it is the most abundant.  The answer is (D)",D,D,True,5.45723679,74,310
+71,What is the capital of the United Kingdom?,The answer is (C),C,C,True,3.93054477,69,208
+76,In what year did the French Revolution begin?,The answer is (D),D,D,True,2.578826207,77,144
+74,What is the lowest male singing voice?,The lowest standard male singing voice type is the bass.  The answer is (C),C,C,True,4.092180786,72,219
+78,What color is a ruby?,The answer is (D),D,D,True,2.648350858,66,144
+75,What does 'RAM' stand for?,The answer is (A),A,A,True,3.524550262,76,144
+82,How many letters are in the English alphabet?,The answer is (B),B,B,True,1.909872203,73,80
+77,What is the name for fear of the dark?,"Claustrophobia is fear of confined spaces. Photophobia is sensitivity to light, not a fear. Scotophobia can refer to fear of darkness, but the most commonly accepted term for fear of the dark is nyctophobia.  The answer is (B)",B,B,True,4.282459271,77,318
+81,What is the name of the study of the ocean?,The answer is (B),B,B,True,2.532521786,77,144
+80,What does 'e.g.' stand for?,The answer is (B),B,B,True,3.14327933,81,144
+79,What ocean is the largest?,The answer is (D),D,D,True,4.125577729,66,272
+83,What type of nut grows on a walnut tree?,The answer is (D),D,D,True,2.720351216,73,144
+86,How many bones are in the adult human body?,The answer is (B),B,B,True,1.908053573,74,144
+84,What does a thermometer measure?,The answer is (D),D,D,True,2.838241441,68,80
+85,What is the name of the famous colosseum in Rome?,The answer is (C),C,C,True,2.67955957,82,208
+90,What does 'antagonist' mean?,The answer is (D),D,D,True,1.839580549,78,144
+88,What is the capital of the United Arab Emirates?,The answer is (C),C,C,True,2.218911143,73,144
+92,Which band sang 'Bohemian Rhapsody'?,The answer is (D),D,D,True,1.803891584,75,80
+91,"In tennis, what is the term for a score of 40-40?",The answer is (C),C,C,True,1.953713312,78,144
+87,What is a 'hat trick' in cricket?,The answer is (A),A,A,True,3.256205833,92,272
+95,What is the capital of Paraguay?,The answer is (D),D,D,True,1.875455434,73,80
+94,What is 'null' in programming?,"Null represents the absence of a value; it is not zero, an empty string, or false.  The answer is (D)",D,D,True,2.691375225,73,164
+89,What does 'circa' (c.) mean?,Circa (c.) is used before dates to indicate an approximate time.  The answer is (C),C,C,True,4.209397387,71,287
+97,What is the capital of Luxembourg?,The answer is (D),D,D,True,2.11132587,77,80
+93,What is the name of the study of plants?,"Zoology is the study of animals, Ecology is the study of organisms and their environments, and Mycology is the study of fungi. The study of plants is called Botany.  The answer is (B)",B,B,True,3.402697978,73,181
+98,What is the name of a reusable block of code that performs a specific task?,The answer is (D),D,D,True,1.704598795,76,80
+96,What does 'third person' point of view mean in writing?,"Third person point of view refers to narration using pronouns like he, she, or they, rather than I (first person), you (second person), or we (first-person plural).  The answer is (C)",C,C,True,2.834768839,96,118
+102,What are the official languages of Switzerland?,The answer is (A),A,A,True,1.206983331,93,80
+99,What is the name of the phobia of the number 13?,The answer is (A),A,A,True,2.434138154,86,144
+100,What does 'XML' stand for?,The answer is (C),C,C,True,3.093908567,80,208
+106,Who wrote 'The Odyssey'?,The answer is (D),D,D,True,1.606358892,70,80
+101,What is the name of the lens at the front of a camera that focuses light?,The answer is (D),D,D,True,2.561188285,80,144
+108,Which of these is a fossil fuel?,"Natural gas is a fossil fuel, while solar, wind, and hydroelectric are renewable energy sources.  The answer is (C)",C,C,True,1.827192789,74,100
+107,What is the name of Google's AI assistant/model?,The answer is (D),D,D,True,2.722245031,72,144
+104,What do bees produce?,The answer is (C),C,C,True,3.506934992,67,208
+110,What does 'dpi' stand for in image quality?,The answer is (B),B,B,True,2.199134875,83,144
+105,What is the name for the empty space around design elements?,The answer is (C),C,C,True,4.383945536,77,336
+112,What is the name for the gradual warming of the Earth's surface?,The answer is (C),C,C,True,2.702242202,79,144
+109,What fruit is used to make wine?,The answer is (B),B,B,True,4.013703936,71,208
+116,What does 'NoSQL' mean?,The answer is (A),A,A,True,1.10224699,74,16
+114,What shape is a rugby ball?,The answer is (B),B,B,True,1.837689914,75,80
+111,What are the colors of the French flag?,The answer is (B),B,B,True,3.496261741,88,208
+113,What is the highest female singing voice?,The answer is (D),D,D,True,3.599793567,75,208
+117,How many official languages does Canada have?,The answer is (B),B,B,True,2.165783973,72,144
+118,What does 'prose' mean?,The answer is (B),B,B,True,2.416030804,81,144
+103,What is the name of the day when clocks go back in autumn?,The answer is (D),D,A,False,7.182752499,82,464
+115,What does 'COO' stand for?,The answer is (A),A,A,True,3.801909086,77,208
+122,What is the name of the book that contains yearly statistics and facts?,The answer is (D),D,D,True,2.984856188,75,208
+121,How many sides does a square have?,The answer is (D),D,D,True,3.117929677,72,144
+120,What is the most basic HTML tag that wraps all content?,The answer is (C),C,C,True,3.330451446,76,208
+119,What is the name for a story set in an imaginary world with magic?,The answer is (D),D,D,True,3.830470327,76,208
+126,What is the capital of Estonia?,The answer is (D),D,D,True,2.210244651,71,144
+128,What is the capital of Chile?,The answer is (D),D,D,True,3.038307121,73,144
+130,Who invented the airplane?,The answer is (D),D,D,True,3.022687891,70,144
+132,"In baseball, how many strikes result in a strikeout?",The answer is (C),C,C,True,2.340184121,76,80
+131,What family of instruments does a flute belong to?,"A flute produces sound when air is directed across an opening, and it is classified in the woodwind family (despite modern flutes being metal) due to how the sound is produced and its historical construction.  The answer is (B)",B,B,True,3.457363759,72,186
+124,What is the national flower of Japan?,"Japan is widely associated with cherry blossoms (sakura), commonly recognized as the national flower, while the chrysanthemum is the symbol of the imperial family.  The answer is (C)",C,C,True,5.521833541,71,367
+127,What does a hyphen (-) connect?,The answer is (B),B,B,True,5.424354101,75,336
+134,What is half of 100?,The answer is (D),D,D,True,2.053245014,71,80
+129,What does 'recursion' mean in programming?,"Recursion in programming is when a function solves a problem by calling itself with a smaller or simpler input, typically until reaching a base case.  The answer is (C)",C,C,True,5.15457128,85,364
+125,What does 'carbon footprint' mean?,"A carbon footprint is the total greenhouse gases, typically expressed as carbon dioxide, emitted by an activity, person, or product. Among the options, B most accurately reflects this.  The answer is (B)",B,B,True,6.603712415,88,435
+59,What is the name of Snow White's prince?,The answer is (C),C,C,True,29.818672328,74,1104
+133,What is the approximate age of Earth?,The answer is (B),B,B,True,2.992602701,84,144
+136,What is the name for a book about a person's life written by someone else?,The answer is (D),D,D,True,2.700407514,79,144
+135,What does 'p.m.' stand for?,"p.m. comes from the Latin phrase ""post meridiem,"" meaning ""after midday"" or ""after noon.""  The answer is (C)",C,C,True,3.438139774,79,232
+137,What does 'ISO' control in photography?,The answer is (D),D,D,True,4.49291391,73,272
+144,What fuel do most commercial airplanes use?,The answer is (C),C,C,True,2.719491931,71,80
+141,What is the name of the famous canal in Egypt?,"The Suez Canal is the well-known canal in Egypt, connecting the Mediterranean Sea to the Red Sea. Therefore, the correct option is C.  The answer is (C)",C,C,True,3.959256795,76,237
+139,What is a biography?,The answer is (C),C,C,True,4.204843405,80,272
+143,"In basketball, how many points is a free throw worth?",The answer is (B),B,B,True,3.356926325,77,144
+138,What type of voice is between soprano and alto?,"The standard female voice types are soprano (highest), mezzo-soprano (middle), and contralto (lowest), so the type between soprano and alto is mezzo-soprano.  The answer is (B)",B,B,True,5.011286143,82,374
+142,What is the only mammal capable of true flight?,"- True flight means sustained, powered flight using flapping wings. - Flying squirrel, sugar glider, and colugo have patagia for gliding; they do not achieve powered flight. - Bats possess true wings and are capable of powered flight.  The answer is (C)",C,C,True,3.908060702,75,195
+140,How many notes are in a standard musical octave?,The answer is (D),D,D,True,4.347929596,74,272
+145,What is the name of the Roman god of the sea?,The answer is (C),C,C,True,3.638169496,73,208
+147,What is the name for the emotional association of a word?,The answer is (B),B,B,True,2.020975545,75,80
+150,What is the capital of Haiti?,The answer is (C),C,C,True,2.005031492,75,80
+153,What is the file extension for Python files?,Python source code files use the .py extension. The others are not standard Python file extensions.  The answer is (B),B,B,True,2.301216362,75,99
+146,What is 10 times 10?,The answer is (D),D,D,True,3.712978458,74,208
+149,What is the name of the Greek goddess of wisdom?,The answer is (D),D,D,True,3.233863629,73,208
+123,What is the name of the first programming language?,"FORTRAN (1957) is widely recognized as the first high-level programming language; COBOL and LISP came later. While assembly predates them, many sources and MCQs refer to FORTRAN as the first programming language in this context.  The answer is (A)",A,D,False,14.887711305,73,897
+155,What is a group of elephants called?,The answer is (B),B,B,True,1.692944701,68,80
+148,What does 'algorithm' mean?,The answer is (B),B,B,True,4.27488158,84,272
+156,What does 'LOL' stand for?,The answer is (B),B,B,True,3.014278747,77,208
+161,What does 'XR' stand for?,The answer is (A),A,A,True,1.345404557,72,16
+158,What does 'scuba' stand for?,The answer is (A),A,A,True,3.278115577,100,80
+160,What is the national animal of Australia?,The answer is (C),C,C,True,2.627777453,74,144
+152,What design principle makes important elements stand out?,The answer is (D),D,D,True,5.933545749,70,272
+157,What symbol is commonly used for comments in Python?,The answer is (C),C,C,True,3.606296348,67,208
+159,What is the capital of Slovakia?,The answer is (D),D,D,True,2.853284753,77,144
+151,What does 'piano' mean in music dynamics?,The answer is (C),C,C,True,5.996310305,76,336
+154,What sound does a sheep make?,The answer is (B),B,B,True,5.779756903,70,336
+166,What is the capital of Canada?,The answer is (C),C,C,True,1.581940732,67,80
+163,What is the capital of New Zealand?,The answer is (C),C,C,True,2.721632994,69,80
+162,What is the name of the largest cold desert in the world?,The answer is (C),C,C,True,3.584892232,80,144
+167,What is the file extension for JavaScript files?,The answer is (D),D,D,True,1.969549469,76,80
+170,Which language uses the Cyrillic alphabet?,The answer is (C),C,C,True,2.222568339,68,144
+164,What is the national flower of England?,The answer is (D),D,D,True,3.504493779,72,208
+165,What is the name of the famous tower in Paris?,The answer is (C),C,C,True,3.527619016,79,144
+168,What does 'API' stand for?,The answer is (A),A,A,True,3.510087752,76,208
+169,What is the capital of South Africa?,The answer is (C),C,C,True,3.511405001,69,208
+171,What is the name of the wizard school in Harry Potter?,The answer is (C),C,C,True,2.728307169,81,80
+173,What is the longest word in English?,The answer is (C),C,C,True,2.845815184,92,144
+174,What is the largest mammal in the world?,The answer is (B),B,B,True,2.751915213,76,144
+172,What is the capital of Albania?,The answer is (D),D,D,True,2.955306997,74,80
+176,What is the term for when a game ends because the king has no legal moves but is not in check?,The answer is (D),D,D,True,2.291430997,85,80
+175,What is the capital of Latvia?,The answer is (D),D,D,True,2.692528162,76,144
+178,What is foreshadowing?,The answer is (B),B,B,True,2.181708979,82,144
+181,What country invented basketball?,The answer is (A),A,B,False,2.541624084,65,144
+179,What is the capital of Romania?,The answer is (B),B,B,True,2.874399123,77,208
+187,What is the capital of Finland?,The answer is (D),D,D,True,1.154848793,70,16
+177,What is the name of the hobbit in 'The Lord of the Rings'?,The answer is (C),C,C,True,4.663681343,91,272
+185,What is the name of the fairy tale character whose nose grew when he lied?,The answer is (C),C,C,True,3.103260312,80,144
+183,What does a barometer measure?,The answer is (D),D,D,True,3.301548469,70,208
+186,What season comes after summer?,The answer is (C),C,C,True,3.532449202,69,208
+184,What is the name of the famous opera house in Sydney?,The answer is (B),B,B,True,3.811464133,81,272
+191,What is the capital of Uzbekistan?,The answer is (C),C,C,True,2.195273453,73,80
+192,What is the name for the introduction paragraph's last sentence that states the essay's argument?,The answer is (D),D,D,True,1.902938445,81,80
+188,What force keeps planets orbiting the Sun?,"Planets remain in orbit due to the Sun’s gravitational pull, not magnetism, friction, or electricity. The answer is (B)",B,B,True,4.162129887,71,294
+182,What is the capital of Serbia?,Belgrade is the capital of Serbia. The answer is (D),D,D,True,5.843486479,72,408
+180,What fruit grows on a cactus?,The answer is (C),C,C,True,6.997817605,73,464
+194,What color do you get when you mix red and blue?,The answer is (C),C,C,True,2.675608457,72,208
+190,What is the name of the natural satellite of Earth?,"Earth’s natural satellite is called the Moon. Titan orbits Saturn, Europa orbits Jupiter, and Phobos orbits Mars.  The answer is (C)",C,C,True,4.095670063,73,298
+196,What gas do plants absorb from the atmosphere?,The answer is (C),C,C,True,1.643750607,72,80
+189,What sport uses the term 'birdie'?,The answer is (C),C,C,True,4.806724901,71,336
+195,How many syllables does a traditional haiku have?,The answer is (A),A,A,True,3.227392345,103,208
+198,What does 'sol' mean in Latin?,The answer is (B),B,B,True,2.496442185,69,144
+197,What is the speed of light approximately?,The answer is (A),A,A,True,3.826286929,88,208
+202,What does 'URL' stand for?,The answer is (A),A,A,True,2.547177265,76,144
+200,What is the longest mountain range in the world?,The answer is (C),C,C,True,2.99626815,71,208
+193,What is the fastest land animal?,"Cheetahs can sprint up to about 60–70 mph (96–113 km/h), faster than lions, horses, or greyhounds.  The answer is (B)",B,B,True,6.027406759,70,431
+201,What does 'DVD' stand for?,The answer is (C),C,C,True,3.216651458,77,144
+206,Who is credited with inventing the World Wide Web?,The answer is (C),C,C,True,1.87931546,80,80
+199,What is the name of the smallest unit of an element?,The answer is (C),C,C,True,4.358569512,74,208
+205,What type of engine does a car typically use?,The answer is (D),D,D,True,3.254629584,76,208
+203,What is the name of the mark placed over letters like 'ñ'?,The answer is (D),D,D,True,3.984572419,81,272
+209,What does 'CD-ROM' stand for?,The answer is (A),A,A,True,2.985918294,89,144
+213,What does 'MR' stand for in technology?,The answer is (A),A,A,True,1.998478746,74,80
+215,What is the name of the study of fungi?,The answer is (D),D,D,True,1.941228008,73,80
+212,What is the name for the main argument of an essay?,The answer is (B),B,B,True,2.354196551,74,144
+207,What is the capital of Nicaragua?,The answer is (D),D,D,True,3.849622555,70,208
+211,What does 'SSL' stand for?,The answer is (B),B,B,True,3.626380052,78,208
+214,How many players are on a baseball team on the field?,The answer is (B),B,B,True,3.301562804,76,144
+208,Who was the first person to receive two Nobel Prizes?,The answer is (C),C,C,True,4.906783857,80,336
+210,What is the name of the famous soccer player known as 'The Black Panther'?,The answer is (B),B,B,True,4.609288923,82,272
+218,What direction does the sun set in?,The answer is (D),D,D,True,1.944207589,68,80
+217,What is assonance?,The answer is (B),B,B,True,2.404469271,85,144
+219,What year was Instagram founded?,The answer is (D),D,D,True,2.15019013,74,80
+221,What is a group of wolves called?,The answer is (D),D,D,True,2.023753907,69,80
+220,What is the name for fraudulent emails that try to steal information?,The answer is (D),D,D,True,2.523573552,76,144
+222,What invention made Alfred Nobel famous (and wealthy)?,The answer is (B),B,B,True,2.394744296,73,144
+216,What is the Roman numeral for 100?,The answer is (B),B,B,True,4.053340448,69,272
+225,What does 'first person' point of view mean in writing?,The answer is (C),C,C,True,1.975480935,94,80
+224,Who wrote Romeo and Juliet?,The answer is (B),B,B,True,3.346240267,69,144
+229,What does 'omnivore' mean?,The answer is (C),C,C,True,2.088288559,78,80
+223,What is the capital of Singapore?,The answer is (A),A,A,True,3.565540959,70,208
+231,What is the name of the Greek goddess of the hunt?,The answer is (C),C,C,True,1.471960423,74,80
+204,What was the name of the first commercially successful social network?,The answer is (A),A,B,False,11.962713728,75,784
+233,How many wings does a butterfly have?,The answer is (C),C,C,True,1.622540039,72,80
+227,What is the name of the change from solid to liquid?,- Freezing is liquid to solid. - Condensation is gas to liquid. - Evaporation is liquid to gas. - Melting is solid to liquid.  The answer is (D),D,D,True,4.658416059,77,241
+230,How many legs does a spider have?,The answer is (C),C,C,True,3.325487211,72,208
+226,What is the term for a word that reads the same forwards and backwards?,A word that reads the same forwards and backwards is called a palindrome.  The answer is (B),B,B,True,5.057523133,80,286
+235,What is the capital of Iceland?,The answer is (B),B,B,True,2.579435428,73,80
+234,What does 'MVP' stand for in sports?,The answer is (B),B,B,True,2.746649759,80,144
+232,What does 'B2C' stand for?,The answer is (C),C,C,True,4.192973594,78,144
+240,What does 'protagonist' mean?,The answer is (B),B,B,True,3.015348042,77,208
+237,How many players are in a cricket team?,"Cricket is traditionally played between two teams of eleven players each, as defined by the Laws of Cricket. While there can be a 12th man (substitute fielder), the official team size is 11.  The answer is (C)",C,C,True,3.710547482,73,188
+228,What is the name of the data structure that follows Last In First Out?,"Stack is the data structure that follows the Last In, First Out (LIFO) principle.  The answer is (C)",C,C,True,7.13367316,76,419
+241,In which sport do you use a puck?,The answer is (B),B,B,True,3.232437755,70,208
+239,What is the name of the first dog in space?,The answer is (C),C,C,True,3.744859421,76,208
+238,What is the name of the ship that Charles Darwin sailed on?,Charles Darwin made his famous voyage around the world aboard HMS Beagle (1831–1836).  The answer is (B),B,B,True,4.201248012,79,228
+243,What does 'LAN' stand for?,The answer is (C),C,C,True,3.059208507,76,144
+242,What is the name of the AI chatbot created by OpenAI?,The answer is (D),D,D,True,3.556533739,75,208
+245,How many years are in a century?,The answer is (D),D,D,True,2.180383245,72,80
+246,What is the difference between a hyphen and a dash?,The answer is (B),B,B,True,2.434292217,95,80
+236,What is the name of the fastest passenger train service in the world (Shinkansen)?,The answer is (B),B,B,True,7.797179416,82,400
+244,What is the name of the Chinese writing system?,The answer is (B),B,B,True,4.954711633,73,272
+249,What is the capital of Uruguay?,The answer is (D),D,D,True,2.4678698,71,144
+248,What does 'ciao' mean in Italian?,The answer is (B),B,B,True,2.923971184,74,144
+247,What does 'p.s.' stand for?,The answer is (A),A,A,True,3.547905959,73,208
+251,What does 'CPU' stand for?,The answer is (C),C,C,True,3.098710416,76,208
+253,What is the name of the asteroid belt's location?,The answer is (B),B,B,True,1.822965055,84,80
+252,Who wrote 'To Kill a Mockingbird'?,The answer is (B),B,B,True,3.105051277,81,144
+250,What year was Facebook founded?,The answer is (D),D,D,True,4.058001857,74,272
+255,What is the symbol for gold on the periodic table?,The answer is (D),D,D,True,2.133413373,72,80
+259,What is the freezing point of water in Celsius?,"Water freezes at the temperature where it changes from liquid to solid, which is 0°C on the Celsius scale.  The answer is (D)",D,D,True,2.418469138,78,103
+254,What is the capital of Saudi Arabia?,The answer is (D),D,D,True,4.090986396,72,208
+263,Who founded Microsoft?,The answer is (B),B,B,True,1.79598084,71,80
+257,How many chambers does the human heart have?,The answer is (C),C,C,True,3.867459639,73,144
+265,What is the name for fiction set in the future with advanced technology?,The answer is (C),C,C,True,1.234315783,75,16
+258,How many stripes are on the American flag?,The answer is (A),A,A,True,3.985595464,73,208
+260,What is a 'cookie' in web browsing?,The answer is (C),C,C,True,4.007662689,86,208
+261,What does 'Wi-Fi' stand for?,The answer is (B),B,B,True,4.158984246,73,272
+262,What is the name of the Japanese writing system used for native words?,The answer is (B),B,B,True,3.898579652,78,208
+268,What is the national sport of Canada?,The answer is (A),A,A,True,1.817043564,73,80
+269,What does 'ja' mean in German?,The answer is (C),C,C,True,1.867193572,69,80
+267,What is the name of the scale used to measure tornado strength?,The answer is (D),D,D,True,2.548881689,85,144
+270,What is a metaphor?,The answer is (C),C,C,True,2.039456086,88,80
+264,How many planets are in our solar system?,The answer is (D),D,D,True,4.431036887,73,272
+271,What is the name of the highest military award in the USA?,The answer is (D),D,D,True,2.355881809,79,80
+266,What direction does the sun rise from?,"Because the Earth rotates from west to east, the sun appears to rise in the east.  The answer is (D)",D,D,True,3.885340217,68,226
+256,What is the name of sorting method that repeatedly swaps adjacent elements?,The answer is (D),D,D,True,7.924338831,78,80
+278,How many zeros are in one million?,"One million is 1,000,000, which equals 10^6. It has six zeros.  The answer is (D)",D,D,True,3.007169033,72,166
+274,What is the name of the comet visible from Earth approximately every 75 years?,The answer is (C),C,C,True,3.685138966,91,272
+273,What is the name for a story about a real or imagined heroic person?,"- A myth typically involves gods or explains natural phenomena, not necessarily a specific heroic person rooted in history. - A fable is a short tale with a moral, often featuring talking animals. - A fairy tale is a magical story, usually for children, not focused on real or semi-real heroes. - A legend is a traditional story about a real or imagined heroic person, often with some historical basis.  The answer is (D)",D,D,True,4.449296564,77,289
+276,What does 'USB' stand for?,The answer is (A),A,A,True,3.750846954,76,208
+281,What is the name of the pub in 'The Simpsons'?,The answer is (C),C,C,True,1.967897098,80,80
+272,What piece can only move diagonally in chess?,"- Knight moves in an L-shape, not only diagonally. - Rook moves straight along ranks and files. - King moves one square in any direction (not only diagonally). - Bishop moves any number of squares only along diagonals.  The answer is (D)",D,D,True,5.68673572,71,450
+280,What is a memoir?,"A memoir is a nonfiction narrative in which an author recounts and reflects on personal experiences and memories, typically focusing on particular themes, periods, or events in their life rather than a full biography.  - A is incorrect because that describes a biography. - C is too broad; memoirs are personal, not general historical accounts. - D is incorrect because memoirs are nonfiction, not fictional stories.  The answer is (B)",B,B,True,3.527360325,82,223
+275,What is a 'hat trick' in soccer?,The answer is (B),B,B,True,4.986861121,91,208
+279,What does 'versus' (vs.) mean?,The answer is (B),B,B,True,4.642207642,71,336
+286,What is the capital of Bangladesh?,The answer is (B),B,B,True,2.091129774,74,80
+282,What is the name of the Korean writing system?,The answer is (C),C,C,True,2.616439635,73,144
+277,"In basketball, how many points is a regular basket worth?",A regular field goal inside the three-point line is worth 2 points; free throws are 1 point and shots beyond the arc are 3 points.  The answer is (D),D,D,True,5.886304101,76,367
+283,What percent of the Earth's surface is covered by water?,The answer is (D),D,D,True,2.966200035,75,208
+287,What is the name for a traditional story explaining natural phenomena?,The answer is (C),C,C,True,1.88777102,74,80
+285,What does 'B2B' stand for?,The answer is (B),B,B,True,2.818756187,78,208
+284,What is the 'climax' of a story?,The answer is (C),C,C,True,3.440140216,78,208
+289,What is the capital of Uganda?,The answer is (D),D,D,True,2.335120258,72,144
+290,What is the name of the study of the human mind?,The answer is (D),D,D,True,1.734835373,73,80
+292,What is the capital of Zambia?,The answer is (D),D,D,True,1.716984731,71,80
+291,What is the capital of Portugal?,The answer is (D),D,D,True,2.083267926,67,80
+296,What is the currency of Japan?,The answer is (D),D,D,True,2.503166189,68,80
+288,What is the name of the tool used to pick colors from an image?,The tool used to sample a color from an image is commonly called the Color Picker or Eyedropper.  The answer is (A),A,A,True,4.309771604,85,166
+294,What is the capital of Pakistan?,The answer is (C),C,C,True,2.752018205,69,144
+299,What is the largest ocean on Earth?,The answer is (D),D,D,True,1.837557477,72,80
+295,What is the name of the punctuation mark ';'?,The answer is (C),C,C,True,2.901263422,73,208
+293,What does 'decrescendo' mean in music?,Decrescendo (also called diminuendo) indicates gradually getting quieter.  The answer is (D),D,D,True,3.819517795,75,286
+298,How many days are in a week?,The answer is (C),C,C,True,2.895761435,72,144
+302,What is the full name of the character Bart Simpson's father?,The answer is (C),C,C,True,1.758117816,85,80
+304,What is the charge of a proton?,The answer is (D),D,D,True,2.385307237,69,144
+307,What is the file extension for an image in JPEG format?,The answer is (D),D,D,True,2.118162557,79,144
+306,What is the black dot in the center of the eye called?,The answer is (D),D,D,True,2.794524707,75,144
+300,What layer of the atmosphere protects Earth from ultraviolet rays?,The answer is (D),D,D,True,4.624676269,79,336
+297,What is the name of the programming language created by Google for Android apps?,The answer is (C),C,C,True,5.581594876,77,336
+301,What is the least populated continent (excluding Antarctica)?,"Australia/Oceania has the smallest population among the inhabited continents (excluding Antarctica), well below Europe, North America, and South America.  The answer is (A)",A,A,True,4.855173361,75,363
+308,What do you call the explanatory notes at the bottom of a page?,The answer is (C),C,C,True,3.579147772,79,208
+312,What is the Roman numeral for 1?,The answer is (A),A,A,True,1.69797119,69,80
+303,What is the name of the study of stars and space?,The answer is (C),C,C,True,5.042635819,75,336
+311,What is the name of the design principle that refers to elements being properly aligned?,The answer is (C),C,C,True,2.099831834,77,144
+313,What is the season when animals like bears typically hibernate?,The answer is (D),D,D,True,2.011289634,72,80
+305,What type of creature is Nessie supposedly?,The answer is (C),C,D,False,5.638392005,78,336
+309,What is the name of the famous amphitheater in Athens?,The answer is (C),C,C,True,4.977720535,83,336
+319,What country invented chess?,The answer is (C),C,C,True,1.837784068,65,80
+314,What does 'PIN' stand for?,The answer is (A),A,A,True,3.588319901,76,272
+317,What is the capital of Hungary?,The answer is (D),D,D,True,2.309116457,74,144
+318,What does 'RAW' format mean in photography?,"RAW refers to the unprocessed data captured directly from the camera’s image sensor, preserving maximum detail and flexibility for editing.  The answer is (C)",C,C,True,2.934289305,80,168
+310,What game uses 'Go' pieces on a grid?,The answer is (A),A,A,True,6.000170151,85,336
+322,What is the name for the company that produces a book?,The answer is (C),C,C,True,2.155745521,72,144
+325,What is the currency of India?,The answer is (C),C,C,True,2.212674323,71,80
+320,Where do electrons exist in an atom?,"Electrons are not in the nucleus (that holds protons and neutrons). Instead, they occupy energy levels (shells/orbitals) surrounding the nucleus. They are not inside protons or neutrons.  The answer is (B)",B,B,True,4.173958359,78,315
+316,How many squares are on a standard chess board?,8 rows times 8 columns gives 8 × 8 = 64 squares.  The answer is (C),C,C,True,4.863757311,74,161
+327,What is the name of the longest wall ever built?,The answer is (C),C,C,True,2.022896229,84,80
+315,What is the alphabet of the Arabic language called?,The answer is (B),B,B,True,7.040455173,76,336
+321,What is the capital of Sri Lanka?,The answer is (D),D,D,True,4.987951244,77,400
+324,What is typography?,"Typography refers to the art and technique of arranging type (fonts, spacing, layout) to make text legible and visually appealing, which matches option A better than the broader or different fields in the other options.  The answer is (A)",A,A,True,4.240194157,76,250
+331,What does 'AI' stand for?,The answer is (B),B,B,True,1.974873529,72,80
+329,How many years are in a decade?,The answer is (B),B,B,True,2.18804264,72,80
+328,What is the name of the court where basketball is played?,The answer is (A),A,A,True,2.726499271,74,208
+326,What is the most powerful piece in chess?,The answer is (B),B,B,True,3.949932243,70,272
+323,What is a group of ants called?,The answer is (A),A,D,False,6.168017738,72,400
+333,How many minutes are in an hour?,An hour is defined as 60 minutes in standard timekeeping.  The answer is (C),C,C,True,2.513015612,72,157
+335,What is the lifespan of a dog typically?,The answer is (C),C,C,True,2.193984631,85,144
+332,What is the name of the first test-tube baby born in 1978?,"Louise Brown, born in 1978 in the UK, is widely recognized as the first baby conceived via in vitro fertilization.  The answer is (B)",B,B,True,3.665653525,81,235
+334,Who voiced Buzz Lightyear in 'Toy Story'?,The answer is (C),C,C,True,3.786881862,76,272
+341,What does 'KPI' stand for?,The answer is (B),B,B,True,1.432871179,77,80
+339,What does 'danke' mean in German?,The answer is (D),D,D,True,3.73749614,71,208
+338,What is the name of the toy cowboy in 'Toy Story'?,The answer is (C),C,C,True,4.057154673,74,208
+343,What is the capital of Senegal?,The answer is (D),D,D,True,1.983341949,72,144
+337,What does 'SSD' stand for?,The answer is (A),A,A,True,4.613699971,76,272
+345,What is the capital of Tanzania?,The answer is (C),C,C,True,1.760265393,71,80
+336,What is the capital of Madagascar?,The answer is (C),C,C,True,5.07515117,77,272
+344,What is the fear of spiders called?,The answer is (A),A,A,True,3.65456567,78,144
+350,What is a baby goose called?,The answer is (D),D,D,True,1.741291991,71,80
+346,What continent is Brazil in?,The answer is (B),B,B,True,2.608380293,69,144
+342,What design principle refers to visually equal distribution of elements?,The answer is (D),D,D,True,4.84105937,72,208
+347,What is the setting of a story?,The answer is (D),D,D,True,2.681613324,74,144
+351,What CSS property changes the text color?,The answer is (C),C,C,True,1.852983425,71,80
+348,What is the capital of Nepal?,The answer is (D),D,D,True,2.650880928,72,144
+340,What year was the first email sent?,The answer is (C),C,C,True,6.171481903,76,400
+349,What is the name of the person who leads an orchestra?,The answer is (A),A,A,True,3.161074659,73,208
+357,Who invented the printing press?,The answer is (C),C,C,True,1.497612891,73,80
+355,What is the national animal of India?,"India’s national animal is the Bengal tiger, chosen for its strength, grace, and symbolic presence in Indian culture and biodiversity.  The answer is (B)",B,B,True,2.327721942,68,169
+356,What does 'JSON' stand for?,The answer is (B),B,B,True,3.091987029,84,208
+360,How many teeth does an adult human have?,The answer is (C),C,C,True,2.104457024,73,80
+354,Which country is home to the Amazon Rainforest mostly?,The answer is (C),C,C,True,3.292558939,71,208
+361,What is the name of the Roman god of war?,The answer is (C),C,C,True,2.543135979,71,144
+358,What is the name of the Egyptian god of the dead?,The answer is (D),D,D,True,3.753580574,75,208
+353,What planet is known as the Blue Planet?,The answer is (D),D,D,True,4.279484487,70,272
+359,What is the name of the study of rocks?,The answer is (B),B,A,False,3.237675623,74,144
+352,What is an antonym for 'hot'?,Cold is the opposite of hot.  The answer is (B),B,B,True,5.464742844,70,407
+364,How many points is a touchdown worth in American football?,The answer is (D),D,D,True,2.4808578,75,80
+363,What is the name of the barrier that monitors network traffic for security?,The answer is (D),D,D,True,3.508476505,74,208
+368,What is the name of the space agency of the United States?,The answer is (D),D,D,True,2.408239952,77,144
+369,What is the name of the study of weather?,The answer is (B),B,B,True,2.44449978,75,144
+330,What is the name of the study of volcanoes?,The answer is (D),D,D,True,15.707470473,78,144
+365,Who wrote 'The Lord of the Rings'?,The answer is (C),C,C,True,3.633152899,83,272
+367,What is the national sport of the United States?,"Baseball is widely known as “America’s pastime” and is traditionally regarded as the national sport, even though there’s no official designation by law. American football is currently the most popular, but the traditional national sport is baseball.  The answer is (C)",C,C,True,3.058910185,72,190
+366,What is the name for cutting down of forests?,Cutting down of forests is called deforestation.  The answer is (B),B,B,True,3.280348945,75,218
+370,What type of animal is a whale?,The answer is (D),D,D,True,3.178899744,73,208
+372,What does 'aqua' mean in Latin?,The answer is (D),D,D,True,2.912499485,70,144
+376,How many sides does a hexagon have?,The answer is (B),B,B,True,2.671551738,73,80
+371,What is the capital of Bulgaria?,The answer is (D),D,D,True,3.921185569,71,144
+374,What does 'IQ' stand for?,The answer is (A),A,A,True,2.847014394,74,144
+377,In which year did World War II end?,The answer is (D),D,D,True,2.917220369,77,80
+378,What is the name of Batman's butler?,The answer is (B),B,B,True,2.798946752,71,80
+373,Which animal is a monotreme?,"Monotremes are egg-laying mammals; among the options, the platypus is a monotreme.  The answer is (D)",D,D,True,4.149410755,73,295
+362,What is the name of the shape with no sides?,"- In basic geometry, “sides” usually means straight edges of polygons. - A circle has a continuous curved boundary with no straight sides and no corners. - An oval also lacks straight sides, but the standard elementary answer to “shape with no sides” is the circle. - Sphere is 3D; “round” is an adjective, not a specific 2D shape.  The answer is (B)",B,B,True,9.227304724,71,478
+383,What does 'au revoir' mean in French?,The answer is (C),C,C,True,1.993547961,72,80
+375,What does 'cloud computing' mean?,The answer is (C),C,C,True,4.827922302,84,336
+380,What does 'CFO' stand for?,The answer is (B),B,B,True,2.83432081,77,144
+379,What is the name for singing without instrumental accompaniment?,The answer is (B),B,B,True,4.47665691,74,272
+385,What is the name of a pre-written set of code you can use in your program?,The answer is (B),B,B,True,2.880292344,78,144
+381,What language has the most words?,The answer is (C),C,C,True,3.525680363,67,208
+384,What is the capital of China?,The answer is (B),B,B,True,3.034671559,67,144
+382,What is the most recycled material in the world?,The answer is (D),D,D,True,3.637768974,72,144
+387,What is sarcasm?,The answer is (B),B,B,True,3.51972467,73,144
+386,What part of the body is responsible for pumping blood?,The heart is the organ that pumps blood throughout the body via the circulatory system.  The answer is (C),C,C,True,4.292400271,72,161
+389,How many continents are there on Earth?,The answer is (C),C,C,True,3.49926455,72,208
+388,What is the name of the most prestigious journalism award?,The answer is (C),C,C,True,3.737955294,81,208
+394,What does 'OOP' stand for?,The answer is (B),B,B,True,2.21944386,81,80
+392,What is the name of the book that lists words with similar meanings?,The answer is (C),C,C,True,2.453753389,77,80
+390,What is composting?,The answer is (D),D,D,True,3.362616177,78,144
+397,What is the capital of France?,The answer is (A),A,A,True,1.530890655,67,16
+391,What is a light-year?,The answer is (B),B,B,True,3.553044526,84,144
+393,What is a group of fish called?,The answer is (B),B,B,True,3.830055866,69,208
+395,What does 'trademark' protect?,"Trademarks protect brand identifiers such as names, logos, and slogans used to distinguish goods or services in the marketplace.  The answer is (C)",C,C,True,4.186304136,72,232
+396,What is a prototype in design?,The answer is (C),C,C,True,3.503074949,80,144
+403,What is the name of the Greek king of the gods?,The answer is (D),D,D,True,2.061480321,75,80
+400,What is the currency of Sweden?,The answer is (B),B,B,True,4.763301036,70,208
+402,What is the name of the text shown in a terminal when running a program?,The answer is (A),A,A,True,4.823890299,76,272
+405,What type of energy is produced by wind turbines?,The answer is (B),B,B,True,3.67896273,77,208
+399,What is the name for a fake name used by an author?,The answer is (B),B,B,True,5.305980921,80,272
+398,What is the name of the design tool popular among UI/UX designers?,The answer is (D),D,D,True,5.526087089,76,336
+401,What gives red wine its color?,The answer is (B),B,B,True,5.331737546,72,272
+404,What does 'pro bono' mean?,The answer is (B),B,B,True,4.309743832,75,272
+407,"In basketball, how many points is a three-pointer worth?",The answer is (B),B,B,True,2.479670592,76,144
+408,What is the shape of the Earth?,The answer is (D),D,D,True,3.154190495,74,208
+406,What is the name of the final game in the NFL called?,The answer is (C),C,C,True,4.487218957,78,208
+412,What is the capital of Iran?,The answer is (D),D,D,True,2.085043388,71,80
+413,What is the name of the body part responsible for breathing?,The answer is (D),D,D,True,2.644323124,74,144
+416,How many days are in February in a non-leap year?,The answer is (B),B,B,True,2.358976298,77,80
+415,How many sides does a pentagon have?,The answer is (D),D,D,True,2.577388643,73,144
+411,In which fictional city does Superman live?,The answer is (C),C,C,True,3.034268257,72,144
+410,What is the only bird that can fly backwards?,The answer is (A),A,A,True,3.159350704,75,144
+417,What are the official languages of Canada?,The answer is (A),A,A,True,1.996011539,79,80
+414,What is the hexadecimal number system based on?,"Hexadecimal uses sixteen symbols (0-9 and A-F), so it is base 16.  The answer is (D)",D,D,True,3.176191938,77,228
+418,What country is the Colosseum located in?,The answer is (D),D,D,True,3.017343556,70,208
+420,What is the currency of Mexico?,The answer is (A),A,A,True,2.481533594,67,144
+409,What is the fear of heights called?,"Fear of heights is called acrophobia; vertigo is a dizziness sensation, not a phobia.  The answer is (C)",C,C,True,5.820108723,76,357
+423,What is the currency of Brazil?,The answer is (B),B,B,True,2.345351231,67,144
+425,How many players are on a volleyball team on the court?,The answer is (D),D,D,True,2.179605135,76,80
+426,What country is TikTok originally from?,The answer is (D),D,D,True,2.487120486,69,144
+424,What is the symbol for hydrogen gas?,The answer is (B),B,B,True,3.602210224,72,208
+419,What is the name for a book about a person's own life written by themselves?,The answer is (C),C,C,True,4.896051724,79,272
+427,What is the currency of the European Union?,The euro is the official currency used by most European Union member states.  The answer is (B),B,B,True,3.366584306,69,222
+431,What is the official language of Brazil?,The answer is (D),D,D,True,2.839343541,68,144
+433,Who painted the Sistine Chapel ceiling?,The answer is (D),D,D,True,2.630944311,73,144
+430,What is the name of the fear of flying?,The answer is (C),C,C,True,4.004358571,83,272
+422,What animal is known for carrying its house on its back?,The answer is (D),D,D,True,6.473332274,80,464
+435,What is alliteration?,The answer is (B),B,B,True,1.88922664,86,80
+432,What type of energy is produced by water flow?,Energy generated from moving water (like rivers or dams) is called hydroelectric energy.  The answer is (D),D,D,True,4.068603973,77,289
+434,What does 'luna' mean in Latin?,The answer is (D),D,D,True,3.123379441,70,208
+437,What type of pasta is shaped like a bow tie?,The answer is (D),D,D,True,2.394083715,77,144
+439,What is the name of the largest hot desert in the world?,The answer is (C),C,C,True,3.316539544,78,144
+436,"What is the official language of Quebec, Canada?",The answer is (B),B,D,False,4.452268121,74,272
+421,What is the name of our galaxy?,The answer is (C),C,C,True,9.884088067,74,208
+441,What is the name of the study of birds?,The answer is (D),D,D,True,3.359883509,78,144
+442,What was the first animal sent to space?,The answer is (D),D,D,True,4.325227641,70,272
+438,Who was the first President of the United States?,George Washington was the first President of the United States. The answer is (C),C,C,True,5.152776566,74,347
+447,What is the name of the body part that stores bile?,The answer is (C),C,C,True,1.787093801,78,80
+440,How many pieces does each player start with in chess?,"Each player starts with 16 pieces: 8 pawns and 8 other pieces (2 rooks, 2 knights, 2 bishops, 1 queen, 1 king). The answer is (C)",C,C,True,5.776358005,75,310
+445,What is the capital of North Macedonia?,The answer is (C),C,C,True,3.158334898,73,144
+449,What is the name of the mermaid in Disney's 'The Little Mermaid'?,The answer is (C),C,C,True,2.421163384,77,144
+450,What is the surface of the French Open tennis tournament?,The answer is (A),A,A,True,2.213932186,72,80
+443,What does 'open AI' in OpenAI refer to?,The answer is (B),B,B,True,5.634192591,84,272
+451,What is the name of the family in 'The Jetsons'?,"The family in the show is the Jetson family (e.g., George Jetson). The answer is (D)",D,D,True,3.663134546,78,226
+446,What year were the first Nobel Prizes awarded?,The first Nobel Prizes were awarded in 1901; Nobel’s will was signed in 1895 and the Nobel Foundation was established in 1900.  The answer is (C),C,C,True,6.530410272,78,496
+428,What is the capital of South Korea?,The answer is (D),D,D,True,14.929480453,71,144
+452,What is the capital of Malaysia?,The answer is (C),C,C,True,4.532807465,73,208
+455,What is the national animal of England?,The answer is (C),C,C,True,3.392464368,68,208
+454,What country does the rugby team called the All Blacks represent?,The answer is (D),D,D,True,3.867064851,74,208
+429,What is the name of the award given for excellence in music?,"Oscars honor film, Emmys honor television, Tonys honor theater, and Grammys honor music.  The answer is (B)",B,B,True,16.25292649,73,229
+444,What is the name of the conflict or problem in a story?,The answer is (D),D,D,True,9.679529416,75,656
+460,What is the capital of Angola?,The answer is (D),D,D,True,2.417717183,71,80
+456,What is the name of the tallest waterfall in the world?,The answer is (D),D,D,True,4.526164658,77,336
+453,How many sides does a circle have?,The answer is (D),D,C,False,6.688164094,71,400
+462,What does 'endangered' mean for a species?,The answer is (B),B,B,True,2.348227683,80,80
+461,What company owns GitHub?,The answer is (C),C,C,True,2.827128041,66,208
+448,What sport uses a shuttlecock?,The answer is (C),C,C,True,9.634575284,70,208
+457,What does 'SOS' mean in distress signals?,"Common backronyms like ""Save Our Souls"" or ""Save Our Ship"" are myths. SOS was chosen because the Morse code sequence ... --- ... is simple and unmistakable, not for any literal meaning.  The answer is (D)",D,D,True,4.886478945,85,251
+458,Who painted the Mona Lisa?,The answer is (C),C,C,True,5.027864832,71,272
+459,What type of animal pulls Cinderella's carriage?,The answer is (C),C,C,True,5.196569267,75,272
+464,What does 'patent' protect?,The answer is (C),C,C,True,2.502834174,73,144
+463,What does 'aloha' mean in Hawaiian?,The answer is (C),C,C,True,3.643989941,78,144
+468,What does 'shalom' mean in Hebrew?,The answer is (C),C,C,True,2.182086343,78,144
+466,What sound does a cow make?,The answer is (C),C,C,True,2.925459137,70,144
+467,What is the name of the study of fish?,The answer is (C),C,C,True,2.692531028,77,144
+470,What country is Stonehenge located in?,The answer is (D),D,D,True,3.422945004,69,144
+465,What company makes the Xbox?,The answer is (C),C,C,True,4.754978889,66,272
+476,Who played James Bond in 'Casino Royale' (2006)?,The answer is (D),D,D,True,2.217735079,79,80
+471,What are the three states of matter?,The answer is (A),A,A,True,4.065892455,84,208
+473,What is a wireframe in design?,The answer is (B),B,B,True,4.479562407,83,208
+472,What is the name of code that repeats a set of instructions?,"A structure that repeats a set of instructions is called a loop. Functions encapsulate reusable code, conditions control branching, and variables store data.  The answer is (C)",C,C,True,4.779065949,73,300
+477,What is the capital of Ireland?,The answer is (D),D,D,True,3.825556835,69,208
+469,What is the name of the scale used to measure wind speed in hurricanes?,"- Fujita scale measures tornado intensity, not hurricanes. - Richter scale measures earthquake magnitude. - Beaufort scale estimates general wind force, not specifically hurricane categories. - Saffir-Simpson scale categorizes hurricanes by sustained wind speed.  The answer is (D)",D,D,True,6.586260767,86,320
+474,What is the name for the text of a film or play?,The text of a film or play is called a script or screenplay; “libretto” is specifically for operas and musicals.  The answer is (B),B,B,True,4.978395914,77,298
+480,What is the name of the study of maps?,The answer is (C),C,C,True,2.579852236,74,80
+479,What are the Nobel Prize categories?,The answer is (A),A,A,True,3.463702072,107,144
+475,What is the capital of Bolivia?,The answer is (C),C,D,False,5.546192327,72,272
+478,What is the name for the written notation of a piece of music?,The answer is (B),B,B,True,4.62670949,75,208
+483,What does 'per se' mean?,The answer is (A),A,A,True,1.839608694,73,80
+481,What is the largest species of bear?,The answer is (D),D,D,True,3.623498011,74,272
+482,How many stars are approximately in the Milky Way?,"Astronomical estimates based on the Milky Way’s mass, luminosity, and star formation history suggest a broad range, typically cited as roughly 100 to 400 billion stars.  The answer is (B)",B,B,True,3.17192617,83,181
+486,What does 'AR' stand for in technology?,The answer is (B),B,B,True,2.751398522,75,144
+493,What sport is known as America's pastime?,The answer is (C),C,C,True,1.163809622,70,16
+489,In which year did World War I begin?,The answer is (D),D,D,True,3.01363542,77,144
+485,What do you call music without words?,The answer is (A),A,A,True,4.158469659,71,272
+492,What are the four instruments in a standard string quartet?,The answer is (A),A,A,True,2.251595424,97,144
+487,Who wrote 'Hamlet'?,The answer is (D),D,D,True,4.178173087,74,272
+484,What is the name of the person who manages a server or network?,"A system administrator (sysadmin) is responsible for configuring, maintaining, and ensuring the reliability and security of servers and networks.  The answer is (C)",C,C,True,5.222510236,76,425
+491,What does 'ATM' stand for?,"First, recall the common expansion used in banking and official standards: ATM stands for Automated Teller Machine, not Automatic Teller Machine.  - Option A: ""Automatic Teller Machine"" — commonly said but incorrect. - Option B: ""Automated Transaction Machine"" — incorrect; the ""T"" stands for Teller, not Transaction. - Option C: ""Automated Teller Machine"" — correct. - Option D: ""Automatic Transaction Machine"" — incorrect for both words.  The answer is (C)",C,C,True,3.764983408,76,172
+488,What is the square root of 4?,The square root of 4 is 2. The answer is (B),B,B,True,4.909439281,73,346
+490,What is a fossil fuel?,"Fossil fuels (coal, oil, natural gas) form over millions of years from the buried remains of ancient plants and animals, not just dinosaurs, and are not synthetic.  The answer is (A)",A,A,True,4.526358261,76,308
+494,What is the name of the process by which a caterpillar becomes a butterfly?,"Metamorphosis is the biological process where an insect undergoes distinct life stages; a caterpillar (larva) becomes a butterfly (adult). Germination is for seeds, evolution is long-term species change, and transformation is a generic term.  The answer is (B)",B,B,True,3.087315122,80,258
+498,What is the name of the coffee shop in 'Friends'?,The answer is (C),C,C,True,1.957821546,80,80
+499,How many players are on a basketball team on the court?,The answer is (C),C,C,True,2.410407135,76,80
+500,What is the name of the Trojan War's greatest Greek warrior?,The answer is (D),D,D,True,2.340274903,76,144
+496,What is the largest land animal?,"- Hippopotamus: Large and heavy, but not the largest. - Rhinoceros: Very large, but smaller than an elephant. - African Elephant: The largest land animal by both weight and height. - Giraffe: Tallest animal, but not the heaviest.  The answer is (C)",C,C,True,3.564720996,74,201
+504,What does 'organic' food mean?,The answer is (B),B,B,True,2.38624679,82,144
+503,What is the capital of Lebanon?,The answer is (D),D,D,True,3.345233647,70,144
+495,Who painted 'The Starry Night'?,The answer is (C),C,C,True,5.52643457,78,272
+505,"What is the name of the punctuation mark ','?",The answer is (C),C,C,True,3.014610781,72,208
+497,In which sport is a 'slam dunk' a move?,A slam dunk is a scoring move in basketball where a player jumps and forcefully puts the ball through the hoop.  The answer is (B),B,B,True,5.245633468,73,295
+501,What part of the body filters blood?,"The kidneys filter the blood to remove wastes and excess fluid, forming urine. The answer is (C)",C,C,True,5.100589171,71,223
+508,Who played Iron Man in the Marvel movies?,The answer is (C),C,C,True,3.094031229,77,80
+502,What color are a polar bear's hairs actually?,"Although polar bears appear white, each hair shaft is actually transparent and hollow, scattering light to look white. The answer is (C)",C,C,True,5.031088995,72,357
+513,What is the name of the ship in 'Pirates of the Caribbean'?,The answer is (B),B,B,True,2.30181936,87,144
+507,What does 'open source' software mean?,The answer is (B),B,B,True,4.380657874,84,272
+506,What is the resolution of 'Full HD' video?,The answer is (D),D,D,True,4.624482997,81,272
+512,What is the longest river in the world?,The answer is (D),D,D,True,3.01750548,71,144
+515,What is the name of a programming statement that checks a condition?,The answer is (D),D,D,True,1.720459428,74,80
+510,What is the Roman numeral for 50?,The answer is (D),D,D,True,4.048025722,69,144
+518,What is a marsupial?,The answer is (B),B,B,True,1.67762191,88,80
+514,What is the name of the lion in 'The Lion King'?,The answer is (B),B,B,True,3.076699597,77,144
+517,What does 'bitte' mean in German?,The answer is (B),B,B,True,2.528024294,74,144
+519,Who wrote 'Don Quixote'?,The answer is (B),B,B,True,2.653938865,77,144
+511,What is a baby swan called?,The answer is (C),C,C,True,5.746868567,72,272
+520,What does 'GPS' stand for?,The answer is (B),B,B,True,2.735690153,78,144
+522,What is the capital of the Netherlands?,The answer is (D),D,D,True,1.723098576,69,80
+525,What is the name of Homer Simpson's boss?,The answer is (D),D,D,True,2.078006134,78,80
+524,What is the name of the body part that breaks down food?,The stomach is the organ that primarily breaks down food during digestion.  The answer is (C),C,C,True,2.842169737,75,157
+529,What is the symbol for potassium on the periodic table?,The answer is (D),D,D,True,2.325242331,72,80
+526,What does 'ping' measure in networking?,The answer is (C),C,C,True,2.92294624,76,144
+521,What is the term for converting data into a code to prevent unauthorized access?,"Converting readable data (plaintext) into an unreadable code (ciphertext) to prevent unauthorized access is encryption. Decryption is the reverse process, hashing is one-way for integrity, and a firewall controls network traffic.  The answer is (D)",D,D,True,5.145345262,77,252
+516,What is a baby rabbit called?,The answer is (A),A,A,True,6.905840523,70,272
+527,What is the most populated country in the world?,The answer is (B),B,B,True,3.027264036,70,144
+528,What is the 'exposition' of a story?,"Exposition is the part of a story that introduces the setting, characters, and background information needed to understand the plot.  The answer is (C)",C,C,True,3.214778639,76,168
+509,What is the name of the clock in London also known as Big Ben?,Big Ben is the nickname for the Great Bell in the clock at the Palace of Westminster; the tower itself is named Elizabeth Tower.  The answer is (A),A,A,True,10.100020166,79,554
+534,"What is the name for a story that teaches a moral lesson, often with animals?",The answer is (D),D,D,True,1.614315573,79,80
+537,What is the capital of El Salvador?,The answer is (D),D,D,True,1.29876315,73,80
+532,What is the national dish of Spain?,The answer is (C),C,C,True,2.676186735,73,144
+536,What does 'carte blanche' mean?,The answer is (A),A,A,True,2.989676605,75,144
+535,What two colors make green?,The answer is (D),D,D,True,3.548606336,74,144
+538,Who was the leader of Nazi Germany?,The answer is (C),C,C,True,2.920190946,69,144
+531,What is the name of the study of animals?,The answer is (C),C,C,True,5.796854562,74,336
+539,What company owns Instagram?,The answer is (D),D,D,True,2.922165004,65,144
+541,What is the capital of Brazil?,The answer is (C),C,C,True,2.187137168,70,80
+540,What is the first move requirement for castling in chess?,The answer is (A),A,A,True,2.700986462,87,144
+533,What is the difference between a preface and a foreword?,The answer is (B),B,B,True,5.028366661,101,336
+542,What color is an emerald?,The answer is (C),C,C,True,2.584860513,66,144
+530,What is the name of the musical symbol that looks like the letter 'S'?,The answer is (B),B,B,True,7.552544705,87,464
+543,What does 'ni hao' mean in Mandarin?,The answer is (D),D,D,True,2.513915155,71,80
+544,What does 'ubuntu' mean in African philosophy?,The answer is (A),A,A,True,2.814770896,81,144
+549,What is the capital of Qatar?,The answer is (C),C,C,True,2.488679595,73,144
+546,What is the name for software that secretly monitors your computer?,The answer is (D),D,D,True,2.963256071,76,144
+545,How many senses do humans traditionally have?,The answer is (B),B,B,True,3.139544114,72,208
+547,What is the capital of Venezuela?,The answer is (D),D,D,True,3.232174814,72,208
+552,What is the capital of Syria?,The answer is (D),D,D,True,2.361422504,70,144
+553,What does 'crescendo' mean in music?,The answer is (C),C,C,True,2.267874722,74,80
+555,What is the hardest natural substance on Earth?,The answer is (C),C,C,True,2.49794909,69,80
+554,What is the opposite of prose?,The answer is (D),D,D,True,2.932186397,70,208
+550,What does 'renewable energy' mean?,The answer is (B),B,B,True,4.335114393,85,272
+557,What is a 'sans-serif' font?,"- Serif fonts have small decorative strokes (serifs) at the ends of letters. - ""Sans"" means ""without,"" so sans-serif fonts do not have these decorative strokes.  The answer is (C)",C,C,True,3.362744779,84,180
+548,What does 'upload' mean?,"Upload refers to transmitting data from your device to a remote server or service (as opposed to download, which is receiving data).  The answer is (C)",C,C,True,7.570396683,83,297
+556,What is an anagram?,An anagram is a word or phrase formed by rearranging the letters of another word or phrase. The answer is (B),B,B,True,4.692528605,85,356
+560,What does 'de facto' mean?,The answer is (C),C,C,True,2.391395683,74,80
+558,What is the approximate age of the universe?,The answer is (C),C,C,True,3.969051417,85,272
+559,What is the name of the closest star to Earth (after the sun)?,The answer is (B),B,B,True,5.217457981,81,272
+564,What is the name for unwanted bulk email?,The answer is (C),C,C,True,2.066061302,70,80
+565,What is a baby sheep called?,The answer is (B),B,B,True,2.236143016,69,80
+561,What is the binary number system based on?,The answer is (D),D,D,True,4.483548326,77,272
+562,What is the name of the change from liquid to gas?,The answer is (B),B,B,True,4.760981234,77,336
+563,What does 'bon voyage' mean?,The answer is (C),C,C,True,4.547982809,74,208
+570,Who sang 'Thriller'?,The answer is (B),B,B,True,2.035940231,70,144
+568,What is the symbol for silver on the periodic table?,The answer is (B),B,B,True,2.448962182,71,144
+567,What does 'copyright' protect?,The answer is (C),C,C,True,4.094296364,73,208
+569,What is the capital of Panama?,The answer is (D),D,D,True,2.918911881,71,208
+571,In which city is the Nobel Peace Prize awarded?,"The Nobel Peace Prize is unique among the Nobel Prizes because it is awarded by the Norwegian Nobel Committee in Norway, while the other prizes are awarded in Sweden. Therefore, it is awarded in Oslo.  The answer is (D)",D,D,True,2.885761465,70,184
+573,What does 'hola' mean in Spanish?,The answer is (D),D,D,True,2.30575706,70,144
+572,What do you call the list of references at the end of a book?,The answer is (D),D,D,True,3.223371034,79,208
+575,What does 'i.e.' stand for?,The answer is (B),B,B,True,2.076823406,76,144
+576,What CSS property changes the size of text?,The answer is (D),D,D,True,2.541848631,72,208
+578,What is the capital of the Dominican Republic?,The answer is (C),C,C,True,2.832346744,77,144
+577,What is the term for an animal that sleeps through winter?,"Animals that sleep through winter undergo hibernation, which is a seasonal state of reduced metabolic activity to survive cold and scarce food. The answer is (D)",D,D,True,3.570991077,77,234
+523,What does 'streaming' mean in media?,The answer is (B),B,B,True,25.766665638,86,144
+579,What is the square root of 25?,"25 equals 5 × 5, so its square root is 5. The answer is (B)",B,B,True,3.589314117,73,224
+580,What is the file extension for a PowerPoint file?,The answer is (A),A,A,True,3.419378496,77,208
+582,What is the name of the famous clock tower in London?,The answer is (A),A,A,True,2.667480749,77,144
+581,What family of instruments does a trumpet belong to?,The answer is (C),C,C,True,3.460111757,72,208
+583,What does 'HDD' stand for?,The answer is (B),B,B,True,1.904976259,77,144
+574,What do caterpillars turn into?,The answer is (B),B,B,True,6.138901466,76,336
+584,What is the capital of Jordan?,The answer is (D),D,D,True,2.11697229,71,80
+551,Where was Napoleon Bonaparte born?,The answer is (C),C,C,True,16.95555788,69,208
+587,What is the name of the study of the past through excavation?,The answer is (D),D,D,True,2.369281328,75,80
+566,What is the name of the study of earthquakes?,"The study of earthquakes is seismology; geology is broader, volcanology focuses on volcanoes, and tectonics studies plate movements.  The answer is (C)",C,C,True,12.156119518,77,299
+585,What is the first month of the year?,The answer is (D),D,D,True,3.063980547,69,208
+592,What is irony?,The answer is (C),C,C,True,1.796888315,77,80
+589,What animal is on the Australian coat of arms alongside the emu?,The answer is (C),C,C,True,2.731723522,81,144
+586,How many players are typically in a string quartet?,The answer is (B),B,B,True,3.497969486,74,272
+591,What is the capital of Russia?,The answer is (D),D,D,True,2.720151027,73,208
+590,What does 'modus operandi' mean?,The answer is (A),A,A,True,3.526312124,75,208
+593,What does 'fps' stand for in video?,The answer is (A),A,A,True,3.575424766,78,144
+595,What is the name of the Egyptian god of the sun?,"Ra is the primary ancient Egyptian sun god, often depicted with a sun disk. Osiris is god of the afterlife, Anubis is god of mummification, and Horus is the sky/falcon god.  The answer is (C)",C,C,True,2.554252438,76,125
+597,What company makes the PlayStation?,The answer is (D),D,D,True,2.427505228,67,144
+588,What is the highest score in a game of bowling?,The answer is (C),C,C,True,5.494287912,75,400
+599,What color is Marge Simpson's hair?,The answer is (D),D,D,True,2.232430933,69,144
+601,What sport is played at Wimbledon?,The answer is (D),D,D,True,2.915458695,68,144
+598,What does 'status quo' mean?,The answer is (C),C,C,True,4.022024761,75,272
+600,What is the name of a stored value in programming?,The answer is (C),C,C,True,3.768156606,71,272
+594,What is the name of the two dots placed over letters like 'ü'?,"- The two dots over letters like ü indicate a change in vowel quality in German; this mark is called an umlaut. - In other languages (e.g., French, Spanish), the same two-dot mark can indicate that a vowel is pronounced separately; in that context, it’s called a diaeresis. - Tilde (~) is a wavy line (e.g., ñ), circumflex (^) is a caret over a letter (e.g., â), and cedilla (¸) is a hook under a letter (e.g., ç).  The answer is (B)",B,B,True,5.094112772,85,321
+602,What streaming service created 'Stranger Things'?,The answer is (C),C,C,True,3.027085683,71,208
+605,How many strings does a standard guitar have?,"- A standard guitar in common use (acoustic or electric) is designed with six strings. - Variants exist (e.g., 12-string, 7-string, bass with 4 or 5), but the standard guitar has 6.  The answer is (D)",D,D,True,2.743226147,73,131
+604,What is the name of the Egyptian goddess of the sky?,The answer is (B),B,B,True,3.14510174,74,144
+603,What does 'tempo' mean in music?,The answer is (C),C,C,True,3.590538069,72,208
+606,What is the literary term for repeating a word or phrase for effect?,The answer is (C),C,C,True,3.557790893,80,208
+596,What is the name of the fairy in Peter Pan?,The answer is (C),C,C,True,6.526928117,75,464
+607,What sport uses the term 'ace' for a served point won without the opponent touching the ball?,The answer is (C),C,C,True,2.816916917,83,144
+608,What type of animal is a dolphin?,The answer is (D),D,D,True,3.364978355,73,208
+611,What does 'a.m.' stand for?,The answer is (B),B,B,True,2.593913313,78,144
+609,What is the name for the spacing between groups of letters uniformly?,The answer is (D),D,D,True,3.531217431,75,272
+612,What type of animal is Dumbo?,The answer is (C),C,C,True,3.54077014,69,272
+614,What gas is primarily responsible for global warming?,The answer is (C),C,C,True,3.133059721,72,144
+619,What is the capital of Oman?,The answer is (D),D,D,True,2.228755668,71,80
+617,What is the capital of Bahrain?,The answer is (C),C,C,True,2.942745405,73,144
+610,What is the name of the award given for excellence in film?,"Grammys honor music, Emmys honor television, Tonys honor theater, and Oscars (Academy Awards) honor film.  The answer is (D)",D,D,True,5.603170181,73,362
+616,What is the name of the stick used in ice hockey?,The answer is (C),C,C,True,3.978071833,74,208
+618,What is the capital of Montenegro?,"Montenegro’s current capital is Podgorica (while Cetinje is the historical/royal capital). Among the options, Podgorica is listed as D.  The answer is (D)",D,D,True,3.161154608,72,177
+622,What does 'de jure' mean?,The answer is (D),D,D,True,2.114375472,74,80
+620,What does 'TB' stand for?,"TB refers to a unit of digital storage measured in bytes (not bits), so it stands for terabytes.  The answer is (C)",C,C,True,3.45495561,75,166
+613,What is the name of the Norse god of thunder?,The answer is (C),C,C,True,5.924849775,73,144
+621,What does 'IDE' stand for in programming?,The answer is (B),B,B,True,2.822481108,78,144
+615,What is the name of the protective shell a caterpillar makes before becoming a butterfly?,The answer is (D),D,D,True,6.014862195,79,336
+625,What is the capital of Costa Rica?,The answer is (B),B,B,True,2.440920375,73,144
+628,What is the name of the story about a boy who cried wolf?,The answer is (A),A,A,True,1.784412555,89,80
+630,What is the largest desert in the world?,The answer is (D),D,D,True,1.730748703,70,80
+626,How many strings does a violin have?,The answer is (D),D,D,True,3.316600025,72,272
+623,What is the name for a group of musicians who play classical music together?,The answer is (C),C,C,True,3.96293916,75,272
+624,What is the name of the boundary at which objects cannot escape a black hole's gravity?,"- Photon sphere: region where light can orbit a black hole but escape is still possible with perturbations; not the point of no return. - Singularity: the central point of infinite density inside the black hole, not the boundary. - Accretion disk: hot, glowing matter orbiting outside the black hole. - Event horizon: the boundary beyond which nothing can escape.  The answer is (D)",D,D,True,4.205173499,84,284
+632,What is the name for animals that eat both plants and meat?,The answer is (C),C,C,True,2.056210473,81,80
+634,What does 'por favor' mean in Spanish?,The answer is (C),C,C,True,1.851840102,71,80
+629,What is the second most populated country in the world?,The answer is (D),D,D,True,3.739762545,71,208
+627,What is the name for the process of converting sunlight into electricity?,Converting sunlight directly into electricity using solar cells is known as the photovoltaic effect.  The answer is (B),B,B,True,4.760371798,82,352
+633,What is the tallest animal in the world?,The answer is (B),B,B,True,3.257940057,71,272
+635,What black and white animal is known for its strong smell defense?,The answer is (C),C,C,True,2.934456788,77,208
+636,What does 'xie xie' mean in Mandarin?,The answer is (C),C,C,True,2.930930528,73,144
+637,What is a pun?,The answer is (A),A,A,True,2.830937589,77,208
+638,What is a young horse called?,"A pup is a young dog, and a calf is a young cow. A colt is specifically a young male horse. The general term for a young horse of either sex is ""foal.""  The answer is (C)",C,C,True,2.774143701,69,183
+639,What does 'HTTP' stand for?,The answer is (B),B,B,True,2.718099766,81,208
+641,What is the capital of Malta?,The answer is (C),C,C,True,2.265335759,71,80
+640,Who proposed the theory of gravity after seeing an apple fall?,The answer is (C),C,C,True,2.639993883,79,144
+642,What does the prefix 'tri-' mean?,The answer is (C),C,C,True,1.97716306,69,80
+646,What is the last month of the year?,The answer is (C),C,C,True,1.904766741,69,144
+643,What color is a sapphire?,The answer is (B),B,B,True,3.008560408,66,208
+651,What is the most popular programming language for web development (frontend)?,The answer is (D),D,D,True,1.519943951,74,80
+645,How many innings are in a standard baseball game?,The answer is (C),C,C,True,2.925359118,74,208
+648,What year was Google founded?,The answer is (C),C,C,True,2.648280162,74,208
+647,What is the national bird of India?,The answer is (D),D,D,True,2.92237511,69,144
+649,What is the symbol on the Canadian flag?,The answer is (A),A,A,True,2.336945463,73,144
+653,What is the name for a word's dictionary definition?,The answer is (D),D,D,True,2.125377238,75,80
+650,In which country did the martial art Taekwondo originate?,The answer is (D),D,D,True,3.611965567,73,208
+654,What does 'HTML' stand for?,The answer is (B),B,B,True,2.091124281,83,144
+652,What is the name of the Norse king of the gods?,The answer is (D),D,D,True,2.627951577,74,144
+657,What is the capital of Bosnia and Herzegovina?,The answer is (D),D,D,True,1.617851504,75,80
+631,What is the name of the trophy in the NBA Finals?,The answer is (B),B,B,True,9.906348578,83,464
+658,What country did croissants originate from?,The answer is (B),B,B,True,2.018842663,68,80
+656,What type of animal is a frog?,The answer is (C),C,C,True,2.150676412,74,80
+655,What does 'responsive design' mean in web development?,The answer is (B),B,B,True,2.758721761,87,208
+662,"In volleyball, how many players are on each side of the net?",The answer is (D),D,D,True,1.901237664,78,80
+663,What is the boiling point of water in Celsius?,The answer is (C),C,C,True,2.077561926,78,144
+664,What does 'IoT' stand for?,The answer is (A),A,A,True,2.121718993,77,144
+660,What is tofu made from?,The answer is (C),C,C,True,2.81201403,68,208
+661,What two colors make purple?,The answer is (C),C,C,True,2.86464515,74,208
+659,What is the name for an introductory section of a book or play?,The answer is (D),D,D,True,3.468020675,77,208
+666,What is the main character's name in 'The Simpsons'?,The answer is (C),C,C,True,2.748042877,74,208
+668,What does 'adiós' mean in Spanish?,The answer is (D),D,D,True,1.592688269,71,80
+667,What is the file extension for a GIF image?,The answer is (B),B,B,True,2.586341783,74,144
+670,What does 'FAQ' stand for?,The answer is (B),B,B,True,1.91859375,78,144
+665,What is the national animal of Scotland?,"Scotland’s official national animal is the unicorn, a longstanding symbol in Scottish heraldry. The answer is (D)",D,D,True,4.217923261,71,354
+671,What does 'GUI' stand for?,The answer is (C),C,C,True,2.136948522,78,144
+672,What is syntax?,The answer is (B),B,B,True,2.171950412,69,144
+644,What is the name of Adobe's free design tool launched as a competitor to Figma?,The answer is (A),A,A,True,9.971373571,80,528
+669,What does 'VIP' stand for?,The answer is (B),B,B,True,2.689175984,77,144
+676,What is the name of the famous palace in Versailles?,The answer is (C),C,C,True,2.075129369,83,80
+674,What is the term for protecting computer systems from attacks?,The answer is (C),C,C,True,2.975908185,72,144
+681,What is the capital of Jamaica?,The answer is (C),C,C,True,2.379423237,73,144
+680,What is the name of the largest lake in the world?,The answer is (C),C,C,True,2.535124619,80,80
+682,What is the name of the fairy tale character who is made of wood and wants to be a real boy?,The answer is (A),A,A,True,2.584770961,89,144
+675,What type of animal is a crocodile?,The answer is (D),D,D,True,4.156221652,75,272
+679,What is the capital of Mozambique?,The answer is (D),D,D,True,3.169742255,72,144
+677,What is the primary colors in painting (traditional)?,The answer is (A),A,A,True,3.85701942,87,272
+684,How many times has Brazil won the FIFA World Cup?,The answer is (C),C,C,True,2.577831162,75,144
+673,What is the name of the fairy tale where a girl eats a poisoned apple?,The answer is (D),D,D,True,5.967538698,80,144
+686,How many colors are in a rainbow?,The answer is (C),C,C,True,2.059193373,72,80
+687,How often are the Summer Olympics held?,The answer is (C),C,C,True,2.187340589,80,144
+678,What is the capital of Myanmar?,"The capital of Myanmar is Naypyidaw, which replaced Yangon as the capital in the mid-2000s.  The answer is (C)",C,C,True,5.065830499,72,360
+685,How many official languages does Switzerland have?,The answer is (C),C,C,True,2.610112869,72,144
+688,What is the name of the largest organ in the human body?,The answer is (D),D,D,True,2.399353351,74,144
+689,What is the most common blood type in humans?,The answer is (C),C,C,True,2.498181652,70,144
+690,What is the capital of Yemen?,The answer is (D),D,D,True,2.208063798,72,80
+691,What is 'serif' in typography?,The answer is (B),B,B,True,1.726373154,88,80
+683,What does 'OS' stand for in computing?,"OS stands for Operating System, the core software that manages a computer’s hardware and software resources. The answer is (B)",B,B,True,5.173556768,74,355
+692,How many months are in a year?,The answer is (C),C,C,True,2.079142004,72,144
+695,What does 'grazie' mean in Italian?,The answer is (D),D,D,True,2.220993315,71,144
+696,What type of galaxy is the Milky Way?,"The Milky Way is a barred spiral galaxy, which falls under the spiral category.  The answer is (D)",D,D,True,2.749269268,74,161
+694,What does 'CLI' stand for?,The answer is (B),B,B,True,3.070553528,76,208
+699,What genre of book involves solving a mystery?,The answer is (D),D,D,True,2.302551627,73,144
+693,Who invented the light bulb?,The answer is (C),C,C,True,3.837629162,71,208
+700,What is the name of the theory about the origin of the universe?,The answer is (C),C,C,True,2.67986069,83,144
+698,What chemical is the ozone layer primarily made of?,"The ozone layer is a region in the stratosphere with a high concentration of ozone molecules. Ozone is a triatomic form of oxygen (O3), distinct from the diatomic oxygen (O2) we breathe. It absorbs harmful ultraviolet radiation. Therefore, the correct choice is ozone (O3).  The answer is (C)",C,C,True,3.032373394,79,206
+701,What is the name of a group of crows?,The answer is (B),B,B,True,2.653727193,72,144
+697,What is the name of the fairy tale where a girl visits the three bears?,"- The fairy tale involving a girl who enters the house of three bears, tries their porridge, chairs, and beds, is ""Goldilocks and the Three Bears."" - Among the options, ""Goldilocks"" corresponds to that story.  The answer is (C)",C,C,True,4.20222219,85,258
+703,How many letters are in the Arabic alphabet?,The answer is (C),C,C,True,2.446252616,73,144
+702,What does 'IP' stand for in IP address?,The answer is (A),A,A,True,3.349116624,75,208
+707,What is the name of the book that contains facts about many topics?,The answer is (B),B,B,True,2.981331206,75,144
+706,What is the name of the highest civilian award in the USA?,The answer is (C),C,C,True,3.464551173,83,144
+708,What is the capital of Japan?,The answer is (C),C,C,True,3.039929855,67,208
+709,What does 'SDK' stand for?,The answer is (B),B,B,True,3.64866703,76,208
+712,What is the most spoken language in the world by native speakers?,The answer is (D),D,D,True,2.704128766,74,144
+704,What is iambic pentameter?,The answer is (B),B,B,True,4.824307006,91,272
+711,What is the name of the longest bone in the human body?,The longest bone in the human body is the femur (thigh bone).  The answer is (C),C,C,True,3.545280622,76,224
+713,What is a group of lions called?,The answer is (C),C,C,True,3.548234431,69,208
+710,What is the largest planet in our solar system?,The answer is (D),D,D,True,4.923520467,71,272
+705,How many planets in the solar system are closer to the Sun than Earth?,The answer is (C),C,C,True,6.015361906,79,336
+719,What is a synonym?,A synonym is a word with a similar meaning to another word. The answer is (C),C,C,True,1.924973002,81,93
+716,What is the term for when a king is under direct attack in chess?,The answer is (C),C,C,True,3.13468344,78,144
+717,What is the capital of Afghanistan?,The answer is (D),D,D,True,3.038438516,74,144
+715,What is the name of the programming language created by Apple for iOS apps?,The answer is (D),D,D,True,4.315542387,78,144
+714,How long does it take light from the sun to reach Earth?,The answer is (B),B,B,True,4.796976514,81,272
+725,What is the name for a concluding section after the main story?,The answer is (D),D,D,True,3.209156692,77,144
+723,What is the name of the most famous dog astronaut?,The answer is (C),C,C,True,4.141517298,76,272
+727,What is the capital of Algeria?,The answer is (C),C,C,True,2.42847191,71,144
+720,What is an antonym?,The answer is (B),B,B,True,5.514666982,83,208
+721,What is the capital of Belgium?,The answer is (C),C,C,True,5.603134969,69,272
+724,What is the name of Anthropic's AI assistant?,The answer is (D),D,D,True,4.404202826,73,272
+718,What is a simile?,The answer is (B),B,B,True,7.143486582,88,464
+728,What is the name of the most prestigious scientific award?,"The Nobel Prize is widely regarded as the most prestigious scientific award across multiple disciplines (Physics, Chemistry, Physiology or Medicine), whereas the Fields Medal is specific to mathematics, the Turing Award to computer science, and the Lasker Award to biomedical research.  The answer is (C)",C,C,True,3.462788386,78,196
+722,What is the name for the story told within a story?,The answer is (C),C,C,True,6.186802728,76,208
+732,Who invented the telephone?,The answer is (C),C,C,True,2.294678773,74,144
+730,What is the name for animals that give birth to live young?,The answer is (B),B,B,True,2.973540634,86,144
+729,What is the name of the most popular image editing software?,"- We compare the options:   - Paint is a basic drawing tool, not widely used for advanced image editing.   - GIMP is a popular open-source editor but less widely adopted in professional settings.   - Lightroom is focused on photo management and color correction, not full image editing.   - Photoshop is the industry standard and most widely used image editing software worldwide.  The answer is (D)",D,D,True,3.958029239,73,218
+736,What is the name for a computer program that replicates itself?,The answer is (B),B,B,True,2.470207495,76,144
+734,"In HTML, what does a 'tag' do?",The answer is (B),B,B,True,3.327853125,79,144
+726,What is the name of the symbol used in music to indicate the beginning of a staff?,"A clef is the symbol placed at the beginning of the staff to indicate the pitch of the notes on the lines and spaces (e.g., treble, bass). The key signature and time signature appear after the clef.  The answer is (C)",C,C,True,7.101301442,81,446
+733,What is the name of the first space station?,The answer is (C),C,C,True,3.79057306,75,144
+731,What year was TikTok founded?,The answer is (A),A,A,True,5.701657493,75,272
+739,What is the name of the largest rainforest in the world?,The answer is (B),B,B,True,2.931942134,83,144
+740,What type of energy comes from the sun?,The answer is (C),C,C,True,2.130063383,74,80
+737,What is the most popular sport in the world?,"Soccer (association football) has the largest global fan base and participation, making it the most popular sport worldwide.  The answer is (D)",D,D,True,5.036014282,73,295
+741,What is 'latency' in networking?,The answer is (B),B,B,True,2.665958847,85,144
+743,What is the capital of Honduras?,The answer is (C),C,C,True,2.438823489,76,144
+742,What is the name of the most popular open source operating system?,The answer is (D),D,D,True,2.663871773,74,144
+738,What is the name of the study of insects?,The answer is (C),C,C,True,4.360164861,76,272
+735,What is the name of the nearest galaxy to the Milky Way?,The answer is (D),D,C,False,5.690392541,86,400
+746,What is the capital of Colombia?,The answer is (D),D,D,True,1.376028733,70,80
+747,What is the name of the change from solid directly to gas?,The answer is (B),B,B,True,2.024503439,78,80
+744,What is the capital of Kazakhstan?,The answer is (B),B,B,True,3.628625051,73,208
+749,What is the name of the study of reptiles and amphibians?,The answer is (C),C,C,True,2.079697664,81,144
+745,What is the name of the body part that produces insulin?,The answer is (D),D,D,True,3.049949457,76,144
+750,What do you call a humorous 5-line poem?,"A haiku is a 3-line poem, typically about nature. An ode is a lyrical poem, not fixed to 5 lines. A sonnet has 14 lines. A limerick is a humorous 5-line poem with a characteristic rhythm and rhyme scheme.  The answer is (D)",D,D,True,2.85741045,75,199
+751,What is Mario's brother's name in Nintendo games?,The answer is (B),B,B,True,2.84562675,75,144
+752,How many days are in a leap year?,The answer is (B),B,B,True,3.14618717,73,208
+753,What programming language is known for its use of '#include'?,The answer is (D),D,D,True,3.162851864,74,144
+754,What is a baby goat called?,The answer is (C),C,C,True,4.311692628,69,272
+760,What is the name of the Roman goddess of love?,The answer is (D),D,D,True,1.88481707,73,80
+758,What is the capital of Thailand?,The answer is (C),C,C,True,2.690882569,69,144
+748,Who established the Nobel Prize?,The answer is (A),A,A,True,4.998575119,71,400
+761,What is the name for the annual movement of animals from one place to another?,The answer is (B),B,B,True,2.185299372,79,80
+755,What does 'VR' stand for?,"VR commonly stands for Virtual Reality, a computer-generated immersive environment experienced through specialized hardware like headsets.  The answer is (A)",A,A,True,4.536401922,72,292
+759,What HTML tag is used to display an image?,The answer is (A),A,A,True,3.253696214,74,208
+763,What does 'merci' mean in French?,The answer is (D),D,D,True,1.882335787,70,80
+756,What is the name for a play written to be performed?,The answer is (C),C,C,True,5.516229838,75,336
+768,What is the capital of Zimbabwe?,The answer is (D),D,D,True,1.416376321,72,80
+766,What color do you get when you mix red and yellow?,The answer is (B),B,B,True,2.798261938,72,208
+769,What is the capital of Cuba?,The answer is (B),B,B,True,1.969057166,74,80
+765,What is the main ingredient in a margarita?,The answer is (C),C,C,True,3.299086407,72,208
+767,What is the name for the first sentence of an essay designed to grab attention?,The answer is (C),C,C,True,2.662484531,77,144
+762,What is a baby duck called?,"A baby duck is called a duckling; cygnet is a baby swan, gosling is a baby goose, and chick refers to chickens.  The answer is (D)",D,D,True,4.828770447,71,303
+764,What family of instruments does a drum belong to?,The answer is (D),D,D,True,3.807892751,72,208
+773,What is the name of the data structure that follows First In First Out?,The answer is (B),B,B,True,2.433243732,76,80
+776,What is the currency of Australia?,The answer is (B),B,B,True,2.03785608,71,80
+770,What does 'GB' stand for?,The answer is (B),B,B,True,3.921037114,76,208
+775,What is a 'cache' in computing?,The answer is (B),B,B,True,2.623972733,80,144
+772,What is the symbol for carbon dioxide?,"Carbon dioxide consists of one carbon atom and two oxygen atoms, so its chemical formula is CO2.  The answer is (C)",C,C,True,3.870414192,74,228
+778,What does 'gracias' mean in Spanish?,The answer is (D),D,D,True,2.53724343,71,144
+777,What is the deepest ocean trench on Earth?,The answer is (B),B,B,True,2.823215584,78,80
+774,What country did pizza originate from?,The answer is (D),D,D,True,3.157370642,67,272
+771,In which year did the Berlin Wall fall?,The answer is (C),C,C,True,4.64490812,77,272
+779,What is the national animal of China?,The answer is (C),C,C,True,1.617037447,75,80
+780,What is the national bird of the United States?,The answer is (A),A,A,True,2.423220728,75,208
+782,What is the currency of Russia?,The answer is (D),D,D,True,2.821029907,73,144
+787,What is the file extension for HTML files?,The answer is (A),A,A,True,2.049609475,78,80
+788,What does 'WAN' stand for?,The answer is (A),A,A,True,2.239614566,76,144
+781,What does 'narrator' mean?,The answer is (C),C,C,True,4.110294579,77,272
+783,What is the name for planting trees to restore forests?,The answer is (A),A,C,False,4.027037613,81,208
+784,What is the largest continent?,The answer is (A),A,A,True,3.828732957,66,208
+785,What country is Chichen Itza located in?,The answer is (D),D,D,True,3.926432647,70,272
+786,What is the name of the book that contains all words in a language with their meanings?,The answer is (D),D,D,True,4.999789006,82,272
+789,What year was YouTube founded?,The answer is (D),D,D,True,3.865220058,75,272
+791,What does 'konnichiwa' mean in Japanese?,"In Japanese, ""konnichiwa"" is a daytime greeting meaning ""hello"" or ""good afternoon.""  The answer is (C)",C,C,True,3.624193016,77,230
+793,What is the capital of Ecuador?,The answer is (C),C,C,True,2.772134458,71,144
+790,What is the name of the most prestigious literary award?,The Nobel Prize in Literature is generally regarded as the most prestigious global literary award.  The answer is (D),D,D,True,4.472249289,77,288
+797,What is the capital of Kosovo?,The answer is (D),D,D,True,1.997428755,74,80
+795,What is the name of the trophy given to the winner of the Super Bowl?,The answer is (A),A,A,True,3.330615717,82,144
+798,What is the color of the Incredible Hulk?,The answer is (C),C,C,True,1.964848594,69,80
+792,What is the most translated book in the world?,The answer is (C),C,C,True,4.406428651,76,272
+794,What is the capital of Sweden?,The answer is (D),D,D,True,3.52064796,70,208
+796,How many zeros are in one thousand?,The answer is (B),B,B,True,3.414225721,72,208
+799,What is the name for the spacing between individual letters?,The answer is (C),C,C,True,2.144779646,73,80
+800,What does 'bonjour' mean in French?,The answer is (D),D,D,True,2.155220525,74,144
+801,What is the name for the spacing between lines of text?,The answer is (C),C,C,True,1.886153658,74,80
+757,What does 'ASAP' stand for?,The answer is (C),C,C,True,18.768733971,81,144
+802,In what year did humans first land on the moon?,The answer is (D),D,D,True,2.744285649,79,208
+807,What country is the Taj Mahal located in?,The answer is (D),D,D,True,2.615247388,69,144
+805,What is the name of the field where baseball is played?,The answer is (B),B,B,True,2.856676785,77,144
+804,What is '4K' resolution also known as?,The answer is (B),B,B,True,3.457731694,75,208
+810,What is the capital of Iraq?,The answer is (D),D,D,True,2.25454944,70,80
+803,What is the name of the change from liquid to solid?,The answer is (D),D,D,True,3.905214114,77,272
+806,How many Nobel Prize categories are there?,The answer is (C),C,C,True,4.089375869,72,208
+811,What does 'SQL' stand for?,The answer is (A),A,A,True,2.222489139,77,80
+808,What does 'KB' stand for in file sizes?,The answer is (A),A,A,True,3.982786321,79,272
+809,What is the approximate population of the world?,The answer is (C),C,C,True,4.477760149,78,272
+813,How long is a standard marathon?,The answer is (A),A,A,True,3.48696647,77,144
+814,What is the capital of Egypt?,The answer is (B),B,B,True,3.32099326,69,144
+812,What does 'arigatou' mean in Japanese?,Arigatou is the common way to say “thank you” in Japanese.  The answer is (D),D,D,True,3.771325318,73,225
+816,Who was the first person to walk on the Moon?,The answer is (C),C,C,True,2.582175467,78,144
+817,What is the name of the force that causes objects to fall?,The answer is (C),C,C,True,2.584061637,76,80
+815,What is a haiku?,"A haiku is a traditional Japanese short poem, typically with a 5-7-5 syllable structure.  The answer is (C)",C,C,True,3.964846885,77,231
+818,What is the capital of Cameroon?,The answer is (D),D,D,True,3.371903652,74,144
+821,In which year did the Titanic sink?,The answer is (D),D,D,True,2.850792045,76,144
+823,What company makes Photoshop?,The answer is (C),C,C,True,2.524738711,66,144
+825,What is the name of the highest plateau in the world?,The answer is (B),B,B,True,2.572083369,77,80
+822,What family of instruments does a violin belong to?,The answer is (D),D,D,True,2.745052429,72,144
+828,What is a flashback?,The answer is (D),D,D,True,2.073465481,85,80
+824,How many hours are in a day?,The answer is (C),C,C,True,4.603855625,72,208
+832,What sound does a cat make?,The answer is (C),C,C,True,2.768070288,70,144
+829,What nut is used to make marzipan?,The answer is (D),D,D,True,3.183894038,75,144
+819,What is a monotreme?,The answer is (B),B,B,True,7.599755254,87,208
+826,What is the process by which plants make food?,The answer is (C),C,C,True,6.019306465,74,272
+827,What does the prefix 'uni-' mean?,The answer is (A),A,A,True,5.343561365,69,272
+820,What type of food is sushi?,The answer is (C),C,C,True,7.924989582,67,272
+831,What is the square root of 16?,The answer is (B),B,B,True,4.043277481,73,208
+830,What is a group of geese called?,The answer is (C),C,C,True,4.371282663,72,272
+835,What does the prefix 'bi-' mean?,The answer is (C),C,C,True,2.018996223,69,80
+833,What is the name of the pet dinosaur in 'The Flintstones'?,The answer is (C),C,C,True,4.263642097,75,272
+836,What is the name of the writing style that records personal experiences in date order?,The answer is (C),C,C,True,2.268447423,78,80
+834,How many years are in a millennium?,The answer is (D),D,D,True,3.443364152,74,208
+839,What is the name of the scale used to measure earthquake magnitude?,The answer is (B),B,B,True,2.537071611,84,144
+841,What is the capital of Kuwait?,The answer is (C),C,C,True,2.616027696,72,144
+837,What does 'namaste' mean in Hindi?,"Namaste comes from Sanskrit: “namah” (I bow) + “te” (to you), literally “I bow to you.” In Hindi it’s used as a respectful greeting.  The answer is (A)",A,A,True,3.474484681,74,183
+840,What planet is known as the Red Planet?,The answer is (D),D,D,True,3.021934784,69,144
+842,What is the currency of the United States?,The answer is (D),D,D,True,2.829647083,69,144
+844,What is a quarter of 100?,The answer is (D),D,D,True,2.112764358,72,144
+846,What is the square root of 9?,The answer is (B),B,B,True,1.985159985,73,80
+838,What is the name of the Norse god of mischief?,"I can’t provide step-by-step reasoning, but the Norse god of mischief is Loki.  The answer is (D)",D,D,True,4.093243025,74,292
+845,What is personification?,The answer is (C),C,C,True,2.569535174,79,80
+843,What is the most popular video streaming platform?,The answer is (D),D,D,True,3.363229309,72,208
+849,What is the name of the most famous sans-serif font?,The answer is (C),C,C,True,2.976793185,77,208
+851,What is the name of the field where American football is played?,The answer is (C),C,C,True,3.037932227,75,144
+853,What does 'vertebrate' mean?,The answer is (B),B,B,True,2.81485954,79,144
+855,What two colors make orange?,The answer is (B),B,B,True,2.895897922,74,80
+854,What is the capital of Guatemala?,The answer is (D),D,D,True,3.074133726,73,208
+847,What type of poem does not rhyme?,The answer is (D),D,D,True,4.279985065,73,272
+850,What is the symbol for water in chemistry?,The answer is (B),B,B,True,3.693161893,74,208
+856,What is a synonym for 'happy'?,The answer is (C),C,C,True,2.864232116,71,208
+857,What is the capital of Nigeria?,The answer is (B),B,B,True,2.546981283,69,144
+864,What is the currency of China?,The answer is (B),B,B,True,4.973208499,68,80
+859,What does 'RSVP' stand for in French?,The answer is (C),C,C,True,5.762490983,87,144
+865,How many stars are on the American flag?,The answer is (D),D,D,True,4.619028619,73,80
+858,What is the file extension for CSS files?,The answer is (D),D,D,True,7.505498335,73,144
+861,What is the name of the fairy tale character who left a glass slipper?,The answer is (D),D,D,True,7.365407357,79,80
+863,What is the name of the process of designing products with the user's needs in mind?,The answer is (C),C,C,True,7.544800488,84,272
+862,What is the name of the study of numbers?,Arithmetic is the branch of mathematics that specifically studies numbers and basic operations on them.  The answer is (D),D,C,False,7.562560232,70,224
+868,In which country was the first Olympic Games held in ancient times?,The answer is (D),D,D,True,2.177691965,73,144
+867,What is the name for animals that lay eggs?,The answer is (B),B,B,True,3.250095301,82,208
+866,What is the name of the clownfish in 'Finding Nemo'?,The answer is (C),C,C,True,3.382783136,76,272
+870,What is the capital of Denmark?,The answer is (D),D,D,True,3.253757542,70,144
+873,What is the name for the variety of life on Earth?,The answer is (C),C,C,True,2.293916006,74,144
+869,What does 'GHz' stand for?,The answer is (B),B,B,True,4.794692071,79,272
+874,What is the name of the change from gas to liquid?,The answer is (D),D,D,True,4.400760246,77,336
+872,What is the name of the family in 'The Flintstones'?,"- The main family in the show is Fred and Wilma Flintstone, with their daughter Pebbles Flintstone. - The Rubbles (Barney and Betty) are their neighbors. - Mr. Slate is Fred’s boss. - “Pebble” is not the family name.  The answer is (B)",B,B,True,5.763635563,77,329
+871,What do carnivores eat?,The answer is (B),B,B,True,5.861346904,73,272
+875,What is the capital of Kenya?,The answer is (C),C,C,True,4.884991317,71,272
+878,What type of animal is a penguin?,The answer is (C),C,C,True,3.045085556,72,144
+881,What is the name of the famous painting of a woman by Vermeer?,The answer is (B),B,B,True,2.040111781,89,144
+880,How does the knight move in chess?,The answer is (C),C,C,True,3.067025107,82,208
+884,What is 'two-factor authentication'?,The answer is (B),B,B,True,1.559936378,80,80
+876,What is the name for extra material at the end of a book?,- Preface: introductory remarks at the beginning - Prologue: opening to a story - Epilogue: concluding section of the narrative - Appendix: supplementary or extra material at the end  The answer is (D),D,D,True,7.023658446,78,377
+885,What is the name of the process of finding and fixing errors in code?,The answer is (D),D,D,True,2.302897382,78,144
+882,What is a group of bees called?,The answer is (C),C,C,True,5.182635774,69,400
+877,What is the most common language spoken in the world overall?,The answer is (D),D,D,True,8.359590035,73,592
+886,What is the name for the text of an opera?,The answer is (D),D,D,True,2.776257741,73,144
+887,What symbol is commonly used for comments in JavaScript?,The answer is (D),D,D,True,2.300999028,68,144
+879,What is the name of the main program file in many languages?,The answer is (C),C,C,True,7.223850978,76,464
+889,What country won the first FIFA World Cup in 1930?,The answer is (D),D,D,True,2.061349803,73,144
+890,Who created Mickey Mouse?,The answer is (B),B,B,True,2.873275533,70,144
+891,What is the name of the most popular version control system?,The answer is (D),D,D,True,2.329834911,75,144
+893,What is a baby kangaroo called?,The answer is (C),C,C,True,2.142485729,69,144
+894,What is the capital of Lithuania?,The answer is (D),D,D,True,2.347772695,75,144
+888,What country is home to the Tour de France?,The answer is (D),D,D,True,4.861663854,70,80
+848,What is the capital of the Czech Republic?,The answer is (D),D,D,True,27.739498358,73,80
+860,What is recycling?,The answer is (C),C,C,True,24.581822218,79,144
+883,What is the capital of Israel?,The answer is (C),C,C,True,10.061661491,71,272
+896,What country is Machu Picchu located in?,The answer is (D),D,D,True,2.782106926,70,208
+895,What is the symbol for iron on the periodic table?,The answer is (C),C,C,True,3.473578728,71,208
+898,What is the name of the study of human societies and culture?,The answer is (C),C,C,True,2.423177696,73,144
+852,What does 'CMYK' stand for?,The answer is (C),C,C,True,29.405406221,83,144
+897,What is the capital of Vietnam?,The answer is (C),C,C,True,3.552197939,71,208
+899,Who wrote 'Pride and Prejudice'?,The answer is (D),D,D,True,3.474751102,78,144
+900,What is the name for the process of copying data for safety?,The answer is (D),D,D,True,3.578473878,75,144
+892,What is the name of the princess in 'Frozen'?,The answer is (C),C,C,True,7.55071756,74,528
+902,What does 'sayonara' mean in Japanese?,The answer is (D),D,D,True,2.684387738,72,144
+901,What is the capital of Morocco?,The answer is (D),D,D,True,3.05971985,71,144
+907,What is a 'boolean' value?,The answer is (D),D,D,True,2.092641436,77,144
+905,What is the name of the writing system used in Japan for borrowed words?,The answer is (D),D,D,True,2.66549252,79,144
+906,What empire was Julius Caesar part of?,The answer is (C),C,C,True,2.741864904,68,144
+903,What is the fear of closed spaces called?,The answer is (C),C,C,True,3.912987051,79,144
+908,What does 'second person' point of view mean in writing?,The answer is (B),B,B,True,2.130294636,94,80
+909,What country is Petra located in?,The answer is (C),C,C,True,2.343202474,68,80
+911,What is the closest planet to the Sun?,The answer is (B),B,B,True,2.964776382,69,144
+904,Who was the first man in space?,The answer is (D),D,D,True,5.01815102,74,144
+913,What does 'nein' mean in German?,The answer is (C),C,C,True,2.43694847,70,144
+910,Who wrote 'Harry Potter'?,The answer is (D),D,D,True,3.129777874,79,144
+914,In which city are the Nobel Prizes awarded (except Peace)?,"The Nobel Prizes in Physics, Chemistry, Physiology or Medicine, Literature, and Economic Sciences are awarded in Stockholm, Sweden. Only the Peace Prize is awarded in Oslo, Norway.  The answer is (D)",D,D,True,2.58074627,73,181
+917,What does 'ML' stand for in technology?,The answer is (D),D,D,True,2.216459176,74,80
+915,What do you call a 14-line poem?,A 14-line poem is called a sonnet.  The answer is (D),D,D,True,3.214204788,74,155
+920,What is the capital of Wales?,The answer is (B),B,B,True,1.717236593,67,16
+919,What does 'WWW' stand for?,The answer is (A),A,A,True,1.993289242,76,80
+912,What is the capital of Spain?,The answer is (D),D,D,True,5.467119636,68,464
+923,What is the term for animals that are active at night?,The answer is (C),C,C,True,2.127823293,79,80
+921,What is the name of the famous Greek hero who traveled through many adventures?,The answer is (B),B,B,True,2.599495054,79,144
+925,What is the file extension for a PNG image?,The answer is (C),C,C,True,1.887770817,74,80
+918,What does 'blog' originally stand for?,"Blog is a contraction of ""web log.""  The answer is (C)",C,C,True,4.158997175,73,217
+926,What is the capital of Armenia?,The answer is (D),D,D,True,2.160472267,75,80
+929,What is the decimal number system based on?,The answer is (C),C,C,True,1.657902177,77,80
+930,What is a baby bear called?,The answer is (B),B,B,True,2.123764854,68,144
+931,What social media platform uses a blue bird as its logo (original)?,The answer is (C),C,C,True,1.825427087,75,80
+924,What is the name of the Roman king of the gods?,"Jupiter is the Roman king of the gods (the counterpart of the Greek Zeus). Mars is the god of war, Neptune of the sea, and Pluto of the underworld.  The answer is (D)",D,D,True,4.37186184,72,180
+927,What does 'ROI' stand for in business?,ROI in business stands for Return on Investment.  The answer is (A),A,A,True,3.378055322,78,217
+934,What do you call the list of chapters at the beginning of a book?,The answer is (C),C,C,True,2.595753929,79,208
+933,What is the capital of Ivory Coast?,The answer is (C),C,C,True,3.456822213,78,208
+932,What does 'HR' stand for in a company context?,The answer is (A),A,A,True,4.162148143,76,272
+937,What is the name of the concluding part of a story?,The answer is (D),D,D,True,2.193775206,79,144
+922,What is the capital of Scotland?,The answer is (C),C,C,True,7.483523988,67,144
+928,What is the name of the hole in the ozone layer above?,The answer is (A),A,A,True,5.253913849,73,400
+916,What do herbivores eat?,Herbivores are animals that eat only plants. The answer is (C),C,C,True,9.378486308,73,347
+938,How many fingers does a human have on both hands?,The answer is (C),C,C,True,3.310356306,75,144
+935,What season comes after winter?,Spring follows winter in the seasonal cycle in temperate climates.  The answer is (C),C,C,True,4.280113014,69,284
+940,How many letters are in the Hebrew alphabet?,The answer is (B),B,B,True,2.102389653,73,144
+942,What is the capital of Libya?,The answer is (C),C,C,True,2.909165058,73,208
+939,What is the name for a company's official symbol or design?,The answer is (C),C,C,True,3.687267045,72,208
+941,What is the capital of Ethiopia?,The answer is (C),C,C,True,3.135611826,73,208
+936,What is the symbol for oxygen gas?,"Oxygen gas exists as a diatomic molecule, O2. O is a single atom, O3 is ozone, and 2O represents two separate atoms, not the diatomic gas.  The answer is (C)",C,C,True,5.948510414,72,439
+947,In which year was the first iPhone released?,The answer is (D),D,D,True,2.056955084,78,144
+944,What CSS property changes the background color?,The answer is (C),C,C,True,3.377613918,71,208
+951,What is the name of the Greek god of the sea?,The answer is (D),D,D,True,1.542611098,74,80
+949,What is the capital of Azerbaijan?,The answer is (D),D,D,True,1.935066659,73,144
+946,What is the theme of a story?,The answer is (D),D,D,True,3.880597881,77,272
+943,What is the only continent with no native snakes?,"- Australia is a continent and has many native snake species. - Iceland and Greenland have no native snakes, but they are not continents. - Antarctica is a continent and its extreme climate supports no native snakes.  The answer is (D)",D,D,True,4.977861862,70,249
+948,What instrument is used to measure wind speed?,The answer is (B),B,B,True,3.164111588,74,208
+954,In which fictional city does Batman live?,The answer is (D),D,D,True,2.209463382,72,144
+953,What is the file extension for an Excel file?,The answer is (B),B,B,True,2.370213281,79,144
+950,What does 'podcast' originally stand for?,"The term ""podcast"" is a portmanteau coined in 2004, combining ""iPod"" (Apple’s portable media player) and ""broadcast,"" reflecting downloadable audio programs distributed over the internet.  The answer is (B)",B,B,True,3.121349723,82,251
+945,What is the surface of the US Open tennis tournament?,"The US Open is played on hard courts at the USTA Billie Jean King National Tennis Center (previously DecoTurf, now Laykold).  The answer is (C)",C,C,True,6.047400375,72,366
+952,What country is Angkor Wat located in?,Angkor Wat is located in Cambodia.  The answer is (D),D,D,True,2.970892102,69,216
+958,What is the term for animals that live in water?,The answer is (D),D,D,True,1.916253534,76,80
+955,What is the charge of an electron?,The answer is (B),B,B,True,2.922619984,69,144
+956,What is the name of the boy who never grows up in J.M. Barrie's story?,The answer is (B),B,B,True,3.134135261,84,208
+962,What is the symbol for lead on the periodic table?,"Lead’s chemical symbol comes from its Latin name, plumbum, which gives the symbol Pb. Among the options, Pb corresponds to lead.  The answer is (B)",B,B,True,3.013397254,72,173
+961,What is the world's largest fish?,The answer is (B),B,B,True,3.39704873,74,144
+957,What is the name of the award for the best player in the FIFA World Cup?,The answer is (D),D,D,True,4.701188778,84,336
+966,How many bits are in a byte?,The answer is (B),B,B,True,2.157603785,72,80
+965,What is Superman's weakness?,Kryptonite is Superman’s well-known weakness from the comics and films.  The answer is (C),C,C,True,2.980626481,67,159
+968,What is the capital of the Philippines?,The answer is (C),C,C,True,2.105868162,71,80
+960,What is the name for the main idea of a paragraph?,The answer is (A),A,A,True,5.529186391,74,336
+967,What is the capital of Ghana?,The answer is (D),D,D,True,4.147031853,71,208
+969,What does 'MP' stand for in camera resolution?,The answer is (C),C,C,True,3.090843616,75,144
+959,Who wrote '1984'?,The answer is (C),C,C,True,7.349733564,77,400
+971,What does 'MHz' stand for?,The answer is (C),C,C,True,2.744778001,77,144
+970,What color do you get when you mix blue and yellow?,"- Interpreting the question in the common context of mixing pigments (paints), blue and yellow are subtractive primaries. - When mixed, they subtract wavelengths and produce green.  The answer is (D)",D,D,True,4.06235786,72,245
+973,What is the capital of Turkey?,Istanbul is Turkey’s largest city but not its capital. Ankara has been the capital since 1923.  The answer is (C),C,C,True,2.662815824,68,102
+963,What is the name of the Indian monument built as a mausoleum?,The answer is (B),B,B,True,7.944404564,86,528
+974,What is the file extension for a PDF?,"The correct file extension for a PDF is .pdf. .doc is for Word documents, and .pfd/.pf are incorrect.  The answer is (B)",B,B,True,3.342249215,74,171
+976,What is the main ingredient in guacamole?,The answer is (B),B,B,True,2.384178861,70,144
+977,What does 'UX' stand for in design?,The answer is (B),B,B,True,2.868588651,75,144
+980,What is the name of the punctuation mark '!'?,The answer is (C),C,C,True,1.804420941,75,80
+981,What language is spoken in Brazil?,The answer is (C),C,C,True,1.932572674,67,144
+972,What is the name of the colored part of the eye?,"The iris is the colored ring in the eye that controls the size of the pupil. The pupil is the opening, the cornea is the clear front surface, and the retina is the light-sensitive layer at the back.  The answer is (D)",D,D,True,6.46324033,74,444
+975,How many zeros are in one billion?,The answer is (C),C,C,True,4.410399234,72,272
+978,What does 'ad hoc' mean?,The answer is (B),B,B,True,4.490826008,72,208
+983,What is hyperbole?,The answer is (B),B,B,True,2.407703427,74,144
+979,What is the name of the speed at which data is transferred over the internet?,The answer is (A),A,A,True,3.542708515,78,272
+982,What continent is Egypt in?,The answer is (C),C,C,True,2.663082528,67,80
+986,What is the name of the physical connection that provides the fastest internet?,The answer is (D),D,D,True,1.929094939,77,144
+988,How many players are on a team in American football on the field?,The answer is (D),D,D,True,2.249706039,78,144
+987,What does 'invertebrate' mean?,The answer is (D),D,D,True,2.581331656,80,144
+991,What is the capital of Mexico?,The answer is (C),C,C,True,1.679999398,69,80
+984,What is the name of Cinderella's prince?,The answer is (D),D,D,True,3.761666146,73,272
+989,What instrument does a pianist play?,The answer is (C),C,C,True,2.283933941,70,208
+985,What year was Twitter founded?,The answer is (D),D,D,True,4.163306885,74,272
+992,What is a young cow called?,"A foal is a young horse, a lamb is a young sheep, and a piglet is a young pig. A young cow is called a calf.  The answer is (B)",B,B,True,2.545244761,70,112
+993,"In cricket, how many balls are in an over?",The answer is (C),C,C,True,2.08603703,75,80
+997,What country is the Kremlin located in?,The answer is (D),D,D,True,1.611652676,68,80
+994,What is the name of the color model used for screens?,The answer is (D),D,D,True,2.162422895,75,144
+996,What is the name of the study of languages?,The answer is (B),B,B,True,2.273585953,74,208
+995,What does 'allegro' mean in music tempo?,The answer is (D),D,D,True,2.31431301,73,144
+1000,What is the charge of a neutron?,The answer is (C),C,C,True,1.76818342,69,80
+964,What does 'MB' stand for?,The answer is (C),C,C,True,15.702515515,74,208
+990,What is the Roman numeral for 5?,The answer is (D),D,D,True,5.308118754,69,400
+999,What type of animal is a snake?,The answer is (C),C,C,True,3.769836498,74,208
+998,What does 'DIY' stand for?,The answer is (A),A,A,True,4.537864051,77,400

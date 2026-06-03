@@ -1,0 +1,9 @@
+embedding_model,regressor,threshold,mae,r2,routing_accuracy,exit_code,log_file
+"all-roberta-large-v1","ridge","0.60","0.2372","0.1768","0.6909","0","/home/eriko/Documents/Cost-aware-LLM/pipeline_regression/sweep_logs/all-roberta-large-v1_ridge.log"
+"all-roberta-large-v1","rf","0.55","0.2417","0.1712","0.6929","0","/home/eriko/Documents/Cost-aware-LLM/pipeline_regression/sweep_logs/all-roberta-large-v1_rf.log"
+"all-roberta-large-v1","svr","0.60","0.2281","0.2164","0.6954","0","/home/eriko/Documents/Cost-aware-LLM/pipeline_regression/sweep_logs/all-roberta-large-v1_svr.log"
+"all-roberta-large-v1","lgb","0.60","0.2370","0.1771","0.6945","0","/home/eriko/Documents/Cost-aware-LLM/pipeline_regression/sweep_logs/all-roberta-large-v1_lgb.log"
+"all-mpnet-base-v2","ridge","0.60","0.2371","0.1820","0.6929","0","/home/eriko/Documents/Cost-aware-LLM/pipeline_regression/sweep_logs/all-mpnet-base-v2_ridge.log"
+"all-mpnet-base-v2","rf","0.55","0.2391","0.1860","0.6976","0","/home/eriko/Documents/Cost-aware-LLM/pipeline_regression/sweep_logs/all-mpnet-base-v2_rf.log"
+"all-mpnet-base-v2","svr","0.60","0.2259","0.2233","0.7045","0","/home/eriko/Documents/Cost-aware-LLM/pipeline_regression/sweep_logs/all-mpnet-base-v2_svr.log"
+"all-mpnet-base-v2","lgb","0.60","0.2375","0.1790","0.6984","0","/home/eriko/Documents/Cost-aware-LLM/pipeline_regression/sweep_logs/all-mpnet-base-v2_lgb.log"

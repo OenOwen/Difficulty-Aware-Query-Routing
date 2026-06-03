@@ -1,0 +1,9 @@
+embedding_model,classifier,accuracy,f1_score,exit_code,log_file
+"all-roberta-large-v1","logreg","0.6788","0.5589","0","/home/viktorj/Documents/Cost-aware-LLM/pipeline_classifier/sweep_logs/all-roberta-large-v1_logreg.log"
+"all-roberta-large-v1","rf","0.6685","0.4644","0","/home/viktorj/Documents/Cost-aware-LLM/pipeline_classifier/sweep_logs/all-roberta-large-v1_rf.log"
+"all-roberta-large-v1","svm","0.6904","0.5723","0","/home/viktorj/Documents/Cost-aware-LLM/pipeline_classifier/sweep_logs/all-roberta-large-v1_svm.log"
+"all-roberta-large-v1","xgb","0.6638","0.5494","0","/home/viktorj/Documents/Cost-aware-LLM/pipeline_classifier/sweep_logs/all-roberta-large-v1_xgb.log"
+"all-mpnet-base-v2","logreg","0.6724","0.5544","0","/home/viktorj/Documents/Cost-aware-LLM/pipeline_classifier/sweep_logs/all-mpnet-base-v2_logreg.log"
+"all-mpnet-base-v2","rf","0.6732","0.4760","0","/home/viktorj/Documents/Cost-aware-LLM/pipeline_classifier/sweep_logs/all-mpnet-base-v2_rf.log"
+"all-mpnet-base-v2","svm","0.6862","0.5667","0","/home/viktorj/Documents/Cost-aware-LLM/pipeline_classifier/sweep_logs/all-mpnet-base-v2_svm.log"
+"all-mpnet-base-v2","xgb","0.6527","0.5423","0","/home/viktorj/Documents/Cost-aware-LLM/pipeline_classifier/sweep_logs/all-mpnet-base-v2_xgb.log"

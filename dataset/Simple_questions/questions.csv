@@ -1,0 +1,1001 @@
+id,question,Option_A,Option_B,Option_C,Option_D,Answer
+1,What is the national sport of Japan?,Judo,Sumo,Karate,Kendo,B
+2,What is the capital of the United States?,New York,Los Angeles,Washington D.C.,Chicago,C
+3,What is the name of the Greek goddess of love?,Hera,Artemis,Athena,Aphrodite,D
+4,What year was Snapchat founded?,2010,2011,2013,2014,B
+5,Who discovered America in 1492?,Amerigo Vespucci,Ferdinand Magellan,Christopher Columbus,John Cabot,C
+6,Who wrote 'The Great Gatsby'?,Ernest Hemingway,F. Scott Fitzgerald,John Steinbeck,William Faulkner,B
+7,How many holes are in a standard golf course?,9,18,27,36,B
+8,What is the capital of Tunisia?,Sfax,Sousse,Kairouan,Tunis,D
+9,What does 'radar' stand for?,Radio Analyzing Device And Receiver,Radio Detection And Ranging,Remote Area Detection And Ranging,Radio Area Detection And Ranging,B
+10,What color are the goalposts in American football?,White,Red,Blue,Yellow,D
+11,What is matter made up of?,Molecules only,Atoms,Electrons only,Protons and electrons,B
+12,What is the official language of Mexico?,Spanish,Nahuatl,English,Mayan,A
+13,What is the capital of Germany?,Munich,Hamburg,Frankfurt,Berlin,D
+14,What is the term for animals that are active during the day?,Nocturnal,Crepuscular,Diurnal,Arboreal,C
+15,Which country has the longest coastline?,Australia,Canada,Russia,USA,B
+16,How many time zones does Russia span?,9,10,11,12,C
+17,What is a homophone?,A word opposite in meaning,A word spelled backwards,Words that sound the same but have different meanings,A word with similar meaning,C
+18,What is the capital of Cyprus?,Limassol,Larnaca,Paphos,Nicosia,D
+19,What does 'OKR' stand for?,Objectives and Key Requirements,Operations and Key Results,Objectives and Key Results,Output and Key Results,C
+20,What does 'RGB' stand for?,Red Green Blue,Red Gray Black,Real Graphic Base,Red Green Black,A
+21,Who was the first woman to win a Nobel Prize?,Rosalind Franklin,Marie Curie,Dorothy Hodgkin,Ada Lovelace,B
+22,Who was Queen of England during World War II?,Queen Elizabeth II,Queen Victoria,"No queen, a king reigned",Queen Mary,C
+23,What does 'HTTPS' mean?,HyperText Transfer Protocol Standard,Secure HyperText Transfer Protocol,HyperText Transfer Protocol Secure,High-security Transfer Protocol Standard,C
+24,What is the name of Santa Claus's red-nosed reindeer?,Prancer,Dancer,Rudolph,Comet,C
+25,What is the name for the person who reviews and corrects a book?,Publisher,Author,Printer,Editor,D
+26,What is the name of a group of owls?,Pack,Flock,Parliament,Wisdom,C
+27,What does an apostrophe (') indicate?,A question,Possession or contractions,An exclamation,A pause,B
+28,What does 'NLP' stand for in AI?,Natural Language Processing,Neural Language Program,Natural Learning Process,Neural Learning Processing,A
+29,What does 'terra' mean in Latin?,Sky,Sea,Earth/Land,Fire,C
+30,How many sides does an octagon have?,6,7,8,9,C
+31,"In Greek mythology, who is the god of war?",Apollo,Poseidon,Zeus,Ares,D
+32,What does 'sí' mean in Spanish?,No,Please,Thank you,Yes,D
+33,What animal is known as the 'King of the Jungle'?,Tiger,Elephant,Gorilla,Lion,D
+34,What is the capital of Croatia?,Split,Rijeka,Osijek,Zagreb,D
+35,What year was the International Space Station first launched?,1995,2000,1998,2001,C
+36,What is the most densely populated country in the world?,Singapore,Bangladesh,Monaco,Maldives,C
+37,What is the name of the punctuation mark '?'?,Exclamation point,Period,Semicolon,Question mark,D
+38,What HTML tag is used to create a hyperlink?,<link>,<href>,<url>,<a>,D
+39,What does 'no' mean in Spanish?,Yes,No,Please,Goodbye,B
+40,What is the capital of Mongolia?,Darkhan,Erdenet,Choibalsan,Ulaanbaatar,D
+41,What is the tallest mountain in the world?,K2,Mount Everest,Kangchenjunga,Lhotse,B
+42,What is the national flower of Scotland?,Rose,Thistle,Daffodil,Heather,B
+43,What is the term for animals that live in trees?,Aquatic,Terrestrial,Fossorial,Arboreal,D
+44,What is the name of the scientist known for the theory of relativity?,Isaac Newton,Nikola Tesla,Stephen Hawking,Albert Einstein,D
+45,What is the capital of Italy?,Milan,Venice,Florence,Rome,D
+46,What is the smallest country in the world?,Monaco,Vatican City,San Marino,Liechtenstein,B
+47,What does 'download' mean?,Sending data from your device to a server,Transferring data from the internet to your device,Deleting data from your device,Moving data between devices,B
+48,What is the center of our solar system?,The Moon,The Earth,The Sun,Jupiter,C
+49,What was the first country to give women the right to vote?,USA,UK,France,New Zealand,D
+50,What planet is between Earth and Jupiter?,Mercury,Venus,Saturn,Mars,D
+51,What fruit grows on a vine?,Apples,Grapes,Pears,Peaches,B
+52,What is the name of the punctuation mark ':'?,Semicolon,Period,Comma,Colon,D
+53,What is the name of the trophy awarded to the winner of the Stanley Cup?,Stanley Cup,The Cup,The Puck Trophy,Commissioner's Trophy,A
+54,What does 'ISBN' stand for in books?,International Standard Book Number,International System of Book Numbering,Internal Standard Book Number,International Serial Book Number,A
+55,Who wrote the Declaration of Independence mainly?,George Washington,Benjamin Franklin,John Adams,Thomas Jefferson,D
+56,What is the capital of Ukraine?,Kharkiv,Lviv,Odessa,Kyiv,D
+57,What does 'forte' mean in music dynamics?,Very soft,Soft,Medium,Loud,D
+58,What is the name of the process of writing code?,Compiling,Debugging,Programming,Executing,C
+59,What is the name of Snow White's prince?,Prince Phillip,Prince Eric,Prince Charming,Prince Adam,C
+60,What does 'bold' text do?,Makes text thinner,Makes text larger,Makes text thicker/heavier,Makes text italic,C
+61,What does the suffix '-ology' mean?,Fear of,The study of,Without,The practice of,B
+62,What particles are found in the nucleus of an atom?,Electrons and neutrons,Protons only,Electrons only,Protons and neutrons,D
+63,What is the main ingredient in hummus?,Lentils,Chickpeas,Black beans,White beans,B
+64,What is the name of the Egyptian goddess of cats?,Isis,Nut,Bastet,Hathor,C
+65,What is the symbol for sodium on the periodic table?,So,Sd,Na,No,C
+66,What is the most abundant gas in Earth's atmosphere?,Oxygen,Carbon Dioxide,Argon,Nitrogen,D
+67,What is a young dog called?,Kitten,Cub,Foal,Puppy,D
+68,What is an ode?,A short humorous poem,A 14-line poem,A lyrical poem in praise of something,A Japanese poem,C
+69,What is the most popular music streaming platform?,Apple Music,SoundCloud,Tidal,Spotify,D
+70,What is the capital of Argentina?,Córdoba,Rosario,Buenos Aires,Mendoza,C
+71,What is the capital of the United Kingdom?,Edinburgh,Dublin,London,Cardiff,C
+72,What is the currency of the United Kingdom?,Euro,Pound Sterling,Dollar,Franc,B
+73,What is the capital of Peru?,Arequipa,Cusco,Trujillo,Lima,D
+74,What is the lowest male singing voice?,Tenor,Baritone,Bass,Countertenor,C
+75,What does 'RAM' stand for?,Random Access Memory,Read Access Memory,Rapid Access Memory,Remote Access Memory,A
+76,In what year did the French Revolution begin?,1799,1776,1804,1789,D
+77,What is the name for fear of the dark?,Claustrophobia,Nyctophobia,Photophobia,Scotophobia,B
+78,What color is a ruby?,Blue,Green,Yellow,Red,D
+79,What ocean is the largest?,Atlantic,Indian,Arctic,Pacific,D
+80,What does 'e.g.' stand for?,Et gratia,Exempli gratia (for example),Est genus,Et cetera,B
+81,What is the name of the study of the ocean?,Hydrography,Oceanography,Marine biology,Aquatic science,B
+82,How many letters are in the English alphabet?,24,26,28,25,B
+83,What type of nut grows on a walnut tree?,Pecan,Almond,Hazelnut,Walnut,D
+84,What does a thermometer measure?,Humidity,Pressure,Wind speed,Temperature,D
+85,What is the name of the famous colosseum in Rome?,The Pantheon,The Forum,The Colosseum,The Circus Maximus,C
+86,How many bones are in the adult human body?,186,206,196,216,B
+87,What is a 'hat trick' in cricket?,3 wickets in 3 balls,3 sixes in a row,3 fours in a row,3 wickets in an over,A
+88,What is the capital of the United Arab Emirates?,Dubai,Sharjah,Abu Dhabi,Ajman,C
+89,What does 'circa' (c.) mean?,After,Before,Approximately,Exactly,C
+90,What does 'antagonist' mean?,The main character,The narrator,The supporting character,The villain or opposing force,D
+91,"In tennis, what is the term for a score of 40-40?",Tie,Even,Deuce,Match point,C
+92,Which band sang 'Bohemian Rhapsody'?,The Rolling Stones,Led Zeppelin,The Beatles,Queen,D
+93,What is the name of the study of plants?,Zoology,Botany,Ecology,Mycology,B
+94,What is 'null' in programming?,Zero,Empty string,False,The absence of a value,D
+95,What is the capital of Paraguay?,Ciudad del Este,Encarnación,San Lorenzo,Asunción,D
+96,What does 'third person' point of view mean in writing?,Written from 'I' perspective,Written from 'you' perspective,Written from 'he/she/they' perspective,Written from 'we' perspective,C
+97,What is the capital of Luxembourg?,Esch-sur-Alzette,Differdange,Diekirch,Luxembourg City,D
+98,What is the name of a reusable block of code that performs a specific task?,Class,Object,Variable,Function,D
+99,What is the name of the phobia of the number 13?,Triskaidekaphobia,Octophobia,Deciphobia,Tridecaphobia,A
+100,What does 'XML' stand for?,Extended Markup Language,Extreme Markup Language,Extensible Markup Language,Extended Model Language,C
+101,What is the name of the lens at the front of a camera that focuses light?,Aperture,Shutter,Sensor,Objective lens,D
+102,What are the official languages of Switzerland?,"German, French, Italian, Romansh","German, French, Italian, English","German, French, Dutch, Italian","German, French, Italian, Spanish",A
+103,What is the name of the day when clocks go back in autumn?,Daylight Saving Time,British Summer Time,Winter Time,Standard Time begins,A
+104,What do bees produce?,Silk,Wax only,Honey,Venom,C
+105,What is the name for the empty space around design elements?,Margin,Padding,White space/negative space,Gutter,C
+106,Who wrote 'The Odyssey'?,Virgil,Sophocles,Plato,Homer,D
+107,What is the name of Google's AI assistant/model?,ChatGPT,Claude,Copilot,Gemini,D
+108,Which of these is a fossil fuel?,Solar power,Wind power,Natural gas,Hydroelectric power,C
+109,What fruit is used to make wine?,Apples,Grapes,Berries,Plums,B
+110,What does 'dpi' stand for in image quality?,Digital Pixels per Inch,Dots Per Inch,Data Points per Image,Display Pixels per Image,B
+111,What are the colors of the French flag?,"Red, white, blue","Blue, white, red (tricolor)","Red, yellow, black","Green, white, red",B
+112,What is the name for the gradual warming of the Earth's surface?,Global Cooling,Climate Variation,Global Warming,Greenhouse Cooling,C
+113,What is the highest female singing voice?,Mezzo-soprano,Contralto,Alto,Soprano,D
+114,What shape is a rugby ball?,Perfectly round,Oval/prolate spheroid,Hexagonal,Flat oval,B
+115,What does 'COO' stand for?,Chief Operations Officer,Central Operations Officer,Chief Operational Official,Core Operations Officer,A
+116,What does 'NoSQL' mean?,Not Only SQL,No SQL allowed,New SQL,Normal SQL,A
+117,How many official languages does Canada have?,1,2,3,4,B
+118,What does 'prose' mean?,Poetry with rhyme,Written language in its ordinary form,Language with a strict meter,Only fiction writing,B
+119,What is the name for a story set in an imaginary world with magic?,Legend,Myth,Fable,Fantasy,D
+120,What is the most basic HTML tag that wraps all content?,<body>,<main>,<html>,<head>,C
+121,How many sides does a square have?,3,5,6,4,D
+122,What is the name of the book that contains yearly statistics and facts?,Encyclopedia,Dictionary,Atlas,Almanac,D
+123,What is the name of the first programming language?,FORTRAN,COBOL,LISP,Assembly,D
+124,What is the national flower of Japan?,Lotus,Rose,Cherry Blossom,Chrysanthemum,C
+125,What does 'carbon footprint' mean?,Size of one's shoe,Amount of carbon dioxide released by activities,Amount of fossil fuels burned globally,Size of a person's impact on nature,B
+126,What is the capital of Estonia?,Tartu,Narva,Pärnu,Tallinn,D
+127,What does a hyphen (-) connect?,Sentences,Parts of compound words,Paragraphs,Clauses,B
+128,What is the capital of Chile?,Valparaíso,Concepción,Antofagasta,Santiago,D
+129,What does 'recursion' mean in programming?,A loop that runs forever,Repeating code without functions,A function that calls itself,Running code in reverse,C
+130,Who invented the airplane?,Henry Ford,Nikola Tesla,Thomas Edison,The Wright Brothers,D
+131,What family of instruments does a flute belong to?,Brass,Woodwind,String,Percussion,B
+132,"In baseball, how many strikes result in a strikeout?",2,4,3,5,C
+133,What is the approximate age of Earth?,2.5 billion years,4.5 billion years,6 billion years,10 billion years,B
+134,What is half of 100?,40,60,25,50,D
+135,What does 'p.m.' stand for?,Post morning,Per minutum,Post meridiem (after noon),Pre midnight,C
+136,What is the name for a book about a person's life written by someone else?,Autobiography,Memoir,Diary,Biography,D
+137,What does 'ISO' control in photography?,Focus,Aperture,Shutter speed,Light sensitivity,D
+138,What type of voice is between soprano and alto?,Contralto,Mezzo-soprano,Mezzo-alto,Mid-soprano,B
+139,What is a biography?,A story about the author's own life,A fictional story,A story about someone else's life,A historical account,C
+140,How many notes are in a standard musical octave?,5,6,7,8,D
+141,What is the name of the famous canal in Egypt?,Panama Canal,Erie Canal,Suez Canal,Kiel Canal,C
+142,What is the only mammal capable of true flight?,Flying squirrel,Sugar glider,Bat,Colugo,C
+143,"In basketball, how many points is a free throw worth?",2,1,3,Half a point,B
+144,What fuel do most commercial airplanes use?,Gasoline,Diesel,Jet fuel,Natural gas,C
+145,What is the name of the Roman god of the sea?,Mars,Pluto,Neptune,Vulcan,C
+146,What is 10 times 10?,10,1000,1000,100,D
+147,What is the name for the emotional association of a word?,Denotation,Connotation,Syntax,Diction,B
+148,What does 'algorithm' mean?,A type of computer virus,A step-by-step procedure for solving a problem,A coding language,A type of database,B
+149,What is the name of the Greek goddess of wisdom?,Aphrodite,Artemis,Hera,Athena,D
+150,What is the capital of Haiti?,Cap-Haïtien,Carrefour,Port-au-Prince,Delmas,C
+151,What does 'piano' mean in music dynamics?,Very loud,Medium loud,Soft/quiet,Very soft,C
+152,What design principle makes important elements stand out?,Balance,Proximity,Alignment,Contrast,D
+153,What is the file extension for Python files?,.pyt,.py,.python,.pyn,B
+154,What sound does a sheep make?,Moo,Baa,Oink,Cluck,B
+155,What is a group of elephants called?,Pack,Herd,Pride,Colony,B
+156,What does 'LOL' stand for?,Lots of Love,Laugh Out Loud,Loads of Laughter,Lot of Luck,B
+157,What symbol is commonly used for comments in Python?,//,/*,#,<!--,C
+158,What does 'scuba' stand for?,Self-Contained Underwater Breathing Apparatus,Self-Contained Underwater Buoyancy Aid,Submarine Controlled Underwater Breathing Apparatus,Special Controlled Underwater Breathing Apparatus,A
+159,What is the capital of Slovakia?,Košice,Prešov,Banská Bystrica,Bratislava,D
+160,What is the national animal of Australia?,Koala,Platypus,Kangaroo,Wombat,C
+161,What does 'XR' stand for?,Extended Reality,Extreme Reality,Experimental Reality,External Reality,A
+162,What is the name of the largest cold desert in the world?,Gobi Desert,Patagonian Desert,Antarctic Desert,Arctic Desert,C
+163,What is the capital of New Zealand?,Auckland,Christchurch,Wellington,Dunedin,C
+164,What is the national flower of England?,Daffodil,Thistle,Shamrock,Rose,D
+165,What is the name of the famous tower in Paris?,Arc de Triomphe,Notre Dame Tower,Eiffel Tower,Louvre Tower,C
+166,What is the capital of Canada?,Toronto,Vancouver,Ottawa,Montreal,C
+167,What is the file extension for JavaScript files?,.java,.jscript,.jvs,.js,D
+168,What does 'API' stand for?,Application Programming Interface,Automated Program Integration,Application Process Interface,Automated Programming Interface,A
+169,What is the capital of South Africa?,Cape Town,Johannesburg,Pretoria,Durban,C
+170,Which language uses the Cyrillic alphabet?,Greek,Arabic,Russian,Chinese,C
+171,What is the name of the wizard school in Harry Potter?,Beauxbatons,Durmstrang,Hogwarts,Castelobruxo,C
+172,What is the capital of Albania?,Durrës,Vlorë,Shkodër,Tirana,D
+173,What is the longest word in English?,Uncopyrightable,Incomprehensibilities,Pneumonoultramicroscopicsilicovolcanoconiosis,Antidisestablishmentarianism,C
+174,What is the largest mammal in the world?,African Elephant,Blue Whale,Giraffe,Giant Squid,B
+175,What is the capital of Latvia?,Daugavpils,Liepāja,Jūrmala,Riga,D
+176,What is the term for when a game ends because the king has no legal moves but is not in check?,Check,Checkmate,Draw,Stalemate,D
+177,What is the name of the hobbit in 'The Lord of the Rings'?,Bilbo Baggins,Pippin Took,Frodo Baggins,Samwise Gamgee,C
+178,What is foreshadowing?,Looking back at past events,Hinting at future events,Describing settings in detail,A type of metaphor,B
+179,What is the capital of Romania?,Cluj-Napoca,Bucharest,Timișoara,Iași,B
+180,What fruit grows on a cactus?,Durian,Jackfruit,Prickly pear,Dragon fruit,C
+181,What country invented basketball?,USA,Canada,UK,France,B
+182,What is the capital of Serbia?,Novi Sad,Niš,Subotica,Belgrade,D
+183,What does a barometer measure?,Temperature,Humidity,Wind speed,Air pressure,D
+184,What is the name of the famous opera house in Sydney?,Sydney Arts Center,Sydney Opera House,Sydney Concert Hall,Sydney Performing Arts Centre,B
+185,What is the name of the fairy tale character whose nose grew when he lied?,Jack,Hansel,Pinocchio,Peter Pan,C
+186,What season comes after summer?,Spring,Winter,Autumn,"None, it cycles",C
+187,What is the capital of Finland?,Tampere,Turku,Oulu,Helsinki,D
+188,What force keeps planets orbiting the Sun?,Magnetism,Gravity,Friction,Electricity,B
+189,What sport uses the term 'birdie'?,Tennis,Badminton,Golf,Cricket,C
+190,What is the name of the natural satellite of Earth?,Titan,Europa,The Moon,Phobos,C
+191,What is the capital of Uzbekistan?,Samarkand,Namangan,Tashkent,Andijan,C
+192,What is the name for the introduction paragraph's last sentence that states the essay's argument?,Topic sentence,Closing sentence,Hook,Thesis statement,D
+193,What is the fastest land animal?,Lion,Cheetah,Horse,Greyhound,B
+194,What color do you get when you mix red and blue?,Green,Orange,Purple,Brown,C
+195,How many syllables does a traditional haiku have?,5-7-5 (17 total),3-5-3 (11 total),7-5-7 (19 total),5-5-7 (17 total),A
+196,What gas do plants absorb from the atmosphere?,Oxygen,Nitrogen,Carbon Dioxide,Hydrogen,C
+197,What is the speed of light approximately?,"300,000 km/s","150,000 km/s","450,000 km/s","100,000 km/s",A
+198,What does 'sol' mean in Latin?,Moon,Sun,Star,Sky,B
+199,What is the name of the smallest unit of an element?,Molecule,Electron,Atom,Neutron,C
+200,What is the longest mountain range in the world?,Himalayas,Rockies,Andes,Alps,C
+201,What does 'DVD' stand for?,Digital Video Disc,Digital Visual Disc,Digital Versatile Disc,Data Video Disc,C
+202,What does 'URL' stand for?,Uniform Resource Locator,Universal Resource Link,Unified Resource Locator,Universal Reference Link,A
+203,What is the name of the mark placed over letters like 'ñ'?,Umlaut,Diacritic,Circumflex,Tilde,D
+204,What was the name of the first commercially successful social network?,Friendster,MySpace,Facebook,Six Degrees,B
+205,What type of engine does a car typically use?,Steam engine,Electric motor only,Diesel only,Internal combustion engine,D
+206,Who is credited with inventing the World Wide Web?,Vint Cerf,Steve Jobs,Tim Berners-Lee,Bill Gates,C
+207,What is the capital of Nicaragua?,León,Masaya,Chinandega,Managua,D
+208,Who was the first person to receive two Nobel Prizes?,Albert Einstein,Linus Pauling,Marie Curie,Frederick Sanger,C
+209,What does 'CD-ROM' stand for?,Compact Disc - Read Only Memory,Compact Data - Read Only Memory,Computer Disc - Read Only Memory,Compact Disc - Random Only Memory,A
+210,What is the name of the famous soccer player known as 'The Black Panther'?,Pelé,Eusébio,Garrincha,Ronaldo,B
+211,What does 'SSL' stand for?,Secure Server Layer,Secure Sockets Layer,Standard Sockets Layer,Secure System Layer,B
+212,What is the name for the main argument of an essay?,Topic sentence,Thesis statement,Introduction,Conclusion,B
+213,What does 'MR' stand for in technology?,Mixed Reality,Multi Reality,Maximum Reality,Mobile Reality,A
+214,How many players are on a baseball team on the field?,8,9,10,11,B
+215,What is the name of the study of fungi?,Botany,Zoology,Ecology,Mycology,D
+216,What is the Roman numeral for 100?,D,C,M,L,B
+217,What is assonance?,Repetition of consonant sounds,Repetition of vowel sounds in nearby words,Rhyming words,Onomatopoeia,B
+218,What direction does the sun set in?,East,North,South,West,D
+219,What year was Instagram founded?,2012,2009,2011,2010,D
+220,What is the name for fraudulent emails that try to steal information?,Spam,Malware,Ransomware,Phishing,D
+221,What is a group of wolves called?,Pride,Flock,Herd,Pack,D
+222,What invention made Alfred Nobel famous (and wealthy)?,Telephone,Dynamite,TNT,Gunpowder,B
+223,What is the capital of Singapore?,Singapore City,Marina Bay,Orchard,Sentosa,A
+224,Who wrote Romeo and Juliet?,Charles Dickens,William Shakespeare,Jane Austen,Homer,B
+225,What does 'first person' point of view mean in writing?,Written from 'he/she' perspective,Written from 'you' perspective,Written from 'I' perspective,Written from omniscient perspective,C
+226,What is the term for a word that reads the same forwards and backwards?,Anagram,Palindrome,Homophone,Oxymoron,B
+227,What is the name of the change from solid to liquid?,Freezing,Condensation,Evaporation,Melting,D
+228,What is the name of the data structure that follows Last In First Out?,Queue,Linked List,Stack,Array,C
+229,What does 'omnivore' mean?,Eats only plants,Eats only meat,Eats both plants and animals,Eats only insects,C
+230,How many legs does a spider have?,6,10,8,12,C
+231,What is the name of the Greek goddess of the hunt?,Athena,Aphrodite,Artemis,Hera,C
+232,What does 'B2C' stand for?,Business to Client,Brand to Consumer,Business to Consumer,Business to Customer,C
+233,How many wings does a butterfly have?,2,6,4,8,C
+234,What does 'MVP' stand for in sports?,Most Valuable Person,Most Valuable Player,Most Valued Performer,Maximum Valuable Player,B
+235,What is the capital of Iceland?,Akureyri,Reykjavik,Selfoss,Keflavik,B
+236,What is the name of the fastest passenger train service in the world (Shinkansen)?,TGV,Bullet Train,Maglev,ICE Train,B
+237,How many players are in a cricket team?,9,10,11,12,C
+238,What is the name of the ship that Charles Darwin sailed on?,The Endeavour,The Beagle,The Discovery,The Resolution,B
+239,What is the name of the first dog in space?,Belka,Strelka,Laika,Dezik,C
+240,What does 'protagonist' mean?,The villain,The main character/hero,A supporting character,The narrator,B
+241,In which sport do you use a puck?,Basketball,Hockey,Polo,Lacrosse,B
+242,What is the name of the AI chatbot created by OpenAI?,Gemini,Copilot,Claude,ChatGPT,D
+243,What does 'LAN' stand for?,Long Area Network,Local Access Network,Local Area Network,Limited Access Network,C
+244,What is the name of the Chinese writing system?,Kanji,Hanzi,Hangul,Kana,B
+245,How many years are in a century?,10,50,200,100,D
+246,What is the difference between a hyphen and a dash?,No difference,Hyphens are shorter and used within words; dashes are longer,Dashes are shorter,Hyphens are for numbers only,B
+247,What does 'p.s.' stand for?,Post script,Per se,Pro script,Post said,A
+248,What does 'ciao' mean in Italian?,Thank you,Hello/Goodbye,Please,Yes,B
+249,What is the capital of Uruguay?,Salto,Paysandú,Rivera,Montevideo,D
+250,What year was Facebook founded?,2002,2003,2005,2004,D
+251,What does 'CPU' stand for?,Computer Processing Unit,Central Process Unit,Central Processing Unit,Core Processing Unit,C
+252,Who wrote 'To Kill a Mockingbird'?,Truman Capote,Harper Lee,John Steinbeck,Flannery O'Connor,B
+253,What is the name of the asteroid belt's location?,Between Jupiter and Saturn,Between Mars and Jupiter,Between Earth and Mars,Between Saturn and Uranus,B
+254,What is the capital of Saudi Arabia?,Jeddah,Mecca,Medina,Riyadh,D
+255,What is the symbol for gold on the periodic table?,Gd,Ag,Go,Au,D
+256,What is the name of sorting method that repeatedly swaps adjacent elements?,Selection sort,Insertion sort,Merge sort,Bubble sort,D
+257,How many chambers does the human heart have?,2,3,4,5,C
+258,How many stripes are on the American flag?,13,15,20,50,A
+259,What is the freezing point of water in Celsius?,-10°C,10°C,5°C,0°C,D
+260,What is a 'cookie' in web browsing?,A pop-up ad,Temporary internet files,A small file storing user data on your computer,A type of malware,C
+261,What does 'Wi-Fi' stand for?,Wide Fidelity,Wireless Fidelity,Wireless Frequency,Wide Frequency,B
+262,What is the name of the Japanese writing system used for native words?,Kanji,Hiragana,Romaji,Katakana,B
+263,Who founded Microsoft?,Steve Jobs,Bill Gates and Paul Allen,Elon Musk,Mark Zuckerberg,B
+264,How many planets are in our solar system?,7,9,10,8,D
+265,What is the name for fiction set in the future with advanced technology?,Fantasy,Horror,Science Fiction,Thriller,C
+266,What direction does the sun rise from?,West,North,South,East,D
+267,What is the name of the scale used to measure tornado strength?,Beaufort scale,Saffir-Simpson scale,Richter scale,Enhanced Fujita scale,D
+268,What is the national sport of Canada?,Ice Hockey and Lacrosse,Curling,Football,Baseball,A
+269,What does 'ja' mean in German?,No,Please,Yes,Hello,C
+270,What is a metaphor?,A direct comparison using 'like' or 'as',An exaggeration,A direct comparison without 'like' or 'as',A play on words,C
+271,What is the name of the highest military award in the USA?,Bronze Star,Silver Star,Distinguished Service Cross,Medal of Honor,D
+272,What piece can only move diagonally in chess?,Knight,Rook,King,Bishop,D
+273,What is the name for a story about a real or imagined heroic person?,Myth,Fable,Fairy tale,Legend,D
+274,What is the name of the comet visible from Earth approximately every 75 years?,Comet Hale-Bopp,Comet Shoemaker-Levy,Halley's Comet,Comet Lovejoy,C
+275,What is a 'hat trick' in soccer?,3 assists in a game,3 goals in a game,3 saves in a game,3 fouls in a game,B
+276,What does 'USB' stand for?,Universal Serial Bus,Universal System Bus,Unified Serial Bus,Universal Storage Bus,A
+277,"In basketball, how many points is a regular basket worth?",1,3,4,2,D
+278,How many zeros are in one million?,5,7,8,6,D
+279,What does 'versus' (vs.) mean?,With,Against,For,After,B
+280,What is a memoir?,A story about someone else's life,A record of a person's own experiences and memories,A historical account,A fictional story,B
+281,What is the name of the pub in 'The Simpsons'?,Moe's Bar,Homer's Tavern,Moe's Tavern,Springfield Bar,C
+282,What is the name of the Korean writing system?,Kanji,Hanzi,Hangul,Kana,C
+283,What percent of the Earth's surface is covered by water?,50%,60%,80%,71%,D
+284,What is the 'climax' of a story?,The beginning,The ending,The highest point of tension,The resolution,C
+285,What does 'B2B' stand for?,Business to Buyer,Business to Business,Brand to Business,Business to Brand,B
+286,What is the capital of Bangladesh?,Chittagong,Dhaka,Sylhet,Rajshahi,B
+287,What is the name for a traditional story explaining natural phenomena?,Fable,Fairy tale,Myth,Legend,C
+288,What is the name of the tool used to pick colors from an image?,Color picker/eyedropper,Brush tool,Lasso tool,Magic wand,A
+289,What is the capital of Uganda?,Entebbe,Gulu,Mbarara,Kampala,D
+290,What is the name of the study of the human mind?,Sociology,Psychiatry,Neurology,Psychology,D
+291,What is the capital of Portugal?,Porto,Braga,Coimbra,Lisbon,D
+292,What is the capital of Zambia?,Ndola,Kitwe,Livingstone,Lusaka,D
+293,What does 'decrescendo' mean in music?,Getting louder,Getting faster,Getting slower,Getting quieter,D
+294,What is the capital of Pakistan?,Karachi,Lahore,Islamabad,Peshawar,C
+295,What is the name of the punctuation mark ';'?,Colon,Comma,Semicolon,Period,C
+296,What is the currency of Japan?,Won,Yuan,Rupee,Yen,D
+297,What is the name of the programming language created by Google for Android apps?,Swift,Python,Java or Kotlin,C++,C
+298,How many days are in a week?,5,6,7,8,C
+299,What is the largest ocean on Earth?,Atlantic Ocean,Indian Ocean,Arctic Ocean,Pacific Ocean,D
+300,What layer of the atmosphere protects Earth from ultraviolet rays?,Ionosphere,Stratosphere,Troposphere,Ozone layer,D
+301,What is the least populated continent (excluding Antarctica)?,Australia/Oceania,North America,South America,Europe,A
+302,What is the full name of the character Bart Simpson's father?,Bartholomew Simpson,Homie Simpson,Homer J. Simpson,Homer B. Simpson,C
+303,What is the name of the study of stars and space?,Astrology,Cosmology,Astronomy,Astrophysics,C
+304,What is the charge of a proton?,Negative,No charge,Variable,Positive,D
+305,What type of creature is Nessie supposedly?,Giant squid,Sea serpent,Lake monster,Prehistoric plesiosaur-like creature,D
+306,What is the black dot in the center of the eye called?,Iris,Retina,Cornea,Pupil,D
+307,What is the file extension for an image in JPEG format?,.png,.gif,.bmp,.jpg or .jpeg,D
+308,What do you call the explanatory notes at the bottom of a page?,Annotations,Endnotes,Footnotes,Marginalia,C
+309,What is the name of the famous amphitheater in Athens?,The Parthenon,The Pantheon,The Odeon,The Colosseum,C
+310,What game uses 'Go' pieces on a grid?,A Chinese/Japanese board game,A Korean card game,A Japanese dice game,A Chinese tile game,A
+311,What is the name of the design principle that refers to elements being properly aligned?,Contrast,Balance,Alignment,Proximity,C
+312,What is the Roman numeral for 1?,I,V,X,L,A
+313,What is the season when animals like bears typically hibernate?,Spring,Summer,Autumn,Winter,D
+314,What does 'PIN' stand for?,Personal Identification Number,Private Identity Number,Personal Identification Note,Private Identification Number,A
+315,What is the alphabet of the Arabic language called?,Arabic abjad,Arabic alphabet,Persian script,Nabataean,B
+316,How many squares are on a standard chess board?,32,48,64,72,C
+317,What is the capital of Hungary?,Debrecen,Pécs,Miskolc,Budapest,D
+318,What does 'RAW' format mean in photography?,Compressed image file,Low quality image,Unprocessed image data,High resolution JPEG,C
+319,What country invented chess?,China,Persia,India,Arabia,C
+320,Where do electrons exist in an atom?,In the nucleus,Around the nucleus in shells,Inside the proton,Inside the neutron,B
+321,What is the capital of Sri Lanka?,Kandy,Galle,Colombo,Sri Jayawardenepura Kotte,D
+322,What is the name for the company that produces a book?,Author,Printer,Publisher,Editor,C
+323,What is a group of ants called?,Colony,Swarm,Army,All of the above,D
+324,What is typography?,The study of fonts and text arrangement,The study of printing,Graphic design principles,Visual communication,A
+325,What is the currency of India?,Taka,Rupiah,Rupee,Dirham,C
+326,What is the most powerful piece in chess?,King,Queen,Rook,Bishop,B
+327,What is the name of the longest wall ever built?,Hadrian's Wall,The Berlin Wall,The Great Wall of China,The Walls of Constantinople,C
+328,What is the name of the court where basketball is played?,Court,Diamond,Pitch,Gridiron,A
+329,How many years are in a decade?,5,10,20,25,B
+330,What is the name of the study of volcanoes?,Seismology,Geology,Tectonics,Volcanology,D
+331,What does 'AI' stand for?,Automated Intelligence,Artificial Intelligence,Advanced Interface,Automated Interface,B
+332,What is the name of the first test-tube baby born in 1978?,Jane Brown,Louise Brown,Mary Brown,Anne Brown,B
+333,How many minutes are in an hour?,30,45,60,90,C
+334,Who voiced Buzz Lightyear in 'Toy Story'?,Tom Hanks,Will Smith,Tim Allen,Billy Crystal,C
+335,What is the lifespan of a dog typically?,3-5 years,20-25 years,10-15 years,5-8 years,C
+336,What is the capital of Madagascar?,Toamasina,Mahajanga,Antananarivo,Fianarantsoa,C
+337,What does 'SSD' stand for?,Solid State Drive,Static Storage Drive,Super State Drive,Solid Storage Device,A
+338,What is the name of the toy cowboy in 'Toy Story'?,Buzz,Rex,Woody,Hamm,C
+339,What does 'danke' mean in German?,Please,Hello,Goodbye,Thank you,D
+340,What year was the first email sent?,1975,1969,1971,1973,C
+341,What does 'KPI' stand for?,Key Performance Index,Key Performance Indicator,Key Profit Indicator,Key Progress Index,B
+342,What design principle refers to visually equal distribution of elements?,Contrast,Alignment,Proximity,Balance,D
+343,What is the capital of Senegal?,Thiès,Saint-Louis,Ziguinchor,Dakar,D
+344,What is the fear of spiders called?,Arachnophobia,Agoraphobia,Claustrophobia,Entomophobia,A
+345,What is the capital of Tanzania?,Zanzibar,Mwanza,Dodoma,Dar es Salaam,C
+346,What continent is Brazil in?,North America,South America,Central America,Caribbean,B
+347,What is the setting of a story?,The plot,The theme,The characters,The time and place,D
+348,What is the capital of Nepal?,Pokhara,Patan,Biratnagar,Kathmandu,D
+349,What is the name of the person who leads an orchestra?,Conductor,Director,Maestro,Leader,A
+350,What is a baby goose called?,Duckling,Cygnet,Chick,Gosling,D
+351,What CSS property changes the text color?,font-color,text-color,color,foreground-color,C
+352,What is an antonym for 'hot'?,Warm,Cold,Burning,Dry,B
+353,What planet is known as the Blue Planet?,Neptune,Uranus,Mars,Earth,D
+354,Which country is home to the Amazon Rainforest mostly?,Colombia,Peru,Brazil,Venezuela,C
+355,What is the national animal of India?,Elephant,Tiger,Lion,Peacock,B
+356,What does 'JSON' stand for?,Java Script Object Notation,JavaScript Object Notation,Java Serialized Object Notation,JavaScript Online Notation,B
+357,Who invented the printing press?,Leonardo da Vinci,Galileo Galilei,Johannes Gutenberg,Isaac Newton,C
+358,What is the name of the Egyptian god of the dead?,Ra,Horus,Seth,Anubis,D
+359,What is the name of the study of rocks?,Geology,Petrology,Mineralogy,Lithology,A
+360,How many teeth does an adult human have?,28,30,32,36,C
+361,What is the name of the Roman god of war?,Jupiter,Neptune,Mars,Mercury,C
+362,What is the name of the shape with no sides?,Sphere,Circle,Oval,Round,B
+363,What is the name of the barrier that monitors network traffic for security?,Antivirus,VPN,Proxy,Firewall,D
+364,How many points is a touchdown worth in American football?,3,7,4,6,D
+365,Who wrote 'The Lord of the Rings'?,C.S. Lewis,J.K. Rowling,J.R.R. Tolkien,Terry Pratchett,C
+366,What is the name for cutting down of forests?,Desertification,Deforestation,Erosion,Afforestation,B
+367,What is the national sport of the United States?,American Football,Basketball,Baseball,Ice Hockey,C
+368,What is the name of the space agency of the United States?,ESA,Roscosmos,JAXA,NASA,D
+369,What is the name of the study of weather?,Climatology,Meteorology,Atmospheric science,Hydrology,B
+370,What type of animal is a whale?,Fish,Reptile,Amphibian,Mammal,D
+371,What is the capital of Bulgaria?,Plovdiv,Varna,Burgas,Sofia,D
+372,What does 'aqua' mean in Latin?,Fire,Earth,Air,Water,D
+373,Which animal is a monotreme?,Koala,Kangaroo,Wombat,Platypus,D
+374,What does 'IQ' stand for?,Intelligence Quotient,Intellectual Quality,Intelligence Quality,Intellectual Quotient,A
+375,What does 'cloud computing' mean?,Computing using only laptops,Computing using wireless connections,Storing and accessing data over the internet,Computing with solar power,C
+376,How many sides does a hexagon have?,5,6,7,8,B
+377,In which year did World War II end?,1943,1944,1946,1945,D
+378,What is the name of Batman's butler?,Jarvis,Alfred,Hudson,Edwin,B
+379,What is the name for singing without instrumental accompaniment?,Solo,A cappella,Duet,Aria,B
+380,What does 'CFO' stand for?,Chief Financial Operations,Chief Financial Officer,Central Financial Officer,Chief Fiscal Officer,B
+381,What language has the most words?,French,German,English,Spanish,C
+382,What is the most recycled material in the world?,Paper,Glass,Plastic,Steel/Iron,D
+383,What does 'au revoir' mean in French?,Hello,Thank you,Goodbye,Good morning,C
+384,What is the capital of China?,Shanghai,Beijing,Guangzhou,Shenzhen,B
+385,What is the name of a pre-written set of code you can use in your program?,Module,Library,Framework,Plugin,B
+386,What part of the body is responsible for pumping blood?,Lungs,Brain,Heart,Liver,C
+387,What is sarcasm?,Genuine praise,Ironic or cutting remarks,An exaggeration,A comparison,B
+388,What is the name of the most prestigious journalism award?,Emmy Award,Peabody Award,Pulitzer Prize,Edward R. Murrow Award,C
+389,How many continents are there on Earth?,5,6,7,8,C
+390,What is composting?,Burning organic waste,Burying plastic waste,Recycling paper,Decomposing organic matter into fertilizer,D
+391,What is a light-year?,The time light takes to travel one year,The distance light travels in one year,The speed of light,One billion kilometers,B
+392,What is the name of the book that lists words with similar meanings?,Dictionary,Encyclopedia,Thesaurus,Glossary,C
+393,What is a group of fish called?,Pod,School,Flock,Herd,B
+394,What does 'OOP' stand for?,Object-Oriented Protocol,Object-Oriented Programming,Operator-Oriented Programming,Object-Oriented Process,B
+395,What does 'trademark' protect?,Inventions,Creative works,Brands and logos,Software,C
+396,What is a prototype in design?,A finished product,A wireframe,An early sample or model of a product,A design document,C
+397,What is the capital of France?,Paris,London,Berlin,Madrid,A
+398,What is the name of the design tool popular among UI/UX designers?,Sketch,Photoshop,Illustrator,Figma,D
+399,What is the name for a fake name used by an author?,Alias,Pen name/Pseudonym,Nom de guerre,Anagram,B
+400,What is the currency of Sweden?,Krone,Krona,Kron,Kronor,B
+401,What gives red wine its color?,Added dye,Grape skin,Age,Tannins,B
+402,What is the name of the text shown in a terminal when running a program?,Output,Input,GUI,Interface,A
+403,What is the name of the Greek king of the gods?,Poseidon,Hades,Ares,Zeus,D
+404,What does 'pro bono' mean?,For money,For free/charity,For practice,For publicity,B
+405,What type of energy is produced by wind turbines?,Solar energy,Wind energy,Hydroelectric energy,Geothermal energy,B
+406,What is the name of the final game in the NFL called?,The Big Game,Championship Game,Super Bowl,NFL Finals,C
+407,"In basketball, how many points is a three-pointer worth?",2,3,4,5,B
+408,What is the shape of the Earth?,Flat,Perfectly round,Cube-like,Oblate spheroid,D
+409,What is the fear of heights called?,Arachnophobia,Claustrophobia,Acrophobia,Vertigo,C
+410,What is the only bird that can fly backwards?,Hummingbird,Kingfisher,Swallow,Swift,A
+411,In which fictional city does Superman live?,Gotham City,Central City,Metropolis,Star City,C
+412,What is the capital of Iran?,Isfahan,Shiraz,Mashhad,Tehran,D
+413,What is the name of the body part responsible for breathing?,Heart,Liver,Kidneys,Lungs,D
+414,What is the hexadecimal number system based on?,Base 2,Base 8,Base 10,Base 16,D
+415,How many sides does a pentagon have?,4,6,7,5,D
+416,How many days are in February in a non-leap year?,27,28,29,30,B
+417,What are the official languages of Canada?,English and French,English only,French and Indigenous languages,"English, French, and Spanish",A
+418,What country is the Colosseum located in?,Greece,Turkey,Spain,Italy,D
+419,What is the name for a book about a person's own life written by themselves?,Biography,Memoir,Autobiography,Diary,C
+420,What is the currency of Mexico?,Peso,Real,Sol,Colon,A
+421,What is the name of our galaxy?,Andromeda,Triangulum,Milky Way,Whirlpool,C
+422,What animal is known for carrying its house on its back?,Hermit crab,Snail,Tortoise,All of the above,D
+423,What is the currency of Brazil?,Peso,Real,Sol,Dollar,B
+424,What is the symbol for hydrogen gas?,H,H2,2H,H3,B
+425,How many players are on a volleyball team on the court?,4,5,7,6,D
+426,What country is TikTok originally from?,USA,Japan,South Korea,China,D
+427,What is the currency of the European Union?,Franc,Euro,Mark,Pound,B
+428,What is the capital of South Korea?,Busan,Incheon,Daegu,Seoul,D
+429,What is the name of the award given for excellence in music?,Oscar,Grammy,Emmy,Tony,B
+430,What is the name of the fear of flying?,Aviophobia,Pteromerhanophobia,Both A and B are used,Claustrophobia,C
+431,What is the official language of Brazil?,Spanish,English,French,Portuguese,D
+432,What type of energy is produced by water flow?,Solar energy,Wind energy,Geothermal energy,Hydroelectric energy,D
+433,Who painted the Sistine Chapel ceiling?,Raphael,Donatello,Leonardo da Vinci,Michelangelo,D
+434,What does 'luna' mean in Latin?,Sun,Star,Sky,Moon,D
+435,What is alliteration?,Repetition of vowel sounds,Repetition of the same initial consonant sound in words,A word that imitates sound,A reversed word,B
+436,"What is the official language of Quebec, Canada?",English,French,Both English and French,French primarily,D
+437,What type of pasta is shaped like a bow tie?,Fusilli,Rigatoni,Penne,Farfalle,D
+438,Who was the first President of the United States?,John Adams,Thomas Jefferson,George Washington,Benjamin Franklin,C
+439,What is the name of the largest hot desert in the world?,Arabian Desert,Gobi Desert,Sahara Desert,Australian Desert,C
+440,How many pieces does each player start with in chess?,12,14,16,20,C
+441,What is the name of the study of birds?,Entomology,Herpetology,Ichthyology,Ornithology,D
+442,What was the first animal sent to space?,Dog,Monkey,Rabbit,Fruit fly,D
+443,What does 'open AI' in OpenAI refer to?,Open source AI,Accessible AI for everyone,The name of the company's founders,No specific meaning,B
+444,What is the name of the conflict or problem in a story?,Resolution,Climax,Exposition,Plot,D
+445,What is the capital of North Macedonia?,Bitola,Ohrid,Skopje,Tetovo,C
+446,What year were the first Nobel Prizes awarded?,1895,1900,1901,1905,C
+447,What is the name of the body part that stores bile?,Pancreas,Liver,Gallbladder,Spleen,C
+448,What sport uses a shuttlecock?,Tennis,Squash,Badminton,Ping Pong,C
+449,What is the name of the mermaid in Disney's 'The Little Mermaid'?,Marina,Coral,Ariel,Pearl,C
+450,What is the surface of the French Open tennis tournament?,Clay,Grass,Hard court,Carpet,A
+451,What is the name of the family in 'The Jetsons'?,Spacely,Orbit,Cosmo,Jetson,D
+452,What is the capital of Malaysia?,George Town,Johor Bahru,Kuala Lumpur,Ipoh,C
+453,How many sides does a circle have?,0,1,Infinite,2,C
+454,What country does the rugby team called the All Blacks represent?,Australia,South Africa,Ireland,New Zealand,D
+455,What is the national animal of England?,Bear,Wolf,Lion,Eagle,C
+456,What is the name of the tallest waterfall in the world?,Niagara Falls,Iguazu Falls,Yosemite Falls,Angel Falls,D
+457,What does 'SOS' mean in distress signals?,Save Our Souls,Save Our Ship,Send Our Signal,"It has no literal meaning, just easy to signal",D
+458,Who painted the Mona Lisa?,Michelangelo,Raphael,Leonardo da Vinci,Caravaggio,C
+459,What type of animal pulls Cinderella's carriage?,Reindeer,Horses,Mice turned into horses,Donkeys,C
+460,What is the capital of Angola?,Lubango,Huambo,Benguela,Luanda,D
+461,What company owns GitHub?,Google,Apple,Microsoft,Meta,C
+462,What does 'endangered' mean for a species?,Already extinct,At risk of becoming extinct,Invasive species,Protected by law,B
+463,What does 'aloha' mean in Hawaiian?,Hello only,Goodbye only,"Hello, goodbye, and love",Thank you,C
+464,What does 'patent' protect?,Creative works,Brands,Inventions and discoveries,Software only,C
+465,What company makes the Xbox?,Sony,Nintendo,Microsoft,Sega,C
+466,What sound does a cow make?,Oink,Baa,Moo,Cluck,C
+467,What is the name of the study of fish?,Herpetology,Ornithology,Ichthyology,Mammalogy,C
+468,What does 'shalom' mean in Hebrew?,Goodbye only,Hello only,"Hello, goodbye, and peace",Thank you,C
+469,What is the name of the scale used to measure wind speed in hurricanes?,Fujita scale,Richter scale,Beaufort scale,Saffir-Simpson scale,D
+470,What country is Stonehenge located in?,Ireland,France,Scotland,England,D
+471,What are the three states of matter?,"Solid, liquid, gas","Hot, warm, cold","Solid, liquid, plasma","Gas, vapor, liquid",A
+472,What is the name of code that repeats a set of instructions?,Function,Condition,Loop,Variable,C
+473,What is a wireframe in design?,A detailed color mockup,A basic sketch of a design layout,A finished prototype,A design specification document,B
+474,What is the name for the text of a film or play?,Novel,Screenplay/Script,Drama,Libretto,B
+475,What is the capital of Bolivia?,Cochabamba,Santa Cruz,Sucre,La Paz,D
+476,Who played James Bond in 'Casino Royale' (2006)?,Pierce Brosnan,Roger Moore,Sean Connery,Daniel Craig,D
+477,What is the capital of Ireland?,Cork,Galway,Limerick,Dublin,D
+478,What is the name for the written notation of a piece of music?,Lyrics,Score,Chart,Notation,B
+479,What are the Nobel Prize categories?,"Physics, Chemistry, Medicine, Literature, Peace, Economics","Physics, Chemistry, Biology, Literature, Peace, Economics","Physics, Chemistry, Medicine, Literature, Peace, Maths","Science, Arts, Literature, Peace, Economics, Medicine",A
+480,What is the name of the study of maps?,Geography,Geodesy,Cartography,Topography,C
+481,What is the largest species of bear?,Grizzly bear,Brown bear,Kodiak bear,Polar bear,D
+482,How many stars are approximately in the Milky Way?,1 billion,100 billion to 400 billion,1 trillion,10 billion,B
+483,What does 'per se' mean?,By itself/in itself,For example,That is,Therefore,A
+484,What is the name of the person who manages a server or network?,Programmer,Developer,System Administrator,IT Manager,C
+485,What do you call music without words?,Instrumental,A cappella,Classical,Electronic,A
+486,What does 'AR' stand for in technology?,Artificial Reality,Augmented Reality,Advanced Reality,Alternate Reality,B
+487,Who wrote 'Hamlet'?,Christopher Marlowe,Ben Jonson,John Milton,William Shakespeare,D
+488,What is the square root of 4?,1,2,3,4,B
+489,In which year did World War I begin?,1916,1912,1918,1914,D
+490,What is a fossil fuel?,Fuel from ancient organisms,Fuel from rocks,Fuel from fossils of dinosaurs,Synthetic fuel,A
+491,What does 'ATM' stand for?,Automatic Teller Machine,Automated Transaction Machine,Automated Teller Machine,Automatic Transaction Machine,C
+492,What are the four instruments in a standard string quartet?,"Two violins, viola, cello","Violin, two violas, cello","Violin, viola, two cellos","Two violins, two violas",A
+493,What sport is known as America's pastime?,American Football,Basketball,Baseball,Ice Hockey,C
+494,What is the name of the process by which a caterpillar becomes a butterfly?,Germination,Metamorphosis,Evolution,Transformation,B
+495,Who painted 'The Starry Night'?,Paul Gauguin,Claude Monet,Vincent van Gogh,Paul Cézanne,C
+496,What is the largest land animal?,Hippopotamus,Rhinoceros,African Elephant,Giraffe,C
+497,In which sport is a 'slam dunk' a move?,Volleyball,Basketball,American football,Soccer,B
+498,What is the name of the coffee shop in 'Friends'?,Java Joe's,The Coffee House,Central Perk,Brew Brothers,C
+499,How many players are on a basketball team on the court?,4,6,5,7,C
+500,What is the name of the Trojan War's greatest Greek warrior?,Odysseus,Hector,Paris,Achilles,D
+501,What part of the body filters blood?,Heart,Lungs,Kidneys,Stomach,C
+502,What color are a polar bear's hairs actually?,White,Cream,Transparent/hollow,Yellow,C
+503,What is the capital of Lebanon?,Tripoli,Sidon,Tyre,Beirut,D
+504,What does 'organic' food mean?,Food grown with pesticides,Food grown without synthetic pesticides or fertilizers,Food modified genetically,Food grown in water,B
+505,"What is the name of the punctuation mark ','?",Period,Colon,Comma,Semicolon,C
+506,What is the resolution of 'Full HD' video?,720p,1440p,4K,1080p,D
+507,What does 'open source' software mean?,Software that is free to use,Software with freely available source code,Software made by volunteers,Software without copyright,B
+508,Who played Iron Man in the Marvel movies?,Chris Evans,Chris Hemsworth,Robert Downey Jr.,Mark Ruffalo,C
+509,What is the name of the clock in London also known as Big Ben?,Elizabeth Tower,Westminster Tower,Palace Tower,Victoria Tower,A
+510,What is the Roman numeral for 50?,C,D,V,L,D
+511,What is a baby swan called?,Chick,Gosling,Cygnet,Duckling,C
+512,What is the longest river in the world?,Amazon,Yangtze,Mississippi,Nile,D
+513,What is the name of the ship in 'Pirates of the Caribbean'?,The Flying Dutchman,The Black Pearl,The Interceptor,The Queen Anne's Revenge,B
+514,What is the name of the lion in 'The Lion King'?,Mufasa,Simba,Scar,Nala,B
+515,What is the name of a programming statement that checks a condition?,Loop,Function,Variable,If statement,D
+516,What is a baby rabbit called?,Kit or kitten,Pup,Cub,Foal,A
+517,What does 'bitte' mean in German?,Thank you,Please/You're welcome,Goodbye,Hello,B
+518,What is a marsupial?,An egg-laying mammal,A mammal that carries young in a pouch,A mammal without fur,A nocturnal mammal,B
+519,Who wrote 'Don Quixote'?,Lope de Vega,Cervantes,Pablo Neruda,García Márquez,B
+520,What does 'GPS' stand for?,General Positioning System,Global Positioning System,Geographic Position System,Global Position Sensor,B
+521,What is the term for converting data into a code to prevent unauthorized access?,Decryption,Hashing,Firewall,Encryption,D
+522,What is the capital of the Netherlands?,Rotterdam,The Hague,Utrecht,Amsterdam,D
+523,What does 'streaming' mean in media?,Downloading content for later,Watching or listening in real-time over the internet,Recording content,Sharing content with others,B
+524,What is the name of the body part that breaks down food?,Heart,Liver,Stomach,Kidneys,C
+525,What is the name of Homer Simpson's boss?,Lenny Leonard,Frank Grimes,Ned Flanders,Mr. Burns,D
+526,What does 'ping' measure in networking?,Data speed,File size,Response time/latency,Bandwidth,C
+527,What is the most populated country in the world?,USA,India,China,Russia,B
+528,What is the 'exposition' of a story?,The climax,The ending,The introduction/background,The conflict,C
+529,What is the symbol for potassium on the periodic table?,Po,Pm,Pr,K,D
+530,What is the name of the musical symbol that looks like the letter 'S'?,Bass clef,Treble clef,Tenor clef,Alto clef,B
+531,What is the name of the study of animals?,Botany,Ecology,Zoology,Entomology,C
+532,What is the national dish of Spain?,Tortilla,Tapas,Paella,Gazpacho,C
+533,What is the difference between a preface and a foreword?,No difference,Preface is by the author; foreword is by someone else,Foreword is by the author; preface is by someone else,Preface is longer,B
+534,"What is the name for a story that teaches a moral lesson, often with animals?",Legend,Myth,Parable,Fable,D
+535,What two colors make green?,Red and blue,Yellow and red,Blue and red,Yellow and blue,D
+536,What does 'carte blanche' mean?,Blank check of authority,White card,Free meal,Fresh start,A
+537,What is the capital of El Salvador?,San Miguel,Soyapango,Santa Ana,San Salvador,D
+538,Who was the leader of Nazi Germany?,Mussolini,Stalin,Hitler,Franco,C
+539,What company owns Instagram?,Twitter,Google,Apple,Meta,D
+540,What is the first move requirement for castling in chess?,King must not have moved,All pieces must be present,King must be in check,Queen must be present,A
+541,What is the capital of Brazil?,São Paulo,Rio de Janeiro,Brasília,Salvador,C
+542,What color is an emerald?,Red,Blue,Green,Yellow,C
+543,What does 'ni hao' mean in Mandarin?,Goodbye,Thank you,Please,Hello,D
+544,What does 'ubuntu' mean in African philosophy?,I am because we are,Power to the people,Freedom from oppression,Unity is strength,A
+545,How many senses do humans traditionally have?,4,5,6,7,B
+546,What is the name for software that secretly monitors your computer?,Adware,Ransomware,Trojan,Spyware,D
+547,What is the capital of Venezuela?,Maracaibo,Valencia,Barquisimeto,Caracas,D
+548,What does 'upload' mean?,Receiving data from the internet,Deleting data,Sending data from your device to a server,Moving data between devices,C
+549,What is the capital of Qatar?,Al Wakrah,Al Rayyan,Doha,Al Khor,C
+550,What does 'renewable energy' mean?,Energy that runs out quickly,Energy that can be replenished naturally,Energy from fossil fuels,Energy stored in batteries,B
+551,Where was Napoleon Bonaparte born?,France,Italy,Corsica,Spain,C
+552,What is the capital of Syria?,Aleppo,Homs,Latakia,Damascus,D
+553,What does 'crescendo' mean in music?,Getting quieter,Getting faster,Getting louder,Getting slower,C
+554,What is the opposite of prose?,Fiction,Non-fiction,Drama,Poetry/Verse,D
+555,What is the hardest natural substance on Earth?,Gold,Iron,Diamond,Quartz,C
+556,What is an anagram?,A word spelled backwards,A word with the same letters rearranged,A word that sounds like another,A word opposite in meaning,B
+557,What is a 'sans-serif' font?,A font with decorative strokes,A font that uses only uppercase,A font without decorative strokes,A handwritten font,C
+558,What is the approximate age of the universe?,4.5 billion years,10 billion years,13.8 billion years,20 billion years,C
+559,What is the name of the closest star to Earth (after the sun)?,Sirius,Proxima Centauri,Alpha Centauri A,Vega,B
+560,What does 'de facto' mean?,By law,In theory,In reality/practice,By tradition,C
+561,What is the binary number system based on?,Base 10,Base 8,Base 16,Base 2,D
+562,What is the name of the change from liquid to gas?,Condensation,Evaporation,Melting,Freezing,B
+563,What does 'bon voyage' mean?,Good health,Happy birthday,Good journey/trip,Good morning,C
+564,What is the name for unwanted bulk email?,Phishing,Malware,Spam,Virus,C
+565,What is a baby sheep called?,Calf,Lamb,Kid,Foal,B
+566,What is the name of the study of earthquakes?,Geology,Volcanology,Seismology,Tectonics,C
+567,What does 'copyright' protect?,Inventions,Business names,Original creative works,Trademarks,C
+568,What is the symbol for silver on the periodic table?,Si,Ag,Sv,Au,B
+569,What is the capital of Panama?,Colón,San Miguelito,David,Panama City,D
+570,Who sang 'Thriller'?,Prince,Michael Jackson,David Bowie,Whitney Houston,B
+571,In which city is the Nobel Peace Prize awarded?,Stockholm,Geneva,Copenhagen,Oslo,D
+572,What do you call the list of references at the end of a book?,Glossary,Index,Table of Contents,Bibliography,D
+573,What does 'hola' mean in Spanish?,Goodbye,Thank you,Please,Hello,D
+574,What do caterpillars turn into?,Moths only,Butterflies or moths,Beetles,Dragonflies,B
+575,What does 'i.e.' stand for?,In example,Id est (that is),In essence,In effect,B
+576,What CSS property changes the size of text?,font-weight,text-size,size,font-size,D
+577,What is the term for an animal that sleeps through winter?,Migration,Aestivation,Dormancy,Hibernation,D
+578,What is the capital of the Dominican Republic?,Santiago,La Romana,Santo Domingo,San Pedro de Macorís,C
+579,What is the square root of 25?,4,5,6,7,B
+580,What is the file extension for a PowerPoint file?,.pptx,.power,.prz,.slide,A
+581,What family of instruments does a trumpet belong to?,Woodwind,String,Brass,Percussion,C
+582,What is the name of the famous clock tower in London?,Big Ben,Tower of London,London Eye,Canary Wharf,A
+583,What does 'HDD' stand for?,High Definition Drive,Hard Disk Drive,Hard Data Drive,High Density Drive,B
+584,What is the capital of Jordan?,Zarqa,Irbid,Aqaba,Amman,D
+585,What is the first month of the year?,December,February,March,January,D
+586,How many players are typically in a string quartet?,3,4,5,6,B
+587,What is the name of the study of the past through excavation?,History,Anthropology,Paleontology,Archaeology,D
+588,What is the highest score in a game of bowling?,250,270,300,290,C
+589,What animal is on the Australian coat of arms alongside the emu?,Koala,Platypus,Kangaroo,Kookaburra,C
+590,What does 'modus operandi' mean?,Method of working,Reason for acting,Evidence found,Conclusion reached,A
+591,What is the capital of Russia?,St. Petersburg,Novosibirsk,Kazan,Moscow,D
+592,What is irony?,Saying exactly what you mean,An exaggeration,Saying the opposite of what you mean,A comparison,C
+593,What does 'fps' stand for in video?,Frames Per Second,Files Per Second,Frames Per Screen,Format Per Second,A
+594,What is the name of the two dots placed over letters like 'ü'?,Tilde,Umlaut/diaeresis,Circumflex,Cedilla,B
+595,What is the name of the Egyptian god of the sun?,Osiris,Anubis,Ra,Horus,C
+596,What is the name of the fairy in Peter Pan?,Pixie,Fairy Dust,Tinker Bell,Wendy,C
+597,What company makes the PlayStation?,Microsoft,Nintendo,Sega,Sony,D
+598,What does 'status quo' mean?,New state,Future state,The existing state of affairs,Better state,C
+599,What color is Marge Simpson's hair?,Red,Blonde,Black,Blue,D
+600,What is the name of a stored value in programming?,Function,Loop,Variable,Condition,C
+601,What sport is played at Wimbledon?,Cricket,Golf,Squash,Tennis,D
+602,What streaming service created 'Stranger Things'?,Hulu,Disney+,Netflix,Amazon Prime,C
+603,What does 'tempo' mean in music?,Volume,Pitch,Speed/pace,Rhythm pattern,C
+604,What is the name of the Egyptian goddess of the sky?,Isis,Nut,Hathor,Bastet,B
+605,How many strings does a standard guitar have?,4,5,7,6,D
+606,What is the literary term for repeating a word or phrase for effect?,Alliteration,Metaphor,Anaphora,Simile,C
+607,What sport uses the term 'ace' for a served point won without the opponent touching the ball?,Squash,Badminton,Tennis,Ping pong,C
+608,What type of animal is a dolphin?,Fish,Reptile,Amphibian,Mammal,D
+609,What is the name for the spacing between groups of letters uniformly?,Leading,Kerning,Gutter,Tracking,D
+610,What is the name of the award given for excellence in film?,Grammy,Emmy,Tony,Oscar,D
+611,What does 'a.m.' stand for?,After morning,Ante meridiem (before noon),After midnight,Around morning,B
+612,What type of animal is Dumbo?,Horse,Dog,Elephant,Donkey,C
+613,What is the name of the Norse god of thunder?,Odin,Loki,Thor,Freyr,C
+614,What gas is primarily responsible for global warming?,Oxygen,Nitrogen,Carbon dioxide,Argon,C
+615,What is the name of the protective shell a caterpillar makes before becoming a butterfly?,Cocoon,Nest,Shell,Chrysalis,D
+616,What is the name of the stick used in ice hockey?,Bat,Racket,Stick,Mallet,C
+617,What is the capital of Bahrain?,Riffa,Muharraq,Manama,Isa Town,C
+618,What is the capital of Montenegro?,Nikšić,Bar,Budva,Podgorica,D
+619,What is the capital of Oman?,Salalah,Sohar,Nizwa,Muscat,D
+620,What does 'TB' stand for?,Trilobytes,Terabits,Terabytes,Tribytes,C
+621,What does 'IDE' stand for in programming?,Integrated Design Environment,Integrated Development Environment,Integrated Data Environment,Interface Design Environment,B
+622,What does 'de jure' mean?,In practice,In theory,By tradition,According to law,D
+623,What is the name for a group of musicians who play classical music together?,Band,Choir,Orchestra,Ensemble,C
+624,What is the name of the boundary at which objects cannot escape a black hole's gravity?,Photon sphere,Singularity,Accretion disk,Event horizon,D
+625,What is the capital of Costa Rica?,Alajuela,San José,Cartago,Heredia,B
+626,How many strings does a violin have?,3,5,6,4,D
+627,What is the name for the process of converting sunlight into electricity?,Nuclear fission,Photovoltaic effect,Electrolysis,Thermoelectric effect,B
+628,What is the name of the story about a boy who cried wolf?,A fable by Aesop,A Grimm Brothers tale,An Andersen story,A Perrault tale,A
+629,What is the second most populated country in the world?,USA,Indonesia,Pakistan,China,D
+630,What is the largest desert in the world?,Gobi,Sahara,Arabian,Antarctic,D
+631,What is the name of the trophy in the NBA Finals?,Bill Russell Trophy,Larry O'Brien Trophy,Pat Riley Trophy,Red Auerbach Trophy,B
+632,What is the name for animals that eat both plants and meat?,Herbivores,Carnivores,Omnivores,Scavengers,C
+633,What is the tallest animal in the world?,Elephant,Giraffe,Camel,Horse,B
+634,What does 'por favor' mean in Spanish?,Thank you,Goodbye,Please,Hello,C
+635,What black and white animal is known for its strong smell defense?,Badger,Panda,Skunk,Raccoon,C
+636,What does 'xie xie' mean in Mandarin?,Hello,Goodbye,Thank you,Please,C
+637,What is a pun?,A play on words with multiple meanings,A comparison,An exaggeration,A type of metaphor,A
+638,What is a young horse called?,Colt,Pup,Foal,Calf,C
+639,What does 'HTTP' stand for?,HyperText Transport Protocol,HyperText Transfer Protocol,High-speed Text Transfer Protocol,HyperText Tracking Protocol,B
+640,Who proposed the theory of gravity after seeing an apple fall?,Galileo Galilei,Albert Einstein,Isaac Newton,Edmond Halley,C
+641,What is the capital of Malta?,Mdina,Sliema,Valletta,Victoria,C
+642,What does the prefix 'tri-' mean?,One,Two,Three,Four,C
+643,What color is a sapphire?,Red,Blue,Green,Purple,B
+644,What is the name of Adobe's free design tool launched as a competitor to Figma?,XD,InDesign,Illustrator,Firefly,A
+645,How many innings are in a standard baseball game?,7,8,9,10,C
+646,What is the last month of the year?,November,October,December,September,C
+647,What is the national bird of India?,Crane,Eagle,Parrot,Peacock,D
+648,What year was Google founded?,2000,1996,1998,2001,C
+649,What is the symbol on the Canadian flag?,Maple Leaf,Beaver,Moose,Trillium flower,A
+650,In which country did the martial art Taekwondo originate?,Japan,China,Thailand,South Korea,D
+651,What is the most popular programming language for web development (frontend)?,Python,Java,PHP,JavaScript,D
+652,What is the name of the Norse king of the gods?,Thor,Freyr,Loki,Odin,D
+653,What is the name for a word's dictionary definition?,Connotation,Subtext,Implication,Denotation,D
+654,What does 'HTML' stand for?,Hyper Transfer Markup Language,Hyper Text Markup Language,High Text Markup Language,Hyper Text Management Language,B
+655,What does 'responsive design' mean in web development?,Design that responds to user input,Design that works on all screen sizes,Design with animations,Design with bright colors,B
+656,What type of animal is a frog?,Reptile,Mammal,Amphibian,Insect,C
+657,What is the capital of Bosnia and Herzegovina?,Banja Luka,Tuzla,Mostar,Sarajevo,D
+658,What country did croissants originate from?,France,Austria,Germany,Belgium,B
+659,What is the name for an introductory section of a book or play?,Epilogue,Appendix,Index,Prologue,D
+660,What is tofu made from?,Rice,Wheat,Soy milk,Almond milk,C
+661,What two colors make purple?,Red and yellow,Blue and yellow,Red and blue,Red and green,C
+662,"In volleyball, how many players are on each side of the net?",5,7,8,6,D
+663,What is the boiling point of water in Celsius?,80°C,90°C,100°C,110°C,C
+664,What does 'IoT' stand for?,Internet of Things,Index of Technology,Interface of Technology,Internet of Technology,A
+665,What is the national animal of Scotland?,Red deer,Golden eagle,Highland cow,Unicorn,D
+666,What is the main character's name in 'The Simpsons'?,Bart,Marge,Homer,Lisa,C
+667,What is the file extension for a GIF image?,.png,.gif,.jpeg,.bmp,B
+668,What does 'adiós' mean in Spanish?,Hello,Thank you,Please,Goodbye,D
+669,What does 'VIP' stand for?,Very Important Personality,Very Important Person,Very Influential Person,Very Important Professional,B
+670,What does 'FAQ' stand for?,Frequently Asked Queries,Frequently Asked Questions,Final Answered Questions,Fairly Asked Questions,B
+671,What does 'GUI' stand for?,General User Interface,Graphical User Interaction,Graphical User Interface,General User Interaction,C
+672,What is syntax?,Word choice,Sentence structure,Punctuation rules,Paragraph structure,B
+673,What is the name of the fairy tale where a girl eats a poisoned apple?,Cinderella,Rapunzel,Sleeping Beauty,Snow White,D
+674,What is the term for protecting computer systems from attacks?,Firewall,Antivirus,Cybersecurity,Encryption,C
+675,What type of animal is a crocodile?,Mammal,Amphibian,Insect,Reptile,D
+676,What is the name of the famous palace in Versailles?,Château Frontenac,Palace of Fontainebleau,Palace of Versailles,Château de Chambord,C
+677,What is the primary colors in painting (traditional)?,"Red, blue, yellow","Red, green, blue","Cyan, magenta, yellow","Red, yellow, green",A
+678,What is the capital of Myanmar?,Yangon,Mandalay,Naypyidaw,Bago,C
+679,What is the capital of Mozambique?,Beira,Nampula,Matola,Maputo,D
+680,What is the name of the largest lake in the world?,Lake Superior,Lake Baikal,Caspian Sea,Lake Huron,C
+681,What is the capital of Jamaica?,Montego Bay,Ocho Rios,Kingston,Portmore,C
+682,What is the name of the fairy tale character who is made of wood and wants to be a real boy?,Pinocchio,Gepetto,Jiminy Cricket,Stromboli,A
+683,What does 'OS' stand for in computing?,Operations Software,Operating System,Operational Software,Open System,B
+684,How many times has Brazil won the FIFA World Cup?,3,4,5,6,C
+685,How many official languages does Switzerland have?,2,3,4,5,C
+686,How many colors are in a rainbow?,5,6,7,8,C
+687,How often are the Summer Olympics held?,Every 2 years,Every 3 years,Every 4 years,Every 5 years,C
+688,What is the name of the largest organ in the human body?,Liver,Brain,Lungs,Skin,D
+689,What is the most common blood type in humans?,B+,AB+,O+,A+,C
+690,What is the capital of Yemen?,Aden,Taiz,Hodeidah,Sanaa,D
+691,What is 'serif' in typography?,A type of font without decorative strokes,The decorative strokes at the ends of letters,The space between letters,The weight of text,B
+692,How many months are in a year?,10,11,12,13,C
+693,Who invented the light bulb?,Nikola Tesla,Alexander Graham Bell,Thomas Edison,Benjamin Franklin,C
+694,What does 'CLI' stand for?,Computer Line Interface,Command Line Interface,Computer Language Interface,Command Language Interface,B
+695,What does 'grazie' mean in Italian?,Hello,Goodbye,Please,Thank you,D
+696,What type of galaxy is the Milky Way?,Elliptical,Irregular,Lenticular,Spiral,D
+697,What is the name of the fairy tale where a girl visits the three bears?,Little Red Riding Hood,Cinderella,Goldilocks,Hansel and Gretel,C
+698,What chemical is the ozone layer primarily made of?,Oxygen (O2),Carbon dioxide,Ozone (O3),Nitrogen,C
+699,What genre of book involves solving a mystery?,Romance,Science Fiction,Horror,Mystery/Detective,D
+700,What is the name of the theory about the origin of the universe?,Steady State Theory,Nebular Hypothesis,Big Bang Theory,Inflation Theory,C
+701,What is the name of a group of crows?,Flock,Murder,Gang,Pack,B
+702,What does 'IP' stand for in IP address?,Internet Protocol,Internal Protocol,Interaction Point,Internet Point,A
+703,How many letters are in the Arabic alphabet?,22,26,28,30,C
+704,What is iambic pentameter?,A type of rhyme scheme,A rhythmic pattern of 10 syllables per line,A 14-line poem structure,A type of alliteration,B
+705,How many planets in the solar system are closer to the Sun than Earth?,0,1,2,3,C
+706,What is the name of the highest civilian award in the USA?,Congressional Gold Medal,Medal of Honor,Presidential Medal of Freedom,National Medal of Arts,C
+707,What is the name of the book that contains facts about many topics?,Dictionary,Encyclopedia,Atlas,Almanac,B
+708,What is the capital of Japan?,Beijing,Seoul,Tokyo,Bangkok,C
+709,What does 'SDK' stand for?,System Development Kit,Software Development Kit,Standard Development Kit,Software Design Kit,B
+710,What is the largest planet in our solar system?,Saturn,Neptune,Uranus,Jupiter,D
+711,What is the name of the longest bone in the human body?,Spine,Arm bone,Femur,Tibia,C
+712,What is the most spoken language in the world by native speakers?,English,Spanish,Hindi,Mandarin Chinese,D
+713,What is a group of lions called?,Pack,Herd,Pride,Flock,C
+714,How long does it take light from the sun to reach Earth?,1 second,8 minutes,1 hour,1 day,B
+715,What is the name of the programming language created by Apple for iOS apps?,Objective-C only,Java,Kotlin,Swift,D
+716,What is the term for when a king is under direct attack in chess?,Stalemate,Checkmate,Check,Fork,C
+717,What is the capital of Afghanistan?,Kandahar,Herat,Mazar-i-Sharif,Kabul,D
+718,What is a simile?,A direct comparison without 'like' or 'as',A comparison using 'like' or 'as',An exaggeration,A play on words,B
+719,What is a synonym?,A word opposite in meaning,A word with the same pronunciation,A word with a similar meaning,A compound word,C
+720,What is an antonym?,A word with similar meaning,A word with opposite meaning,A word with the same pronunciation,A word's plural form,B
+721,What is the capital of Belgium?,Antwerp,Ghent,Brussels,Liège,C
+722,What is the name for the story told within a story?,Sub-plot,Flashback,Frame narrative,Aside,C
+723,What is the name of the most famous dog astronaut?,Belka,Strelka,Laika,Pushok,C
+724,What is the name of Anthropic's AI assistant?,ChatGPT,Gemini,Copilot,Claude,D
+725,What is the name for a concluding section after the main story?,Prologue,Preface,Appendix,Epilogue,D
+726,What is the name of the symbol used in music to indicate the beginning of a staff?,Time signature,Note,Clef,Key signature,C
+727,What is the capital of Algeria?,Oran,Constantine,Algiers,Annaba,C
+728,What is the name of the most prestigious scientific award?,Fields Medal,Turing Award,Nobel Prize,Lasker Award,C
+729,What is the name of the most popular image editing software?,GIMP,Paint,Lightroom,Photoshop,D
+730,What is the name for animals that give birth to live young?,Oviparous,Viviparous,Ovoviviparous,Marsupial,B
+731,What year was TikTok founded?,2016,2014,2015,2017,A
+732,Who invented the telephone?,Thomas Edison,Nikola Tesla,Alexander Graham Bell,Guglielmo Marconi,C
+733,What is the name of the first space station?,Mir,Skylab,Salyut,International Space Station,C
+734,"In HTML, what does a 'tag' do?",Defines colors,Defines the structure of content,Links pages together,Stores data,B
+735,What is the name of the nearest galaxy to the Milky Way?,Triangulum Galaxy,Pinwheel Galaxy,Andromeda Galaxy,Large Magellanic Cloud,C
+736,What is the name for a computer program that replicates itself?,Trojan,Worm,Spyware,Ransomware,B
+737,What is the most popular sport in the world?,Basketball,Cricket,American Football,Soccer/Football,D
+738,What is the name of the study of insects?,Zoology,Botany,Entomology,Herpetology,C
+739,What is the name of the largest rainforest in the world?,Congo Rainforest,Amazon Rainforest,Southeast Asian Rainforest,Daintree Rainforest,B
+740,What type of energy comes from the sun?,Nuclear energy,Geothermal energy,Solar energy,Wind energy,C
+741,What is 'latency' in networking?,The speed of data transfer,The delay in data transfer,The amount of data transferred,The security of the connection,B
+742,What is the name of the most popular open source operating system?,Windows,macOS,UNIX,Linux,D
+743,What is the capital of Honduras?,San Pedro Sula,La Ceiba,Tegucigalpa,Choloma,C
+744,What is the capital of Kazakhstan?,Almaty,Astana,Shymkent,Karaganda,B
+745,What is the name of the body part that produces insulin?,Liver,Kidneys,Stomach,Pancreas,D
+746,What is the capital of Colombia?,Medellín,Cali,Barranquilla,Bogotá,D
+747,What is the name of the change from solid directly to gas?,Evaporation,Sublimation,Condensation,Deposition,B
+748,Who established the Nobel Prize?,Alfred Nobel,Dynamite Nobel,Carl Nobel,Ludwig Nobel,A
+749,What is the name of the study of reptiles and amphibians?,Ornithology,Ichthyology,Herpetology,Entomology,C
+750,What do you call a humorous 5-line poem?,Haiku,Ode,Sonnet,Limerick,D
+751,What is Mario's brother's name in Nintendo games?,Wario,Luigi,Waluigi,Toad,B
+752,How many days are in a leap year?,365,366,367,364,B
+753,What programming language is known for its use of '#include'?,Python,Java,JavaScript,C++,D
+754,What is a baby goat called?,Lamb,Calf,Kid,Foal,C
+755,What does 'VR' stand for?,Virtual Reality,Visual Reality,Verified Reality,Variable Reality,A
+756,What is the name for a play written to be performed?,Novel,Screenplay,Drama/Play,Script,C
+757,What does 'ASAP' stand for?,As Soon As Planned,As Simple As Possible,As Soon As Possible,As Safe As Possible,C
+758,What is the capital of Thailand?,Chiang Mai,Phuket,Bangkok,Pattaya,C
+759,What HTML tag is used to display an image?,<img>,<pic>,<image>,<photo>,A
+760,What is the name of the Roman goddess of love?,Minerva,Juno,Diana,Venus,D
+761,What is the name for the annual movement of animals from one place to another?,Hibernation,Migration,Evolution,Adaptation,B
+762,What is a baby duck called?,Chick,Cygnet,Gosling,Duckling,D
+763,What does 'merci' mean in French?,Hello,Goodbye,Please,Thank you,D
+764,What family of instruments does a drum belong to?,String,Woodwind,Brass,Percussion,D
+765,What is the main ingredient in a margarita?,Vodka,Rum,Tequila,Gin,C
+766,What color do you get when you mix red and yellow?,Purple,Orange,Green,Brown,B
+767,What is the name for the first sentence of an essay designed to grab attention?,Thesis,Topic sentence,Hook,Introduction,C
+768,What is the capital of Zimbabwe?,Bulawayo,Mutare,Gweru,Harare,D
+769,What is the capital of Cuba?,Santiago de Cuba,Havana,Holguín,Camagüey,B
+770,What does 'GB' stand for?,Gigabits,Gigabytes,Giga Bandwidth,Gigablocks,B
+771,In which year did the Berlin Wall fall?,1987,1991,1989,1993,C
+772,What is the symbol for carbon dioxide?,C2O,CO,CO2,C2O2,C
+773,What is the name of the data structure that follows First In First Out?,Stack,Queue,Linked List,Tree,B
+774,What country did pizza originate from?,Greece,Spain,France,Italy,D
+775,What is a 'cache' in computing?,A type of virus,Temporary storage to speed up processes,Encrypted storage,Permanent storage,B
+776,What is the currency of Australia?,New Zealand Dollar,Australian Dollar,Pound,Pacific Dollar,B
+777,What is the deepest ocean trench on Earth?,Puerto Rico Trench,Mariana Trench,Tonga Trench,Philippine Trench,B
+778,What does 'gracias' mean in Spanish?,Hello,Goodbye,Please,Thank you,D
+779,What is the national animal of China?,Tiger,Golden Snub-nosed Monkey,Giant Panda,Red Panda,C
+780,What is the national bird of the United States?,Eagle (Bald Eagle),Hawk,Falcon,Condor,A
+781,What does 'narrator' mean?,The author,The main character,The person telling the story,The villain,C
+782,What is the currency of Russia?,Koruna,Hryvnia,Forint,Ruble,D
+783,What is the name for planting trees to restore forests?,Reforestation,Afforestation,Both A and B are acceptable,Silviculture,C
+784,What is the largest continent?,Asia,Africa,Europe,America,A
+785,What country is Chichen Itza located in?,Guatemala,Belize,Peru,Mexico,D
+786,What is the name of the book that contains all words in a language with their meanings?,Thesaurus,Glossary,Lexicon,Dictionary,D
+787,What is the file extension for HTML files?,.htm or .html,.web,.page,.hypertext,A
+788,What does 'WAN' stand for?,Wide Area Network,Wireless Area Network,Wide Access Network,Wireless Access Network,A
+789,What year was YouTube founded?,2006,2004,2007,2005,D
+790,What is the name of the most prestigious literary award?,Booker Prize,Hugo Award,Pulitzer Prize,Nobel Prize in Literature,D
+791,What does 'konnichiwa' mean in Japanese?,Good morning,Good evening,Hello/Good afternoon,Goodbye,C
+792,What is the most translated book in the world?,Harry Potter,The Quran,The Bible,Don Quixote,C
+793,What is the capital of Ecuador?,Guayaquil,Cuenca,Quito,Manta,C
+794,What is the capital of Sweden?,Gothenburg,Malmö,Uppsala,Stockholm,D
+795,What is the name of the trophy given to the winner of the Super Bowl?,Lombardi Trophy,Vince Trophy,Championship Trophy,Commissioner's Trophy,A
+796,How many zeros are in one thousand?,2,3,4,5,B
+797,What is the capital of Kosovo?,Prizren,Peja,Gjakova,Pristina,D
+798,What is the color of the Incredible Hulk?,Blue,Yellow,Green,Red,C
+799,What is the name for the spacing between individual letters?,Leading,Tracking,Kerning,Gutter,C
+800,What does 'bonjour' mean in French?,Goodbye,Good evening,Thank you,Good day/Hello,D
+801,What is the name for the spacing between lines of text?,Kerning,Tracking,Leading,Gutter,C
+802,In what year did humans first land on the moon?,1965,1967,1971,1969,D
+803,What is the name of the change from liquid to solid?,Melting,Evaporation,Condensation,Freezing,D
+804,What is '4K' resolution also known as?,Full HD,Ultra HD,Super HD,Quad HD,B
+805,What is the name of the field where baseball is played?,Court,Diamond or ballpark,Gridiron,Pitch,B
+806,How many Nobel Prize categories are there?,4,5,6,7,C
+807,What country is the Taj Mahal located in?,Pakistan,Bangladesh,Nepal,India,D
+808,What does 'KB' stand for in file sizes?,Kilobytes,Kilobits,Kilobiads,Kiloblocks,A
+809,What is the approximate population of the world?,6 billion,7 billion,Around 8 billion,10 billion,C
+810,What is the capital of Iraq?,Basra,Mosul,Erbil,Baghdad,D
+811,What does 'SQL' stand for?,Structured Query Language,Standard Query Language,Simplified Query Language,System Query Language,A
+812,What does 'arigatou' mean in Japanese?,Hello,Goodbye,Please,Thank you,D
+813,How long is a standard marathon?,26.2 miles,20 miles,30 km,25 miles,A
+814,What is the capital of Egypt?,Alexandria,Cairo,Luxor,Giza,B
+815,What is a haiku?,A type of novel,A Spanish poem,A Japanese short poem,A type of song,C
+816,Who was the first person to walk on the Moon?,Buzz Aldrin,Yuri Gagarin,Neil Armstrong,John Glenn,C
+817,What is the name of the force that causes objects to fall?,Magnetic force,Friction,Gravity,Normal force,C
+818,What is the capital of Cameroon?,Douala,Garoua,Maroua,Yaoundé,D
+819,What is a monotreme?,A mammal with one horn,A mammal that lays eggs,A mammal with a single tooth,A mammal with one claw,B
+820,What type of food is sushi?,Chinese,Korean,Japanese,Thai,C
+821,In which year did the Titanic sink?,1910,1914,1908,1912,D
+822,What family of instruments does a violin belong to?,Woodwind,Brass,Percussion,String,D
+823,What company makes Photoshop?,Microsoft,Apple,Adobe,Corel,C
+824,How many hours are in a day?,12,20,24,36,C
+825,What is the name of the highest plateau in the world?,Colorado Plateau,Tibetan Plateau,Deccan Plateau,Iranian Plateau,B
+826,What is the process by which plants make food?,Respiration,Digestion,Photosynthesis,Fermentation,C
+827,What does the prefix 'uni-' mean?,One,Two,Three,Many,A
+828,What is a flashback?,Hinting at future events,Describing settings,A scene from the future,A scene from an earlier time inserted into the narrative,D
+829,What nut is used to make marzipan?,Hazelnuts,Cashews,Walnuts,Almonds,D
+830,What is a group of geese called?,Pride,Pack,Gaggle,Flock,C
+831,What is the square root of 16?,3,4,5,6,B
+832,What sound does a cat make?,Woof,Moo,Meow,Oink,C
+833,What is the name of the pet dinosaur in 'The Flintstones'?,Rex,Barney,Dino,Rocky,C
+834,How many years are in a millennium?,100,500,2000,1000,D
+835,What does the prefix 'bi-' mean?,One,Three,Two,Four,C
+836,What is the name of the writing style that records personal experiences in date order?,Blog,Essay,Diary/Journal,Report,C
+837,What does 'namaste' mean in Hindi?,A greeting of respect,Thank you,Goodbye,Please,A
+838,What is the name of the Norse god of mischief?,Thor,Odin,Freyr,Loki,D
+839,What is the name of the scale used to measure earthquake magnitude?,Beaufort scale,Richter scale,Fujita scale,Saffir-Simpson scale,B
+840,What planet is known as the Red Planet?,Jupiter,Venus,Saturn,Mars,D
+841,What is the capital of Kuwait?,Salmiya,Hawalli,Kuwait City,Jahra,C
+842,What is the currency of the United States?,Pound,Euro,Yen,Dollar,D
+843,What is the most popular video streaming platform?,Twitch,Vimeo,Dailymotion,YouTube,D
+844,What is a quarter of 100?,20,30,40,25,D
+845,What is personification?,Comparison using 'like',Exaggeration,Attributing human qualities to non-human things,Play on words,C
+846,What is the square root of 9?,2,3,4,6,B
+847,What type of poem does not rhyme?,Sonnet,Haiku,Limerick,Free verse,D
+848,What is the capital of the Czech Republic?,Brno,Plzeň,Ostrava,Prague,D
+849,What is the name of the most famous sans-serif font?,Times New Roman,Georgia,Helvetica or Arial,Comic Sans,C
+850,What is the symbol for water in chemistry?,HO,H2O,H2O2,OH,B
+851,What is the name of the field where American football is played?,Pitch,Court,Gridiron,Diamond,C
+852,What does 'CMYK' stand for?,Cyan Magenta Yellow Black,Color Matching Yellow Key,Cyan Magenta Yellow Key,Color Mode Yellow Black,C
+853,What does 'vertebrate' mean?,Has no backbone,Has a backbone,Has an exoskeleton,Has multiple spines,B
+854,What is the capital of Guatemala?,Quetzaltenango,Mixco,Villa Nueva,Guatemala City,D
+855,What two colors make orange?,Red and blue,Red and yellow,Yellow and blue,Green and red,B
+856,What is a synonym for 'happy'?,Sad,Angry,Joyful,Tired,C
+857,What is the capital of Nigeria?,Lagos,Abuja,Kano,Port Harcourt,B
+858,What is the file extension for CSS files?,.style,.sheet,.cs,.css,D
+859,What does 'RSVP' stand for in French?,Respond if you please,Respond as soon as possible,Repondez s'il vous plaît,Reply soon very promptly,C
+860,What is recycling?,Throwing away waste,Burning waste for energy,Processing used materials into new products,Burying waste underground,C
+861,What is the name of the fairy tale character who left a glass slipper?,Sleeping Beauty,Snow White,Rapunzel,Cinderella,D
+862,What is the name of the study of numbers?,Algebra,Geometry,Mathematics,Arithmetic,C
+863,What is the name of the process of designing products with the user's needs in mind?,User Interface Design,User Testing,Human-Centered Design,Graphic Design,C
+864,What is the currency of China?,Yen,Yuan,Won,Baht,B
+865,How many stars are on the American flag?,48,49,52,50,D
+866,What is the name of the clownfish in 'Finding Nemo'?,Dory,Marlin,Nemo,Gill,C
+867,What is the name for animals that lay eggs?,Viviparous,Oviparous,Ovoviviparous,Placental,B
+868,In which country was the first Olympic Games held in ancient times?,Italy,Turkey,Egypt,Greece,D
+869,What does 'GHz' stand for?,Gigabytes per Hour,Gigahertz,Giga High Zoom,Gigabyte Hard Zone,B
+870,What is the capital of Denmark?,Aarhus,Odense,Aalborg,Copenhagen,D
+871,What do carnivores eat?,Only plants,Only meat,Both plants and meat,Only fish,B
+872,What is the name of the family in 'The Flintstones'?,Rubble,Flintstone,Slate,Pebble,B
+873,What is the name for the variety of life on Earth?,Ecology,Evolution,Biodiversity,Taxonomy,C
+874,What is the name of the change from gas to liquid?,Evaporation,Freezing,Melting,Condensation,D
+875,What is the capital of Kenya?,Mombasa,Kisumu,Nairobi,Nakuru,C
+876,What is the name for extra material at the end of a book?,Preface,Prologue,Epilogue,Appendix,D
+877,What is the most common language spoken in the world overall?,Spanish,Hindi,Mandarin Chinese,English,D
+878,What type of animal is a penguin?,Mammal,Reptile,Bird,Fish,C
+879,What is the name of the main program file in many languages?,Start file,Main file,Entry point,Index,C
+880,How does the knight move in chess?,In a straight line,Diagonally only,In an L-shape,In any direction one square,C
+881,What is the name of the famous painting of a woman by Vermeer?,Lady with an Ermine,Girl with a Pearl Earring,Portrait of Adele,The Birth of Venus,B
+882,What is a group of bees called?,Colony,Pack,Swarm,Hive,C
+883,What is the capital of Israel?,Tel Aviv,Haifa,Jerusalem,Beer Sheva,C
+884,What is 'two-factor authentication'?,Using two passwords,Verifying identity using two different methods,Logging in twice,Using two devices,B
+885,What is the name of the process of finding and fixing errors in code?,Programming,Compiling,Executing,Debugging,D
+886,What is the name for the text of an opera?,Script,Screenplay,Drama,Libretto,D
+887,What symbol is commonly used for comments in JavaScript?,##,#,<!--,//,D
+888,What country is home to the Tour de France?,Belgium,Italy,Spain,France,D
+889,What country won the first FIFA World Cup in 1930?,Brazil,Argentina,Italy,Uruguay,D
+890,Who created Mickey Mouse?,Jim Henson,Walt Disney,Chuck Jones,Tex Avery,B
+891,What is the name of the most popular version control system?,SVN,Mercurial,Perforce,Git,D
+892,What is the name of the princess in 'Frozen'?,Rapunzel,Cinderella,Elsa,Anna,C
+893,What is a baby kangaroo called?,Pup,Calf,Joey,Kit,C
+894,What is the capital of Lithuania?,Kaunas,Klaipėda,Šiauliai,Vilnius,D
+895,What is the symbol for iron on the periodic table?,Ir,In,Fe,Fr,C
+896,What country is Machu Picchu located in?,Colombia,Chile,Bolivia,Peru,D
+897,What is the capital of Vietnam?,Ho Chi Minh City,Da Nang,Hanoi,Hue,C
+898,What is the name of the study of human societies and culture?,Psychology,Sociology,Anthropology,Philosophy,C
+899,Who wrote 'Pride and Prejudice'?,Charlotte Brontë,Emily Brontë,George Eliot,Jane Austen,D
+900,What is the name for the process of copying data for safety?,Archiving,Mirroring,Compression,Backup,D
+901,What is the capital of Morocco?,Casablanca,Marrakesh,Fez,Rabat,D
+902,What does 'sayonara' mean in Japanese?,Hello,Thank you,Please,Goodbye,D
+903,What is the fear of closed spaces called?,Agoraphobia,Acrophobia,Claustrophobia,Trypophobia,C
+904,Who was the first man in space?,Neil Armstrong,John Glenn,Alan Shepard,Yuri Gagarin,D
+905,What is the name of the writing system used in Japan for borrowed words?,Kanji,Hiragana,Romaji,Katakana,D
+906,What empire was Julius Caesar part of?,Greek,Ottoman,Roman,Persian,C
+907,What is a 'boolean' value?,A decimal number,A text string,A list of values,True or False,D
+908,What does 'second person' point of view mean in writing?,Written from 'I' perspective,Written from 'you' perspective,Written from 'he/she' perspective,Written from 'we' perspective,B
+909,What country is Petra located in?,Saudi Arabia,Israel,Jordan,Egypt,C
+910,Who wrote 'Harry Potter'?,Stephenie Meyer,J.R.R. Tolkien,C.S. Lewis,J.K. Rowling,D
+911,What is the closest planet to the Sun?,Venus,Mercury,Mars,Earth,B
+912,What is the capital of Spain?,Barcelona,Seville,Valencia,Madrid,D
+913,What does 'nein' mean in German?,Yes,Hello,No,Please,C
+914,In which city are the Nobel Prizes awarded (except Peace)?,Geneva,Copenhagen,Oslo,Stockholm,D
+915,What do you call a 14-line poem?,Ode,Haiku,Limerick,Sonnet,D
+916,What do herbivores eat?,Only meat,Both plants and meat,Only plants,Only insects,C
+917,What does 'ML' stand for in technology?,Machine Logic,Multi Learning,Machine Language,Machine Learning,D
+918,What does 'blog' originally stand for?,Basic Log,Broad Log,Web Log,Binary Log,C
+919,What does 'WWW' stand for?,World Wide Web,Wide World Web,World Web Wide,Web World Wide,A
+920,What is the capital of Wales?,Swansea,Cardiff,Newport,Bangor,B
+921,What is the name of the famous Greek hero who traveled through many adventures?,Achilles,Odysseus,Hercules,Perseus,B
+922,What is the capital of Scotland?,Glasgow,Aberdeen,Edinburgh,Dundee,C
+923,What is the term for animals that are active at night?,Diurnal,Crepuscular,Nocturnal,Arboreal,C
+924,What is the name of the Roman king of the gods?,Mars,Neptune,Pluto,Jupiter,D
+925,What is the file extension for a PNG image?,.jpeg,.gif,.png,.bmp,C
+926,What is the capital of Armenia?,Gyumri,Vanadzor,Abovyan,Yerevan,D
+927,What does 'ROI' stand for in business?,Return on Investment,Rate of Interest,Return of Income,Rate on Investment,A
+928,What is the name of the hole in the ozone layer above?,Antarctica,Arctic,Sahara,Amazon,A
+929,What is the decimal number system based on?,Base 2,Base 8,Base 10,Base 16,C
+930,What is a baby bear called?,Pup,Cub,Calf,Kit,B
+931,What social media platform uses a blue bird as its logo (original)?,Facebook,Instagram,Twitter,LinkedIn,C
+932,What does 'HR' stand for in a company context?,Human Resources,Human Relations,Human Rights,Hiring Resources,A
+933,What is the capital of Ivory Coast?,Abidjan,Bouaké,Yamoussoukro,San-Pédro,C
+934,What do you call the list of chapters at the beginning of a book?,Index,Glossary,Table of Contents,Bibliography,C
+935,What season comes after winter?,Autumn,Summer,Spring,"None, it cycles",C
+936,What is the symbol for oxygen gas?,O,O3,O2,2O,C
+937,What is the name of the concluding part of a story?,Climax,Rising action,Exposition,Denouement/Resolution,D
+938,How many fingers does a human have on both hands?,8,9,10,12,C
+939,What is the name for a company's official symbol or design?,Copyright,Brand,Logo,Trademark,C
+940,How many letters are in the Hebrew alphabet?,20,22,24,26,B
+941,What is the capital of Ethiopia?,Dire Dawa,Gondar,Addis Ababa,Mekelle,C
+942,What is the capital of Libya?,Benghazi,Misrata,Tripoli,Tobruk,C
+943,What is the only continent with no native snakes?,Greenland,Iceland,Australia,Antarctica,D
+944,What CSS property changes the background color?,bg-color,background,background-color,back-color,C
+945,What is the surface of the US Open tennis tournament?,Grass,Clay,Hard court,Carpet,C
+946,What is the theme of a story?,The main characters,The setting,The plot summary,The central message or idea,D
+947,In which year was the first iPhone released?,2005,2008,2006,2007,D
+948,What instrument is used to measure wind speed?,Barometer,Anemometer,Thermometer,Hygrometer,B
+949,What is the capital of Azerbaijan?,Ganja,Sumgayit,Lankaran,Baku,D
+950,What does 'podcast' originally stand for?,Public On Demand Cast,iPod + broadcast,Portable On Demand Casting,Personal On Demand Content,B
+951,What is the name of the Greek god of the sea?,Zeus,Hades,Apollo,Poseidon,D
+952,What country is Angkor Wat located in?,Vietnam,Thailand,Laos,Cambodia,D
+953,What is the file extension for an Excel file?,.excl,.xls or .xlsx,.sprsh,.calc,B
+954,In which fictional city does Batman live?,Metropolis,Star City,Central City,Gotham City,D
+955,What is the charge of an electron?,Positive,Negative,No charge,Variable,B
+956,What is the name of the boy who never grows up in J.M. Barrie's story?,Pinocchio,Peter Pan,Tom Sawyer,Oliver Twist,B
+957,What is the name of the award for the best player in the FIFA World Cup?,Golden Boot,Golden Glove,Ballon d'Or,Golden Ball,D
+958,What is the term for animals that live in water?,Terrestrial,Arboreal,Fossorial,Aquatic,D
+959,Who wrote '1984'?,Aldous Huxley,Ray Bradbury,George Orwell,H.G. Wells,C
+960,What is the name for the main idea of a paragraph?,Topic sentence,Thesis statement,Summary,Conclusion,A
+961,What is the world's largest fish?,Great White Shark,Whale Shark,Basking Shark,Manta Ray,B
+962,What is the symbol for lead on the periodic table?,Le,Pb,Ld,La,B
+963,What is the name of the Indian monument built as a mausoleum?,The Red Fort,The Taj Mahal,The Qutub Minar,Humayun's Tomb,B
+964,What does 'MB' stand for?,Megabits,Metabytes,Megabytes,Metabits,C
+965,What is Superman's weakness?,Gold,Silver,Kryptonite,Water,C
+966,How many bits are in a byte?,4,8,16,32,B
+967,What is the capital of Ghana?,Kumasi,Tamale,Cape Coast,Accra,D
+968,What is the capital of the Philippines?,Cebu,Davao,Manila,Quezon City,C
+969,What does 'MP' stand for in camera resolution?,Mega Pictures,Macro Pixels,Mega Pixels,Multi Pictures,C
+970,What color do you get when you mix blue and yellow?,Purple,Brown,Orange,Green,D
+971,What does 'MHz' stand for?,Mega High Zoom,Megabytes per Hour,Megahertz,Multi High Zoom,C
+972,What is the name of the colored part of the eye?,Pupil,Retina,Cornea,Iris,D
+973,What is the capital of Turkey?,Istanbul,Izmir,Ankara,Bursa,C
+974,What is the file extension for a PDF?,.doc,.pdf,.pfd,.pf,B
+975,How many zeros are in one billion?,7,8,9,10,C
+976,What is the main ingredient in guacamole?,Tomato,Avocado,Lime,Onion,B
+977,What does 'UX' stand for in design?,User Xperience,User Experience,User Extension,User Exploration,B
+978,What does 'ad hoc' mean?,Planned,For this specific purpose,General,Repeated,B
+979,What is the name of the speed at which data is transferred over the internet?,Bandwidth,Latency,Ping,Resolution,A
+980,What is the name of the punctuation mark '!'?,Period,Question mark,Exclamation point,Apostrophe,C
+981,What language is spoken in Brazil?,Spanish,French,Portuguese,English,C
+982,What continent is Egypt in?,Asia,Europe,Africa,Middle East,C
+983,What is hyperbole?,Understatement,Exaggeration for effect,A comparison,A play on words,B
+984,What is the name of Cinderella's prince?,Prince Eric,Prince Phillip,Prince Adam,Prince Charming,D
+985,What year was Twitter founded?,2007,2005,2008,2006,D
+986,What is the name of the physical connection that provides the fastest internet?,Wi-Fi,Satellite,Bluetooth,Ethernet/Fiber,D
+987,What does 'invertebrate' mean?,Has a backbone,Has a partial backbone,Has an exoskeleton,Has no backbone,D
+988,How many players are on a team in American football on the field?,10,9,12,11,D
+989,What instrument does a pianist play?,Violin,Cello,Piano,Harp,C
+990,What is the Roman numeral for 5?,I,X,IV,V,D
+991,What is the capital of Mexico?,Guadalajara,Monterrey,Mexico City,Puebla,C
+992,What is a young cow called?,Foal,Calf,Lamb,Piglet,B
+993,"In cricket, how many balls are in an over?",4,5,6,8,C
+994,What is the name of the color model used for screens?,CMYK,HSL,Pantone,RGB,D
+995,What does 'allegro' mean in music tempo?,Slow,Medium,Very slow,Fast,D
+996,What is the name of the study of languages?,Sociology,Linguistics,Philology,Etymology,B
+997,What country is the Kremlin located in?,Ukraine,Belarus,Poland,Russia,D
+998,What does 'DIY' stand for?,Do It Yourself,Do It Yesterday,Design It Yourself,Done In a Year,A
+999,What type of animal is a snake?,Amphibian,Mammal,Reptile,Insect,C
+1000,What is the charge of a neutron?,Positive,Negative,No charge,Variable,C
